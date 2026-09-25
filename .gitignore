@@ -1,0 +1,7 @@
+# Participant layers must never be published here. Household coordinates
+# reverse-geocode to a street address, so they are identified data.
+participants*
+*participant*
+customers*
+properties*
+*.csv
