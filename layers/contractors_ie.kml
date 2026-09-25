@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Contractors: HES-IE / income eligible</name>
+    <description>Generated 2026-09-25 04:56 EDT from Airtable Contractors copy / Income eligible map. Do not edit by hand.</description>
+    <Style id="pt">
+      <IconStyle>
+        <color>ffd08228</color>
+        <colorMode>normal</colorMode>
+        <scale>0.7</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Placemark>
+      <name>CMC Energy Services</name>
+      <description><![CDATA[Business Name: CMC Energy Services<br>Town: Wallingford<br>Phone: (888) 403-3500 Sue 203-294-9677<br>Services: HES, HES/IE, Aeroseal, Duct clean]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.7892291,41.4908228,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>CT Weatherproof Insulation</name>
+      <description><![CDATA[Business Name: CT Weatherproof Insulation<br>Town: Fairfield<br>Phone:  203-813-1597<br>Services: HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.23927429999999,41.1627712,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Direct Home Services</name>
+      <description><![CDATA[Business Name: Direct Home Services<br>Town: Durham<br>Phone: (860) 352-1017<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.7189264,41.4677575,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>EcoSmart Home Services</name>
+      <description><![CDATA[Business Name: EcoSmart Home Services<br>Town: East Berlin<br>Phone: (860) 828-6626<br>Services: HES, HES/IE, Attic, GSHP, PV, Storage, EV]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.72257929999999,41.6216322,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Energy Efficiencies Solutions</name>
+      <description><![CDATA[Business Name: Energy Efficiencies Solutions<br>Town: Windsor<br>Phone: 860-580-9076<br>Services: HES, HES/IE, Attic]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.6381878,41.8610328,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Environmental Contracting &amp; Demolition, LLC</name>
+      <description><![CDATA[Business Name: Environmental Contracting & Demolition, LLC<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.0402663,41.5478192,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Home Comfort Practice</name>
+      <description><![CDATA[Business Name: Home Comfort Practice<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.1446346,41.1740115,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>HE Energy Solutions</name>
+      <description><![CDATA[Business Name: HE Energy Solutions<br>Town: Stratford<br>Phone: 203-307-5395<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.1384999,41.1965699,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Home Doctor of America</name>
+      <description><![CDATA[Business Name: Home Doctor of America<br>Town:  Sandy Hook<br>Phone: (203) 405-3040<br>Services: HES, HES/IE, Aeroseal]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.2387229,41.3825825,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>InstaPlumbing</name>
+      <description><![CDATA[Business Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumb, DHW, DHW/IE]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.991674,41.58995729999999,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Peter Kupchick Heating&amp;Cooling Inc.</name>
+      <description><![CDATA[Business Name: Peter Kupchick Heating&Cooling Inc.<br>Town: Fairfield<br>Phone: (203) 259-9787<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.2487913,41.1829079,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lantern Energy</name>
+      <description><![CDATA[Business Name: Lantern Energy<br>Town: Glastonbury<br>Phone: 1 877-878-3006<br>Services: HES, HES/IE, Attic, Aeroseal]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.57763489999999,41.71089629999999,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>New England Smart Energy Group, LLC</name>
+      <description><![CDATA[Business Name: New England Smart Energy Group, LLC<br>Town: Fairfield<br>Phone: (203) 292-8088, 203-292-9655<br>Services: HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.23927429999999,41.1627712,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>New England Conservation Services, LLC (now Posigen)</name>
+      <description><![CDATA[Business Name: New England Conservation Services, LLC (now Posigen)<br>Town: Bridgeport<br>Phone: 2033897077 HES/HESIE<br>Services: HES, HES/IE, Attic, PV, Storage]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.15620899999999,41.1857584,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>PosiGen</name>
+      <description><![CDATA[Business Name: PosiGen<br>Town: Bridgeport<br>Phone: 1 866-767-4436 Solar, (203)389-7077 project<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, PV, Storage]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.156116,41.185814,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Raps Plumbing &amp; Heating Inc.</name>
+      <description><![CDATA[Business Name: Raps Plumbing & Heating Inc.<br>Town: Milford<br>Phone: (203) 876-1212<br>Services: Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.03040039999999,41.2303106,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tracey Energy Services LLC</name>
+      <description><![CDATA[Business Name: Tracey Energy Services LLC<br>Town: New Haven<br>Phone: (203) 777-5747<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.93174379999999,41.2900854,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Valiant Energy Solutions</name>
+      <description><![CDATA[Business Name: Valiant Energy Solutions<br>Town: Waterbury<br>Phone: (866) 707-1625<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Aeroseal, Duct clean, Controls, Elect, K&T]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.04046740000001,41.5395924,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

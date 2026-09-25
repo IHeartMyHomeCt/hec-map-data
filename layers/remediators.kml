@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Health and safety remediators</name>
+    <description>Generated 2026-09-25 04:56 EDT from Airtable Contractors copy / Health and safety remediators. Do not edit by hand.</description>
+    <Style id="pt">
+      <IconStyle>
+        <color>ffb4237c</color>
+        <colorMode>normal</colorMode>
+        <scale>0.7</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Placemark>
+      <name>Alberca Contruction</name>
+      <description><![CDATA[Business Name: Alberca Contruction<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: ALM, Mold]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.4760546,41.7493828,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Amp&apos;d Enterprises</name>
+      <description><![CDATA[Business Name: Amp'd Enterprises<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Duct clean, Mold]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.76963669999999,41.3043115,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Charles Abatement, LLC</name>
+      <description><![CDATA[Business Name: Charles Abatement, LLC<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: ALM]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.93278649999999,41.3247815,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Charter Oak</name>
+      <description><![CDATA[Business Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: ALM, Lead, Mold]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.020499,41.2298847,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>CPM Environmental</name>
+      <description><![CDATA[Business Name: CPM Environmental<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: ALM, Mold]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.1146048,41.4659556,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Environmental Group Inc.</name>
+      <description><![CDATA[Business Name: Environmental Group Inc.<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: ALM, Mold, VRM]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.63316019999999,41.5509511,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Environmental Contracting &amp; Demolition, LLC</name>
+      <description><![CDATA[Business Name: Environmental Contracting & Demolition, LLC<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.0402663,41.5478192,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Home Comfort Practice</name>
+      <description><![CDATA[Business Name: Home Comfort Practice<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.1446346,41.1740115,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Talevi Enterprises Inc</name>
+      <description><![CDATA[Business Name: Talevi Enterprises Inc<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: ALM, Lead, Mold]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.743006,41.6159617,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Winchester Environmental</name>
+      <description><![CDATA[Business Name: Winchester Environmental<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: ALM, Mold, VRM]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.9279152,41.3198346,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
