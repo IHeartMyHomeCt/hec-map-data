@@ -49,12 +49,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Aeroseal",
-          "Duct clean"
-        ]
+        "services": "HES, HES/IE, Aeroseal, Duct clean"
       }
     },
     {
@@ -105,18 +100,7 @@
         "service_wall_ie": "No",
         "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Windows",
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE"
-        ]
+        "services": "HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
       }
     },
     {
@@ -167,15 +151,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE",
-          "Controls"
-        ]
+        "services": "DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls"
       }
     },
     {
@@ -226,15 +202,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "GSHP",
-          "PV",
-          "Storage",
-          "EV"
-        ]
+        "services": "HES, HES/IE, Attic, GSHP, PV, Storage, EV"
       }
     },
     {
@@ -285,11 +253,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic"
-        ]
+        "services": "HES, HES/IE, Attic"
       }
     },
     {
@@ -340,11 +304,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold",
-          "VRM"
-        ]
+        "services": "ALM, Mold, VRM"
       }
     },
     {
@@ -395,24 +355,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "Yes",
         "service_windows_ie": "Yes",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Attic/IE",
-          "Bsmt",
-          "Bsmt/IE",
-          "Wall",
-          "Wall/IE",
-          "Windows",
-          "Windows/IE",
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE"
-        ]
+        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
       }
     },
     {
@@ -463,25 +406,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "Yes",
         "service_windows_ie": "Yes",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Attic/IE",
-          "Bsmt",
-          "Bsmt/IE",
-          "Wall",
-          "Wall/IE",
-          "Windows",
-          "Windows/IE",
-          "Plumb",
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE"
-        ]
+        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
       }
     },
     {
@@ -532,11 +457,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Aeroseal"
-        ]
+        "services": "HES, HES/IE, Aeroseal"
       }
     },
     {
@@ -587,11 +508,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Plumb",
-          "DHW",
-          "DHW/IE"
-        ]
+        "services": "Plumb, DHW, DHW/IE"
       }
     },
     {
@@ -642,14 +559,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE"
-        ]
+        "services": "DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
       }
     },
     {
@@ -700,12 +610,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Aeroseal"
-        ]
+        "services": "HES, HES/IE, Attic, Aeroseal"
       }
     },
     {
@@ -756,18 +661,7 @@
         "service_wall_ie": "No",
         "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Windows",
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE"
-        ]
+        "services": "HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
       }
     },
     {
@@ -817,13 +711,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "PV",
-          "Storage"
-        ]
+        "services": "HES, HES/IE, Attic, PV, Storage"
       }
     },
     {
@@ -874,18 +762,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Attic/IE",
-          "Bsmt",
-          "Bsmt/IE",
-          "Wall",
-          "Wall/IE",
-          "PV",
-          "Storage"
-        ]
+        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, PV, Storage"
       }
     },
     {
@@ -936,15 +813,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Plumb",
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE"
-        ]
+        "services": "Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
       }
     },
     {
@@ -995,15 +864,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE",
-          "Controls"
-        ]
+        "services": "DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls"
       }
     },
     {
@@ -1054,30 +915,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "Yes",
         "service_windows_ie": "Yes",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Attic/IE",
-          "Bsmt",
-          "Bsmt/IE",
-          "Wall",
-          "Wall/IE",
-          "Windows",
-          "Windows/IE",
-          "Plumb",
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE",
-          "Aeroseal",
-          "Duct clean",
-          "Controls",
-          "Elect",
-          "K&T"
-        ]
+        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Aeroseal, Duct clean, Controls, Elect, K&T"
       }
     }
   ]
