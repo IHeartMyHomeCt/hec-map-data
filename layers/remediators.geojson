@@ -49,10 +49,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold"
-        ]
+        "services": "ALM, Mold"
       }
     },
     {
@@ -103,10 +100,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Duct clean",
-          "Mold"
-        ]
+        "services": "Duct clean, Mold"
       }
     },
     {
@@ -157,9 +151,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM"
-        ]
+        "services": "ALM"
       }
     },
     {
@@ -210,11 +202,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Lead",
-          "Mold"
-        ]
+        "services": "ALM, Lead, Mold"
       }
     },
     {
@@ -265,10 +253,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold"
-        ]
+        "services": "ALM, Mold"
       }
     },
     {
@@ -319,11 +304,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold",
-          "VRM"
-        ]
+        "services": "ALM, Mold, VRM"
       }
     },
     {
@@ -374,11 +355,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold",
-          "VRM"
-        ]
+        "services": "ALM, Mold, VRM"
       }
     },
     {
@@ -429,24 +406,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "Yes",
         "service_windows_ie": "Yes",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Attic/IE",
-          "Bsmt",
-          "Bsmt/IE",
-          "Wall",
-          "Wall/IE",
-          "Windows",
-          "Windows/IE",
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE"
-        ]
+        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
       }
     },
     {
@@ -497,11 +457,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Lead",
-          "Mold"
-        ]
+        "services": "ALM, Lead, Mold"
       }
     },
     {
@@ -552,11 +508,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold",
-          "VRM"
-        ]
+        "services": "ALM, Mold, VRM"
       }
     }
   ]
