@@ -48,11 +48,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -103,9 +99,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect"
-        ]
+        "services": "Elect"
       }
     },
     {
@@ -156,10 +150,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat"
-        ]
+        "services": "DHW, Heat"
       }
     },
     {
@@ -210,11 +201,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -265,11 +252,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -319,9 +302,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Roof"
-        ]
+        "services": "Roof"
       }
     },
     {
@@ -472,11 +453,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -527,9 +504,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -580,11 +555,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -635,9 +606,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -688,12 +657,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "HES, DHW, Heat, Cool"
       }
     },
     {
@@ -744,11 +708,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -799,11 +759,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -854,10 +810,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold"
-        ]
+        "services": "ALM, Mold"
       }
     },
     {
@@ -908,12 +861,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Plumb",
-          "Heat",
-          "Cool",
-          "Duct clean"
-        ]
+        "services": "Plumb, Heat, Cool, Duct clean"
       }
     },
     {
@@ -964,11 +912,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1019,10 +963,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Duct clean",
-          "Mold"
-        ]
+        "services": "Duct clean, Mold"
       }
     },
     {
@@ -1073,11 +1014,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1128,11 +1065,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1182,9 +1115,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Attic"
-        ]
+        "services": "Attic"
       }
     },
     {
@@ -1234,11 +1165,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1289,11 +1216,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1344,9 +1267,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Roof"
-        ]
+        "services": "Roof"
       }
     },
     {
@@ -1397,13 +1318,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Plumb",
-          "DHW",
-          "Heat",
-          "Cool",
-          "Duct clean"
-        ]
+        "services": "Plumb, DHW, Heat, Cool, Duct clean"
       }
     },
     {
@@ -1504,10 +1419,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Plumb",
-          "Heat"
-        ]
+        "services": "Plumb, Heat"
       }
     },
     {
@@ -1557,11 +1469,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1611,11 +1519,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1666,11 +1570,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1721,9 +1621,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM"
-        ]
+        "services": "ALM"
       }
     },
     {
@@ -1774,11 +1672,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Lead",
-          "Mold"
-        ]
+        "services": "ALM, Lead, Mold"
       }
     },
     {
@@ -1829,11 +1723,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1884,11 +1774,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -1939,10 +1825,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV",
-          "Storage"
-        ]
+        "services": "PV, Storage"
       }
     },
     {
@@ -1993,11 +1876,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -2048,10 +1927,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Aeroseal",
-          "Duct clean"
-        ]
+        "services": "Aeroseal, Duct clean"
       }
     },
     {
@@ -2102,11 +1978,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -2157,10 +2029,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold"
-        ]
+        "services": "ALM, Mold"
       }
     },
     {
@@ -2211,11 +2080,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -2316,10 +2181,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "Attic"
-        ]
+        "services": "HES, Attic"
       }
     },
     {
@@ -2369,11 +2231,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -2424,11 +2282,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -2479,11 +2333,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -2533,9 +2383,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Roof"
-        ]
+        "services": "Roof"
       }
     },
     {
@@ -2586,15 +2434,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE",
-          "Controls"
-        ]
+        "services": "DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls"
       }
     },
     {
@@ -2644,11 +2484,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -2746,9 +2582,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect"
-        ]
+        "services": "Elect"
       }
     },
     {
@@ -2799,10 +2633,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat"
-        ]
+        "services": "DHW, Heat"
       }
     },
     {
@@ -2853,10 +2684,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV",
-          "Storage"
-        ]
+        "services": "PV, Storage"
       }
     },
     {
@@ -2907,11 +2735,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold",
-          "VRM"
-        ]
+        "services": "ALM, Mold, VRM"
       }
     },
     {
@@ -2962,12 +2786,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "Attic",
-          "Bsmt",
-          "Wall"
-        ]
+        "services": "HES, Attic, Bsmt, Wall"
       }
     },
     {
@@ -3018,11 +2837,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -3073,11 +2888,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold",
-          "VRM"
-        ]
+        "services": "ALM, Mold, VRM"
       }
     },
     {
@@ -3127,9 +2938,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES"
-        ]
+        "services": "HES"
       }
     },
     {
@@ -3180,11 +2989,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -3235,11 +3040,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -3290,9 +3091,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect"
-        ]
+        "services": "Elect"
       }
     },
     {
@@ -3343,11 +3142,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -3446,11 +3241,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -3501,11 +3292,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -3555,11 +3342,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -3610,9 +3393,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect"
-        ]
+        "services": "Elect"
       }
     },
     {
@@ -3713,11 +3494,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV",
-          "Storage",
-          "Elect"
-        ]
+        "services": "PV, Storage, Elect"
       }
     },
     {
@@ -3768,9 +3545,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -3821,11 +3596,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -3876,10 +3647,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Handy",
-          "Other"
-        ]
+        "services": "Handy, Other"
       }
     },
     {
@@ -3930,12 +3698,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool",
-          "GSHP"
-        ]
+        "services": "DHW, Heat, Cool, GSHP"
       }
     },
     {
@@ -3985,9 +3748,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES"
-        ]
+        "services": "HES"
       }
     },
     {
@@ -4038,11 +3799,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4093,11 +3850,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4198,11 +3951,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4253,11 +4002,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Plumb",
-          "DHW",
-          "DHW/IE"
-        ]
+        "services": "Plumb, DHW, DHW/IE"
       }
     },
     {
@@ -4308,9 +4053,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -4360,11 +4103,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4415,9 +4154,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect"
-        ]
+        "services": "Elect"
       }
     },
     {
@@ -4468,11 +4205,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4522,11 +4255,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4576,11 +4305,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4631,11 +4356,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4686,9 +4407,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect"
-        ]
+        "services": "Elect"
       }
     },
     {
@@ -4739,11 +4458,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4793,11 +4508,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4848,11 +4559,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -4903,9 +4610,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect"
-        ]
+        "services": "Elect"
       }
     },
     {
@@ -5006,10 +4711,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect",
-          "EV"
-        ]
+        "services": "Elect, EV"
       }
     },
     {
@@ -5060,11 +4762,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -5115,11 +4813,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -5218,11 +4912,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -5273,9 +4963,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Duct clean"
-        ]
+        "services": "Duct clean"
       }
     },
     {
@@ -5326,9 +5014,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Roof"
-        ]
+        "services": "Roof"
       }
     },
     {
@@ -5426,9 +5112,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Roof"
-        ]
+        "services": "Roof"
       }
     },
     {
@@ -5479,9 +5163,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Roof"
-        ]
+        "services": "Roof"
       }
     },
     {
@@ -5531,13 +5213,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "PV",
-          "Storage"
-        ]
+        "services": "HES, HES/IE, Attic, PV, Storage"
       }
     },
     {
@@ -5588,11 +5264,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "Bsmt",
-          "Duct clean"
-        ]
+        "services": "HES, Bsmt, Duct clean"
       }
     },
     {
@@ -5691,11 +5363,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -5746,10 +5414,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV",
-          "Storage"
-        ]
+        "services": "PV, Storage"
       }
     },
     {
@@ -5800,11 +5465,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -5854,11 +5515,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -5958,11 +5615,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6013,9 +5666,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Roof"
-        ]
+        "services": "Roof"
       }
     },
     {
@@ -6066,10 +5717,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Heat",
-          "Cool"
-        ]
+        "services": "Heat, Cool"
       }
     },
     {
@@ -6120,18 +5768,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "HES",
-          "HES/IE",
-          "Attic",
-          "Attic/IE",
-          "Bsmt",
-          "Bsmt/IE",
-          "Wall",
-          "Wall/IE",
-          "PV",
-          "Storage"
-        ]
+        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, PV, Storage"
       }
     },
     {
@@ -6232,11 +5869,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6287,11 +5920,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6342,10 +5971,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV",
-          "Storage"
-        ]
+        "services": "PV, Storage"
       }
     },
     {
@@ -6395,11 +6021,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6499,11 +6121,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6554,9 +6172,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -6607,11 +6223,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6662,9 +6274,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -6715,11 +6325,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6770,11 +6376,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6825,11 +6427,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6880,11 +6478,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6934,11 +6528,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -6988,11 +6578,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -7043,13 +6629,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Plumb",
-          "DHW",
-          "Heat",
-          "Cool",
-          "Elect"
-        ]
+        "services": "Plumb, DHW, Heat, Cool, Elect"
       }
     },
     {
@@ -7100,11 +6680,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -7154,9 +6730,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -7206,11 +6780,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -7260,9 +6830,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -7313,9 +6881,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -7366,11 +6932,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Lead",
-          "Mold"
-        ]
+        "services": "ALM, Lead, Mold"
       }
     },
     {
@@ -7421,13 +6983,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Attic",
-          "DHW",
-          "Heat",
-          "Cool",
-          "PV"
-        ]
+        "services": "Attic, DHW, Heat, Cool, PV"
       }
     },
     {
@@ -7528,11 +7084,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -7583,15 +7135,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "DHW/IE",
-          "Heat",
-          "Heat/IE",
-          "Cool",
-          "Cool/IE",
-          "Controls"
-        ]
+        "services": "DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls"
       }
     },
     {
@@ -7642,10 +7186,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect",
-          "K&T"
-        ]
+        "services": "Elect, K&T"
       }
     },
     {
@@ -7696,9 +7237,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV"
-        ]
+        "services": "PV"
       }
     },
     {
@@ -7748,11 +7287,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -7853,10 +7388,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat"
-        ]
+        "services": "DHW, Heat"
       }
     },
     {
@@ -7907,11 +7439,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -7961,11 +7489,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -8016,9 +7540,7 @@
         "service_wall_ie": "No",
         "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": [
-          "Windows"
-        ]
+        "services": "Windows"
       }
     },
     {
@@ -8069,13 +7591,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Plumb",
-          "DHW",
-          "Heat",
-          "Cool",
-          "Duct clean"
-        ]
+        "services": "Plumb, DHW, Heat, Cool, Duct clean"
       }
     },
     {
@@ -8126,10 +7642,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "PV",
-          "Storage"
-        ]
+        "services": "PV, Storage"
       }
     },
     {
@@ -8180,11 +7693,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "DHW",
-          "Heat",
-          "Cool"
-        ]
+        "services": "DHW, Heat, Cool"
       }
     },
     {
@@ -8235,9 +7744,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "Elect"
-        ]
+        "services": "Elect"
       }
     },
     {
@@ -8288,11 +7795,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": [
-          "ALM",
-          "Mold",
-          "VRM"
-        ]
+        "services": "ALM, Mold, VRM"
       }
     },
     {
@@ -8343,9 +7846,7 @@
         "service_wall_ie": "No",
         "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": [
-          "Windows"
-        ]
+        "services": "Windows"
       }
     }
   ]
