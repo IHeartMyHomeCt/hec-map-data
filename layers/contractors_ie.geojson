@@ -1,0 +1,526 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.791152617078,
+          41.491245605985
+        ]
+      },
+      "properties": {
+        "name": "CMC Energy Services",
+        "description": "Display Name: CMC<br>Town: Wallingford<br>Phone: (888) 403-3500<br>Services: HES, HES/IE, Aeroseal, Duct clean",
+        "business_name": "CMC",
+        "address": "4 Tower Drive Wallingford CT 06492",
+        "town": "Wallingford",
+        "phone": "(888) 403-3500",
+        "website": "http://www.cmcenergy.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Aeroseal",
+          "Duct clean"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.239144784075,
+          41.162562142701
+        ]
+      },
+      "properties": {
+        "name": "CT Weatherproof Insulation",
+        "description": "Display Name: CWI<br>Town: Fairfield<br>Phone:  203-813-1597<br>Services: HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "business_name": "CWI",
+        "address": "418 Meadow Street Fairfield CT 06824",
+        "town": "Fairfield",
+        "phone": "203-813-1597",
+        "website": "https://weatherproofinsulation.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Windows",
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.715159196465,
+          41.470891862367
+        ]
+      },
+      "properties": {
+        "name": "Direct Home Services",
+        "description": "Display Name: Direct Home<br>Town: Durham<br>Phone: (860) 352-1017<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls",
+        "business_name": "Direct Home",
+        "address": "57 Ozick Dr Durham CT 06422",
+        "town": "Durham",
+        "phone": "(860) 352-1017",
+        "website": "https://directhomecanhelp.com/contact-us/",
+        "services": [
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE",
+          "Controls"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.719672019821,
+          41.621993958932
+        ]
+      },
+      "properties": {
+        "name": "EcoSmart Home Services",
+        "description": "Display Name: EcoSmart<br>Town: East Berlin<br>Phone: (860) 828-6626<br>Services: HES, HES/IE, Attic, GSHP, PV, Storage, EV",
+        "business_name": "EcoSmart",
+        "address": "105A Clark Drive East Berlin CT 06023",
+        "town": "East Berlin",
+        "phone": "(860) 828-6626",
+        "website": "https://www.ecosmartct.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "GSHP",
+          "PV",
+          "Storage",
+          "EV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.638779410647,
+          41.860837280193
+        ]
+      },
+      "properties": {
+        "name": "Energy Efficiencies Solutions",
+        "description": "Display Name: EES<br>Town: Windsor<br>Phone: 860-580-9076<br>Services: HES, HES/IE, Attic",
+        "business_name": "EES",
+        "address": "398 Palisado Avenue Windsor CT 06095",
+        "town": "Windsor",
+        "phone": "860-580-9076",
+        "website": "https://eesgogreen.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.039700945214,
+          41.547739819888
+        ]
+      },
+      "properties": {
+        "name": "Environmental Contracting & Demolition, LLC",
+        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM",
+        "business_name": "ENCO",
+        "address": "70 West Liberty Street Waterbury CT 06706",
+        "town": "Waterbury",
+        "phone": "cell preferred# 203-627-5341 203-754-5959 office",
+        "website": "https://www.encoct.com",
+        "services": [
+          "ALM",
+          "Mold",
+          "VRM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.144407759038,
+          41.1737297112
+        ]
+      },
+      "properties": {
+        "name": "Home Comfort Practice",
+        "description": "Display Name: HCP<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "business_name": "HCP",
+        "address": "165 Benton St Stratford CT 06615",
+        "town": "Stratford",
+        "phone": "(203) 450-3000",
+        "website": "https://www.homecomfortpractice.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Attic/IE",
+          "Bsmt",
+          "Bsmt/IE",
+          "Wall",
+          "Wall/IE",
+          "Windows",
+          "Windows/IE",
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.138784861069,
+          41.196367044786
+        ]
+      },
+      "properties": {
+        "name": "Handyman Express Energy Solutions",
+        "description": "Display Name: HE Soln<br>Town: Stratford<br>Phone: 203-307-5395<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "business_name": "HE Soln",
+        "address": "1414 Barnum Ave. Stratford CT 06614",
+        "town": "Stratford",
+        "phone": "203-307-5395",
+        "website": "http://he-energysolutions.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Attic/IE",
+          "Bsmt",
+          "Bsmt/IE",
+          "Wall",
+          "Wall/IE",
+          "Windows",
+          "Windows/IE",
+          "Plumb",
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.240434531066,
+          41.38394602865
+        ]
+      },
+      "properties": {
+        "name": "Home Doctor of America",
+        "description": "Display Name: Home Doctor<br>Town:  Sandy Hook<br>Phone: (203) 405-3040<br>Services: HES, HES/IE, Aeroseal",
+        "business_name": "Home Doctor",
+        "address": "15 New Lebbon Rd Sandy Hook CT 06482",
+        "town": "Sandy Hook",
+        "phone": "(203) 405-3040",
+        "website": "https://homedoctorofamerica.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Aeroseal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.990742946113,
+          41.59034979437
+        ]
+      },
+      "properties": {
+        "name": "InstaPlumbing",
+        "description": "Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumb, DHW, DHW/IE",
+        "business_name": "InstaPlumbing",
+        "address": "421 Wolcott Rd. Wolcott CT 06717",
+        "town": "Wolcott",
+        "phone": "203-632-9296; 203.632.8891",
+        "website": "https://www.instaplumbing.com/",
+        "services": [
+          "Plumb",
+          "DHW",
+          "DHW/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.248771199592,
+          41.183070513602
+        ]
+      },
+      "properties": {
+        "name": "Peter Kupchick Heating&Cooling Inc.",
+        "description": "Display Name: Kupchick<br>Town: Fairfield<br>Phone: (203) 259-9787<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "business_name": "Kupchick",
+        "address": "213 Farist Rd Fairfield CT 06825",
+        "town": "Fairfield",
+        "phone": "(203) 259-9787",
+        "website": "https://www.fairfieldheatingcooling.com",
+        "services": [
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.579797241888,
+          41.711536660583
+        ]
+      },
+      "properties": {
+        "name": "Lantern Energy",
+        "description": "Display Name: Lantern Energy<br>Town: Glastonbury<br>Phone: (877) 878-3006 x109<br>Services: HES, HES/IE, Attic, Aeroseal",
+        "business_name": "Lantern Energy",
+        "address": "256 Oakwood Drive Glastonbury CT 06033",
+        "town": "Glastonbury",
+        "phone": "(877) 878-3006 x109",
+        "website": "http://www.lanternenergy.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Aeroseal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.239144784075,
+          41.162562142701
+        ]
+      },
+      "properties": {
+        "name": "New England Smart Energy Group, LLC",
+        "description": "Display Name: NE-SEG<br>Town: Fairfield<br>Phone: (203) 292-8088, 203-292-9655<br>Services: HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "business_name": "NE-SEG",
+        "address": "418 Meadow Street Fairfield CT 06824",
+        "town": "Fairfield",
+        "phone": "(203) 292-8088, 203-292-9655",
+        "website": "http://www.ne-smartenergy.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Windows",
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.156767709758,
+          41.185892188166
+        ]
+      },
+      "properties": {
+        "name": "New England Conservation Services, LLC (now Posigen)",
+        "description": "Display Name: NECS<br>Town: Bridgeport<br>Phone: 2033897077 HES/HESIE<br>Services: HES, HES/IE, Attic, PV, Storage",
+        "business_name": "NECS",
+        "address": "304 Bishop Ave. Bridgeport CT 06610",
+        "town": "Bridgeport",
+        "phone": "2033897077 HES/HESIE",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.156767709758,
+          41.185892188166
+        ]
+      },
+      "properties": {
+        "name": "PosiGen",
+        "description": "Display Name: Posigen<br>Town: Bridgeport<br>Phone: 1 866-767-4436 Solar, (203)389-7077 project<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, PV, Storage",
+        "business_name": "Posigen",
+        "address": "304 Bishop Ave. 1 Fl. Bridgeport CT 06610",
+        "town": "Bridgeport",
+        "phone": "1 866-767-4436 Solar, (203)389-7077 project",
+        "website": "http://www.posigen.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Attic/IE",
+          "Bsmt",
+          "Bsmt/IE",
+          "Wall",
+          "Wall/IE",
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.030377125124,
+          41.230196524939
+        ]
+      },
+      "properties": {
+        "name": "Raps Plumbing & Heating Inc.",
+        "description": "Display Name: RAPS<br>Town: Milford<br>Phone: (203) 876-1212<br>Services: Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "business_name": "RAPS",
+        "address": "152 Old Gate Lane Milford CT 06460",
+        "town": "Milford",
+        "phone": "(203) 876-1212",
+        "website": "https://www.rapsplumbing.com",
+        "services": [
+          "Plumb",
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.931941876969,
+          41.28994680137
+        ]
+      },
+      "properties": {
+        "name": "Tracey Energy Services LLC",
+        "description": "Display Name: Tracey<br>Town: New Haven<br>Phone: (203) 777-5747<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls",
+        "business_name": "Tracey",
+        "address": "325 Howard Avenue New Haven CT 06519",
+        "town": "New Haven",
+        "phone": "(203) 777-5747",
+        "website": "https://traceyenergy.com/",
+        "services": [
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE",
+          "Controls"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.040791644124,
+          41.539708842908
+        ]
+      },
+      "properties": {
+        "name": "Valiant Energy Solutions",
+        "description": "Display Name: Valiant<br>Town: Waterbury<br>Phone: (866) 707-1625<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Aeroseal, Duct clean, Controls, Elect, K&T",
+        "business_name": "Valiant",
+        "address": "165 Railroad Hill St Waterbury CT 06708",
+        "town": "Waterbury",
+        "phone": "(866) 707-1625",
+        "website": "https://valiantenergy.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Attic/IE",
+          "Bsmt",
+          "Bsmt/IE",
+          "Wall",
+          "Wall/IE",
+          "Windows",
+          "Windows/IE",
+          "Plumb",
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE",
+          "Aeroseal",
+          "Duct clean",
+          "Controls",
+          "Elect",
+          "K&T"
+        ]
+      }
+    }
+  ]
+}
