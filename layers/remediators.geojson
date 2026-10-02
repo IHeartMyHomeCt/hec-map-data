@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.475596758528,
+          41.750262291492
+        ]
+      },
+      "properties": {
+        "name": "Alberca Contruction",
+        "description": "Display Name: Alberca<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: ALM, Mold",
+        "business_name": "Alberca",
+        "address": "79 High Ledge Cir Manchester CT 06040",
+        "town": "Manchester",
+        "phone": "(860) 783-6099 (860) 869-8270",
+        "website": "http://alberca-construction.com",
+        "services": [
+          "ALM",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.77046,
+          41.30392
+        ]
+      },
+      "properties": {
+        "name": "Amp'd Enterprises",
+        "description": "Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Duct clean, Mold",
+        "business_name": "Amp'd",
+        "address": "3 Reseearch Dr Branford CT 06405",
+        "town": "Branford",
+        "phone": "800-924.2247",
+        "website": "https://www.ampdct.com/",
+        "services": [
+          "Duct clean",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.933979916859,
+          41.324378742893
+        ]
+      },
+      "properties": {
+        "name": "Charles Abatement, LLC",
+        "description": "Display Name: Charles<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: ALM",
+        "business_name": "Charles",
+        "address": "91 Shelton Avenue New Haven CT 06511",
+        "town": "New Haven",
+        "phone": "(203) 868 - 5900",
+        "website": "http://www.charlesabatement.com",
+        "services": [
+          "ALM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.022941563365,
+          41.228660129296
+        ]
+      },
+      "properties": {
+        "name": "Charter Oak",
+        "description": "Display Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: ALM, Lead, Mold",
+        "business_name": "Charter Oak",
+        "address": "111 Pepes Farm Rd Milford CT 06460",
+        "town": "Milford",
+        "phone": "888-225-6090",
+        "website": "http://coenviro.com/",
+        "services": [
+          "ALM",
+          "Lead",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.114131423436,
+          41.46531376211
+        ]
+      },
+      "properties": {
+        "name": "CPM Environmental",
+        "description": "Display Name: CPM Env<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: ALM, Mold",
+        "business_name": "CPM Env",
+        "address": "315 Riggs St Oxford CT 06478",
+        "town": "Oxford",
+        "phone": "203-446-5229 475-243-7176",
+        "website": "https://www.cpmenviro.com/about-us.html",
+        "services": [
+          "ALM",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.633270008535,
+          41.550804308905
+        ]
+      },
+      "properties": {
+        "name": "Environmental Group Inc.",
+        "description": "Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: ALM, Mold, VRM",
+        "business_name": "EGI",
+        "address": "18 Roberts St Middletown CT 06457",
+        "town": "Middletown",
+        "phone": "O: 860-259-5257 C: 860-462-7204",
+        "website": "https://environmentalgroupinc.com/",
+        "services": [
+          "ALM",
+          "Mold",
+          "VRM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.039700945214,
+          41.547739819888
+        ]
+      },
+      "properties": {
+        "name": "Environmental Contracting & Demolition, LLC",
+        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM",
+        "business_name": "ENCO",
+        "address": "70 West Liberty Street Waterbury CT 06706",
+        "town": "Waterbury",
+        "phone": "cell preferred# 203-627-5341 203-754-5959 office",
+        "website": "https://www.encoct.com",
+        "services": [
+          "ALM",
+          "Mold",
+          "VRM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.144407759038,
+          41.1737297112
+        ]
+      },
+      "properties": {
+        "name": "Home Comfort Practice",
+        "description": "Display Name: HCP<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "business_name": "HCP",
+        "address": "165 Benton St Stratford CT 06615",
+        "town": "Stratford",
+        "phone": "(203) 450-3000",
+        "website": "https://www.homecomfortpractice.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Attic/IE",
+          "Bsmt",
+          "Bsmt/IE",
+          "Wall",
+          "Wall/IE",
+          "Windows",
+          "Windows/IE",
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74324868237,
+          41.616024681005
+        ]
+      },
+      "properties": {
+        "name": "Talevi Enterprises Inc",
+        "description": "Display Name: Talevi<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: ALM, Lead, Mold",
+        "business_name": "Talevi",
+        "address": "1255 Berlin Turnpike Berlin CT 06037",
+        "town": "Berlin",
+        "phone": "(860) 828-4331",
+        "website": "https://talevient.com/",
+        "services": [
+          "ALM",
+          "Lead",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.928102450201,
+          41.319815855647
+        ]
+      },
+      "properties": {
+        "name": "Winchester Environmental",
+        "description": "Display Name: Winchester<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: ALM, Mold, VRM",
+        "business_name": "Winchester",
+        "address": "185 Winchester Ave, New Haven CT 06511",
+        "town": "New Haven",
+        "phone": "(203) 887-0377 Owner(203) 309-0756",
+        "website": "https://www.winchesterenvironmental.com/",
+        "services": [
+          "ALM",
+          "Mold",
+          "VRM"
+        ]
+      }
+    }
+  ]
+}
