@@ -1,0 +1,3547 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.20201326062,
+          41.53480521043
+        ]
+      },
+      "properties": {
+        "name": "2 Cool Guys Hvac",
+        "description": "Display Name: 2CoolGuys<br>Town: Bozrah<br>Phone: (860) 818-8549<br>Services: DHW, Heat, Cool",
+        "business_name": "2CoolGuys",
+        "address": "287 Bozrah St Bozrah CT 06334",
+        "town": "Bozrah",
+        "phone": "(860) 818-8549",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.706437863824,
+          41.756551574647
+        ]
+      },
+      "properties": {
+        "name": "3C Electric",
+        "description": "Display Name: 3C Electric<br>Town: Hartford<br>Phone: (860) 218-8500<br>Services: Elect",
+        "business_name": "3C Electric",
+        "address": "20 New Park Ave Hartford CT 06106",
+        "town": "Hartford",
+        "phone": "(860) 218-8500",
+        "website": "https://www.3celectricct.com",
+        "services": [
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.011922749353,
+          41.241739415254
+        ]
+      },
+      "properties": {
+        "name": "4U Heating & Cooling Services, LLC",
+        "description": "Display Name: 4U<br>Town: Milford<br>Phone: (203)988-2255<br>Services: DHW, Heat",
+        "business_name": "4U",
+        "address": "249 Research Dr Milford CT 06460",
+        "town": "Milford",
+        "phone": "(203)988-2255",
+        "website": "https://Business Information Link",
+        "services": [
+          "DHW",
+          "Heat"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.425462538557,
+          41.534359024682
+        ]
+      },
+      "properties": {
+        "name": "2020 Air Mechanical",
+        "description": "Display Name: 20/20<br>Town: New Milford<br>Phone: (860) 272-8789<br>Services: DHW, Heat, Cool",
+        "business_name": "20/20",
+        "address": "50 South End Plaza New Milford CT 06776",
+        "town": "New Milford",
+        "phone": "(860) 272-8789",
+        "website": "https://www.2020air.net",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.210963659327,
+          41.204402566677
+        ]
+      },
+      "properties": {
+        "name": "24/7 Mechanical Service LLC",
+        "description": "Display Name: 24/7 Mechanical Service LLC<br>Town: Bridgeport<br>Phone: (203) 394-8727<br>Services: DHW, Heat, Cool",
+        "business_name": "24/7 Mechanical Service LLC",
+        "address": "434 Amsterdam Ave Bridgeport CT 06606",
+        "town": "Bridgeport",
+        "phone": "(203) 394-8727",
+        "website": "https://www.247mechanicalservice.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.399299051076,
+          41.552860174884
+        ]
+      },
+      "properties": {
+        "name": "A+ Home Improvements",
+        "description": "Display Name: A+<br>Town: New Milford<br>Phone: (860) 799-7887<br>Services: Roof",
+        "business_name": "A+",
+        "address": "4 Sandpiper Ln New Milford CT 06776",
+        "town": "New Milford",
+        "phone": "(860) 799-7887",
+        "services": [
+          "Roof"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.228560948112,
+          41.715129304236
+        ]
+      },
+      "properties": {
+        "name": "The Access Community Action Agency (Access )",
+        "description": "Display Name: Access<br>Town: Willimantic<br>Phone: (860) 450-7400",
+        "business_name": "Access",
+        "address": "1315 Main Street Willimantic CT 06226",
+        "town": "Willimantic",
+        "phone": "(860) 450-7400",
+        "website": "https://www.accessagency.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.199131384193,
+          41.175717277607
+        ]
+      },
+      "properties": {
+        "name": "Alliance for Community Empowerment (formerly ABCD)",
+        "description": "Display Name: ACE<br>Town: Bridgeport<br>Phone: (203) 366-8241",
+        "business_name": "ACE",
+        "address": "1070 Park Avenue Bridgeport CT 06604",
+        "town": "Bridgeport",
+        "phone": "(203) 366-8241",
+        "website": "https://alliancect.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55193424396,
+          41.791884907508
+        ]
+      },
+      "properties": {
+        "name": "Action Air Systems",
+        "description": "Display Name: Action Air Systems<br>Town: Manchester<br>Phone: (860) 645-8838<br>Services: DHW, Heat, Cool",
+        "business_name": "Action Air Systems",
+        "address": "131 Adams Street Manchester CT 06042",
+        "town": "Manchester",
+        "phone": "(860) 645-8838",
+        "website": "https://www.actionairsystems.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.766972623789,
+          41.762557404461
+        ]
+      },
+      "properties": {
+        "name": "Action Solar",
+        "description": "Display Name: Action Solar<br>Town: West Hartford<br>Phone: 480-239-9945<br>Services: PV",
+        "business_name": "Action Solar",
+        "address": "14 High Farms Rd. West Hartford CT 06107",
+        "town": "West Hartford",
+        "phone": "480-239-9945",
+        "website": "https://www.actionsolar.com/",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.554013894541,
+          41.039150427255
+        ]
+      },
+      "properties": {
+        "name": "ADJ Of Stamford",
+        "description": "Display Name: ADJ Of Stamford<br>Town: Stamford<br>Phone: (203) 348-6448<br>Services: DHW, Heat, Cool",
+        "business_name": "ADJ Of Stamford",
+        "address": "60 Bonner Street Stamford CT 06902",
+        "town": "Stamford",
+        "phone": "(203) 348-6448",
+        "website": "https://www.adjofstamford.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.770256732794,
+          41.303306535602
+        ]
+      },
+      "properties": {
+        "name": "Aegis Solar",
+        "description": "Display Name: Aegis<br>Town: Branford<br>Phone: 203-208-1856; Nathan Cell 203.640.2271<br>Services: PV",
+        "business_name": "Aegis",
+        "address": "81 School Ground Rd. Branford CT 06405",
+        "town": "Branford",
+        "phone": "203-208-1856; Nathan Cell 203.640.2271",
+        "website": "http://www.aegis-solar.com/",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63954,
+          41.92593
+        ]
+      },
+      "properties": {
+        "name": "Aiello Home Services",
+        "description": "Display Name: Aiello <br>Town: Windsor Locks<br>Phone: (860) 292-2600<br>Services: HES, DHW, Heat, Cool",
+        "business_name": "Aiello",
+        "address": "Windsor Locks CT 06096",
+        "town": "Windsor Locks",
+        "phone": "(860) 292-2600",
+        "website": "https://www.aiellohomeservices.com",
+        "services": [
+          "HES",
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.283567173943,
+          41.575091077171
+        ]
+      },
+      "properties": {
+        "name": "Air Flo Mechanical",
+        "description": "Display Name: Air Flo Mechanical<br>Town: Colchester<br>Phone: (860) 989-5079<br>Services: DHW, Heat, Cool",
+        "business_name": "Air Flo Mechanical",
+        "address": "8 Oak Ridge Dr Colchester CT 06415",
+        "town": "Colchester",
+        "phone": "(860) 989-5079",
+        "website": "https://www.airflomechanical.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.947068891703,
+          41.28845551023
+        ]
+      },
+      "properties": {
+        "name": "Air Specialties Air Conditioning & Heating Inc",
+        "description": "Display Name: Air Spec<br>Town: West Haven<br>Phone: (475) 235-8825<br>Services: DHW, Heat, Cool",
+        "business_name": "Air Spec",
+        "address": "25 Spring St West Haven CT 06516",
+        "town": "West Haven",
+        "phone": "(475) 235-8825",
+        "website": "https://www.airspecialtiesac.com/",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.475596758528,
+          41.750262291492
+        ]
+      },
+      "properties": {
+        "name": "Alberca Contruction",
+        "description": "Display Name: Alberca<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: ALM, Mold",
+        "business_name": "Alberca",
+        "address": "79 High Ledge Cir Manchester CT 06040",
+        "town": "Manchester",
+        "phone": "(860) 783-6099 (860) 869-8270",
+        "website": "http://alberca-construction.com",
+        "services": [
+          "ALM",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.874009284058,
+          41.286195271348
+        ]
+      },
+      "properties": {
+        "name": "All Phase",
+        "description": "Display Name: All Phase<br>Town: East Haven<br>Phone: 203-361-2472<br>Services: Plumb, Heat, Cool, Duct clean",
+        "business_name": "All Phase",
+        "address": "150 Bradley St East Haven CT 06512",
+        "town": "East Haven",
+        "phone": "203-361-2472",
+        "website": "http://www.allphasemechanical.com",
+        "services": [
+          "Plumb",
+          "Heat",
+          "Cool",
+          "Duct clean"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.676185208615,
+          41.601674443822
+        ]
+      },
+      "properties": {
+        "name": "All Set Heating & Cooling LLC",
+        "description": "Display Name: All Set<br>Town: Cromwell<br>Phone: (475) 238-5927<br>Services: DHW, Heat, Cool",
+        "business_name": "All Set",
+        "address": "34-3 Shunpike Rd #175 Cromwell CT 06416",
+        "town": "Cromwell",
+        "phone": "(475) 238-5927",
+        "website": "https://allsetct.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.77046,
+          41.30392
+        ]
+      },
+      "properties": {
+        "name": "Amp'd Enterprises",
+        "description": "Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Duct clean, Mold",
+        "business_name": "Amp'd",
+        "address": "3 Reseearch Dr Branford CT 06405",
+        "town": "Branford",
+        "phone": "800-924.2247",
+        "website": "https://www.ampdct.com/",
+        "services": [
+          "Duct clean",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.083225438021,
+          41.802680278438
+        ]
+      },
+      "properties": {
+        "name": "Archer Heating And Cooling",
+        "description": "Display Name: Archer<br>Town: Torrington<br>Phone: (203) 731-4066<br>Services: DHW, Heat, Cool",
+        "business_name": "Archer",
+        "address": "95 Limestoner Dr Torrington CT 06790",
+        "town": "Torrington",
+        "phone": "(203) 731-4066",
+        "website": "https://www.Archer-hvac.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.833206527385,
+          41.377206494892
+        ]
+      },
+      "properties": {
+        "name": "Best Energy LLC",
+        "description": "Display Name: Best Energy LLC<br>Town: Pawcatuck<br>Phone: (860) 599-1920<br>Services: DHW, Heat, Cool",
+        "business_name": "Best Energy LLC",
+        "address": "4 Mechanic St Pawcatuck CT 06379",
+        "town": "Pawcatuck",
+        "phone": "(860) 599-1920",
+        "website": "https://www.bestenergyctri.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.784380346122,
+          42.160800142103
+        ]
+      },
+      "properties": {
+        "name": "Bobs Insulation",
+        "description": "Display Name: Bobs<br>Town: Sutton<br>Phone: 508 865 2312<br>Services: Attic",
+        "business_name": "Bobs",
+        "address": "30 W Sutton Rd Sutton MA 01590",
+        "town": "Sutton",
+        "phone": "508 865 2312",
+        "services": [
+          "Attic"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.180439485811,
+          41.713711300707
+        ]
+      },
+      "properties": {
+        "name": "Bourque Hc Solutions, LLC",
+        "description": "Display Name: Bourque Hc Solutions, LLC<br>Town: Windham<br>Phone: (860) 617-7767<br>Services: DHW, Heat, Cool",
+        "business_name": "Bourque Hc Solutions, LLC",
+        "address": "17 Woodland Drive Windham CT 06226",
+        "town": "Windham",
+        "phone": "(860) 617-7767",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.285047402427,
+          41.137384324522
+        ]
+      },
+      "properties": {
+        "name": "Britt Air Services",
+        "description": "Display Name: Britt Air Services<br>Town: Southport<br>Phone: (203) 254-0500<br>Services: DHW, Heat, Cool",
+        "business_name": "Britt Air Services",
+        "address": "75 Old Post Road Southport CT 06890",
+        "town": "Southport",
+        "phone": "(203) 254-0500",
+        "website": "https://www.britt-air.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.052768429162,
+          41.391139703768
+        ]
+      },
+      "properties": {
+        "name": "Brown Roofing",
+        "description": "Display Name: Brown<br>Town: Seymour<br>Phone: 203-442-9616<br>Services: Roof",
+        "business_name": "Brown",
+        "address": "12 Progress Ave Seymour CT 06483",
+        "town": "Seymour",
+        "phone": "203-442-9616",
+        "website": "https://www.brownroofing.org/",
+        "services": [
+          "Roof"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.854978508078,
+          41.748520716979
+        ]
+      },
+      "properties": {
+        "name": "Busy Bee Services LLC",
+        "description": "Display Name: Busy Bee<br>Town: Farmington<br>Phone: (860) 500-8551 860-847-7158<br>Services: Plumb, DHW, Heat, Cool, Duct clean",
+        "business_name": "Busy Bee",
+        "address": "7 Eastview Drive Farmington CT 06032",
+        "town": "Farmington",
+        "phone": "(860) 500-8551 860-847-7158",
+        "website": "https://www.calltheb.com",
+        "services": [
+          "Plumb",
+          "DHW",
+          "Heat",
+          "Cool",
+          "Duct clean"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.946979099338,
+          41.318390761421
+        ]
+      },
+      "properties": {
+        "name": "Community Action Agency of New Haven, Inc. (CAANH)",
+        "description": "Display Name: CAANH<br>Town: New Haven<br>Phone: (203) 387-7700",
+        "business_name": "CAANH",
+        "address": "419 Whalley Avenue New Haven CT 06511",
+        "town": "New Haven",
+        "phone": "(203) 387-7700",
+        "website": "https://www.caanh.net"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.635344840973,
+          41.571051156321
+        ]
+      },
+      "properties": {
+        "name": "Cameron Plumbing & Heating",
+        "description": "Display Name: Cameron Plumbing & Heating<br>Town: Portland<br>Phone: (860) 342-3750<br>Services: Plumb, Heat",
+        "business_name": "Cameron Plumbing & Heating",
+        "address": "130 Marlborough St Portland CT 06840",
+        "town": "Portland",
+        "phone": "(860) 342-3750",
+        "website": "https://cameronplumbingheating.com",
+        "services": [
+          "Plumb",
+          "Heat"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.097654392292,
+          41.22901311903
+        ]
+      },
+      "properties": {
+        "name": "Capitol Air",
+        "description": "Display Name: Capitol Air<br>Town: Milford<br>Phone: (203) 650-7480<br>Services: DHW, Heat, Cool",
+        "business_name": "Capitol Air",
+        "address": "655 Plains Road Milford CT 06460",
+        "town": "Milford",
+        "phone": "(203) 650-7480",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.402589369116,
+          41.865615050831
+        ]
+      },
+      "properties": {
+        "name": "Capitol Refrigeration LLC",
+        "description": "Display Name: Capitol Refrigeration LLC<br>Town: Tolland<br>Phone: (870) 357-7809<br>Services: DHW, Heat, Cool",
+        "business_name": "Capitol Refrigeration LLC",
+        "address": "95 Mountain Spring Rd Tolland CT 06074",
+        "town": "Tolland",
+        "phone": "(870) 357-7809",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.906122230613,
+          41.657871127815
+        ]
+      },
+      "properties": {
+        "name": "Chiarillo'S Heating & Air Conditioning LLC",
+        "description": "Display Name: Charillo<br>Town: Bristol<br>Phone: (860) 585-8139<br>Services: DHW, Heat, Cool",
+        "business_name": "Charillo",
+        "address": "191 Redstone Hill Road Bristol CT 06706",
+        "town": "Bristol",
+        "phone": "(860) 585-8139",
+        "website": "https://chiarillos.com/",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.933979916859,
+          41.324378742893
+        ]
+      },
+      "properties": {
+        "name": "Charles Abatement, LLC",
+        "description": "Display Name: Charles<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: ALM",
+        "business_name": "Charles",
+        "address": "91 Shelton Avenue New Haven CT 06511",
+        "town": "New Haven",
+        "phone": "(203) 868 - 5900",
+        "website": "http://www.charlesabatement.com",
+        "services": [
+          "ALM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.022941563365,
+          41.228660129296
+        ]
+      },
+      "properties": {
+        "name": "Charter Oak",
+        "description": "Display Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: ALM, Lead, Mold",
+        "business_name": "Charter Oak",
+        "address": "111 Pepes Farm Rd Milford CT 06460",
+        "town": "Milford",
+        "phone": "888-225-6090",
+        "website": "http://coenviro.com/",
+        "services": [
+          "ALM",
+          "Lead",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.075652549237,
+          41.214132961633
+        ]
+      },
+      "properties": {
+        "name": "Climate Partners",
+        "description": "Display Name: Climate Partners<br>Town: Milford<br>Phone: (203) 877-7771<br>Services: DHW, Heat, Cool",
+        "business_name": "Climate Partners",
+        "address": "922 Bridgeport Aveneu Milford CT 06460",
+        "town": "Milford",
+        "phone": "(203) 877-7771",
+        "website": "https://www.climatepartners.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.073827602471,
+          41.388639042098
+        ]
+      },
+      "properties": {
+        "name": "Cole Heating & Cooling",
+        "description": "Display Name: Cole Heating & Cooling<br>Town: Seymour<br>Phone: (203) 888-0376<br>Services: DHW, Heat, Cool",
+        "business_name": "Cole Heating & Cooling",
+        "address": "100 South Main Street Seymour CT 06483",
+        "town": "Seymour",
+        "phone": "(203) 888-0376",
+        "website": "https://www.coleheating.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.428088674211,
+          41.406420782951
+        ]
+      },
+      "properties": {
+        "name": "ConEd Solutions",
+        "description": "Display Name: ConEd<br>Town: Danbury<br>Phone: (844) 896-2614<br>Services: PV, Storage",
+        "business_name": "ConEd",
+        "address": "38 Beaver Brook Road Danbury CT 06810",
+        "town": "Danbury",
+        "phone": "(844) 896-2614",
+        "website": "https://www.conedsolutions.com/markets/residential/",
+        "services": [
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521420896678,
+          41.069429346739
+        ]
+      },
+      "properties": {
+        "name": "Controlled Temperatures, Inc.",
+        "description": "Display Name: Controlled Temperatures, Inc.<br>Town: Stamford<br>Phone: (203) 348-9141<br>Services: DHW, Heat, Cool",
+        "business_name": "Controlled Temperatures, Inc.",
+        "address": "29 Parker Ave Stamford CT 06901",
+        "town": "Stamford",
+        "phone": "(203) 348-9141",
+        "website": "https://www.controlledtemperatures.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.290108643765,
+          40.011399883984
+        ]
+      },
+      "properties": {
+        "name": "Core Value",
+        "description": "Display Name: Core Value<br>Town: Lancaster<br>Phone: 800-605-8007<br>Services: Aeroseal, Duct clean",
+        "business_name": "Core Value",
+        "address": "500 Golf Rd Lancaster PA 0+017",
+        "town": "Lancaster",
+        "phone": "800-605-8007",
+        "website": "https://corevalueco.com/services/clean-my-ductwork/",
+        "services": [
+          "Aeroseal",
+          "Duct clean"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.327171948717,
+          42.025331106595
+        ]
+      },
+      "properties": {
+        "name": "Cornwall Plumbing & Heating LLC",
+        "description": "Display Name: Cornwall Plumbing & Heating LLC<br>Town: Canaan<br>Phone: (860) 672-6350<br>Services: DHW, Heat, Cool",
+        "business_name": "Cornwall Plumbing & Heating LLC",
+        "address": "8 Gandolfo Drive Canaan CT 06018",
+        "town": "Canaan",
+        "phone": "(860) 672-6350",
+        "website": "https://www.cornwallp-h.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.114131423436,
+          41.46531376211
+        ]
+      },
+      "properties": {
+        "name": "CPM Environmental",
+        "description": "Display Name: CPM Env<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: ALM, Mold",
+        "business_name": "CPM Env",
+        "address": "315 Riggs St Oxford CT 06478",
+        "town": "Oxford",
+        "phone": "203-446-5229 475-243-7176",
+        "website": "https://www.cpmenviro.com/about-us.html",
+        "services": [
+          "ALM",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.294715353954,
+          41.630294029161
+        ]
+      },
+      "properties": {
+        "name": "Crownpoint Heating And Cooling",
+        "description": "Display Name: Crownpoint Heating And Cooling<br>Town: Lebanon<br>Phone: (860) 336-9132<br>Services: DHW, Heat, Cool",
+        "business_name": "Crownpoint Heating And Cooling",
+        "address": "1598 Exeter Rd Lebanon CT 06249",
+        "town": "Lebanon",
+        "phone": "(860) 336-9132",
+        "website": "https://www.crownpointheatingandcooling.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.671878408907,
+          41.78118614804
+        ]
+      },
+      "properties": {
+        "name": "Community Renewal Team, Inc. (CRT)",
+        "description": "Display Name: CRT<br>Town: Hartford<br>Phone: (860) 560-5600",
+        "business_name": "CRT",
+        "address": "555 Windsor Street Hartford CT 06120",
+        "town": "Hartford",
+        "phone": "(860) 560-5600",
+        "website": "https://www.crtct.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.819734127064,
+          41.479458086631
+        ]
+      },
+      "properties": {
+        "name": "CT Home Solutions",
+        "description": "Display Name: CT Homes<br>Town: Wallingford<br>Phone: 18882180909<br>Services: HES, Attic",
+        "business_name": "CT Homes",
+        "address": "101 N Plain Industrial Rd Wallingford CT 06493",
+        "town": "Wallingford",
+        "phone": "18882180909",
+        "website": "http://cthomesolutions.net/",
+        "services": [
+          "HES",
+          "Attic"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.972841480463,
+          41.296948862664
+        ]
+      },
+      "properties": {
+        "name": "Cts Heating & Cooling, Inc",
+        "description": "Display Name: CTS<br>Town: West Haven<br>Phone: (203) 389-6099<br>Services: DHW, Heat, Cool",
+        "business_name": "CTS",
+        "address": "207 Burwell Road West Haven CT 06516",
+        "town": "West Haven",
+        "phone": "(203) 389-6099",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.591780660652,
+          41.710255710187
+        ]
+      },
+      "properties": {
+        "name": "Degree Incorporated",
+        "description": "Display Name: Degree Incorporated<br>Town: Glastonbury<br>Phone: (860) 633-6122<br>Services: DHW, Heat, Cool",
+        "business_name": "Degree Incorporated",
+        "address": "160 Oak Street Glastonbury CT 06033",
+        "town": "Glastonbury",
+        "phone": "(860) 633-6122",
+        "website": "https://www.degreeheatingandcooling.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.701568603999,
+          41.769889157904
+        ]
+      },
+      "properties": {
+        "name": "Deitch Energy",
+        "description": "Display Name: Deitch Energy<br>Town: Hartford<br>Phone: (860) 215-5353<br>Services: DHW, Heat, Cool",
+        "business_name": "Deitch Energy",
+        "address": "44 Woodland St Hartford CT 06033",
+        "town": "Hartford",
+        "phone": "(860) 215-5353",
+        "website": "https://www.deitchenergy.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.760912326293,
+          41.411613296146
+        ]
+      },
+      "properties": {
+        "name": "Dillon Roofing",
+        "description": "Display Name: Dillon Roofing<br>Town: Northford<br>Phone: 203-484-4503<br>Services: Roof",
+        "business_name": "Dillon Roofing",
+        "address": "1870 Middletown Ave Northford CT 06472",
+        "town": "Northford",
+        "phone": "203-484-4503",
+        "services": [
+          "Roof"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.715159196465,
+          41.470891862367
+        ]
+      },
+      "properties": {
+        "name": "Direct Home Services",
+        "description": "Display Name: Direct Home<br>Town: Durham<br>Phone: (860) 352-1017<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls",
+        "business_name": "Direct Home",
+        "address": "57 Ozick Dr Durham CT 06422",
+        "town": "Durham",
+        "phone": "(860) 352-1017",
+        "website": "https://directhomecanhelp.com/contact-us/",
+        "services": [
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE",
+          "Controls"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.152093155402,
+          41.624947113355
+        ]
+      },
+      "properties": {
+        "name": "Donahues Plumbing Heating And Ac",
+        "description": "Display Name: Donahues Plumbing Heating And Ac<br>Town: Watertown<br>Phone: (203) 704-1188<br>Services: DHW, Heat, Cool",
+        "business_name": "Donahues Plumbing Heating And Ac",
+        "address": "221 Charter Oak Drive Watertown CT 06455",
+        "town": "Watertown",
+        "phone": "(203) 704-1188",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01929969999999,
+          35.7595731
+        ]
+      },
+      "properties": {
+        "name": "Duke Energy House Call",
+        "description": "Display Name: Duke",
+        "business_name": "Duke",
+        "address": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.753054798195,
+          41.526863538041
+        ]
+      },
+      "properties": {
+        "name": "Dynamic Electrical Systems LLC",
+        "description": "Display Name: Dynamic Electrical Systems LLC<br>Town: Meriden<br>Phone: 203-494-1023<br>Services: Elect",
+        "business_name": "Dynamic Electrical Systems LLC",
+        "address": "32 Preston Ave, Meriden, CT 06450 Meriden CT 06450",
+        "town": "Meriden",
+        "phone": "203-494-1023",
+        "website": "https://dynamicelectricalsystems.com/services.html",
+        "services": [
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.894818975083,
+          41.531845885897
+        ]
+      },
+      "properties": {
+        "name": "East Coast Mechanical, Inc. Heating & Cooling",
+        "description": "Display Name: EC Mech<br>Town: Cheshire<br>Phone: 12032726676<br>Services: DHW, Heat",
+        "business_name": "EC Mech",
+        "address": "1187 Highland Ave Cheshire CT 06410",
+        "town": "Cheshire",
+        "phone": "12032726676",
+        "website": "https://www.calleastcoast.com",
+        "services": [
+          "DHW",
+          "Heat"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.796441021265,
+          41.2992810209
+        ]
+      },
+      "properties": {
+        "name": "EcoSolar Installations",
+        "description": "Display Name: EcoSolar<br>Town: Branford<br>Phone: 203-530-1330<br>Services: PV, Storage",
+        "business_name": "EcoSolar",
+        "address": "12 Huntington Dr. Branford CT 06405",
+        "town": "Branford",
+        "phone": "203-530-1330",
+        "website": "http://www.ecosolarct.com/",
+        "services": [
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.633270008535,
+          41.550804308905
+        ]
+      },
+      "properties": {
+        "name": "Environmental Group Inc.",
+        "description": "Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: ALM, Mold, VRM",
+        "business_name": "EGI",
+        "address": "18 Roberts St Middletown CT 06457",
+        "town": "Middletown",
+        "phone": "O: 860-259-5257 C: 860-462-7204",
+        "website": "https://environmentalgroupinc.com/",
+        "services": [
+          "ALM",
+          "Mold",
+          "VRM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.012741067463,
+          41.241083850417
+        ]
+      },
+      "properties": {
+        "name": "Energy Management Authority, LLC",
+        "description": "Display Name: EMA<br>Town: Milford<br>Phone: (203)919-1445<br>Services: HES, Attic, Bsmt, Wall",
+        "business_name": "EMA",
+        "address": "205 Research Drive Milford CT 06460",
+        "town": "Milford",
+        "phone": "(203)919-1445",
+        "website": "https://www.energymgmtauthority.com/",
+        "services": [
+          "HES",
+          "Attic",
+          "Bsmt",
+          "Wall"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80800967152,
+          41.543446827847
+        ]
+      },
+      "properties": {
+        "name": "Eminent Mechanical Llc",
+        "description": "Display Name: Eminent Mechanical Llc<br>Town: Meriden<br>Phone: (860) 992-6244<br>Services: DHW, Heat, Cool",
+        "business_name": "Eminent Mechanical Llc",
+        "address": "30 N Spring St 1 Meriden CT 06450",
+        "town": "Meriden",
+        "phone": "(860) 992-6244",
+        "website": "https://www.eminent-mechanical.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.039700945214,
+          41.547739819888
+        ]
+      },
+      "properties": {
+        "name": "Environmental Contracting & Demolition, LLC",
+        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM",
+        "business_name": "ENCO",
+        "address": "70 West Liberty Street Waterbury CT 06706",
+        "town": "Waterbury",
+        "phone": "cell preferred# 203-627-5341 203-754-5959 office",
+        "website": "https://www.encoct.com",
+        "services": [
+          "ALM",
+          "Mold",
+          "VRM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.289446398593,
+          41.390384936649
+        ]
+      },
+      "properties": {
+        "name": "The-Energy Store",
+        "description": "Display Name: Energy Store<br>Town: Newtown<br>Phone: 203-448-6875<br>Services: HES",
+        "business_name": "Energy Store",
+        "address": "3 Simm Lane Newtown CT 06470",
+        "town": "Newtown",
+        "phone": "203-448-6875",
+        "services": [
+          "HES"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.145654992299,
+          41.168260696635
+        ]
+      },
+      "properties": {
+        "name": "Environmental Control, LLC",
+        "description": "Display Name: Environmental Control, LLC<br>Town: Stratford<br>Phone: (203) 209-2887<br>Services: DHW, Heat, Cool",
+        "business_name": "Environmental Control, LLC",
+        "address": "1265 Woodend Road Stratford CT 06614",
+        "town": "Stratford",
+        "phone": "(203) 209-2887",
+        "website": "https://www.goencon.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.686823802062,
+          40.727086609609
+        ]
+      },
+      "properties": {
+        "name": "Ergo Air Mechanical Inc.",
+        "description": "Display Name: Ergo Air Mechanical Inc.<br>Town: New Hyde Park<br>Phone: (718) 208-0009<br>Services: DHW, Heat, Cool",
+        "business_name": "Ergo Air Mechanical Inc.",
+        "address": "700 6Th Ave., 1St Floor New Hyde Park CT 11040",
+        "town": "New Hyde Park",
+        "phone": "(718) 208-0009",
+        "website": "https://www.eamhvac.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.771330988137,
+          41.740928938902
+        ]
+      },
+      "properties": {
+        "name": "Eriksson Electric",
+        "description": "Display Name: Eriksson Electric<br>Town: West Hartford<br>Phone: 860-236-4352<br>Services: Elect",
+        "business_name": "Eriksson Electric",
+        "address": "19 Race Brook Rd West Hartford CT 06107",
+        "town": "West Hartford",
+        "phone": "860-236-4352",
+        "website": "http://erikssonelectric.com",
+        "services": [
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.738920381634,
+          41.903450672503
+        ]
+      },
+      "properties": {
+        "name": "European Technology",
+        "description": "Display Name: European Technology<br>Town: East Granby<br>Phone: (413) 374-4660<br>Services: DHW, Heat, Cool",
+        "business_name": "European Technology",
+        "address": "4 Miller Rd East Granby CT 06026",
+        "town": "East Granby",
+        "phone": "(413) 374-4660",
+        "website": "https://www.etgohome.us",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01929969999999,
+          35.7595731
+        ]
+      },
+      "properties": {
+        "name": "FanMan Inc",
+        "description": "Display Name: FanMan",
+        "business_name": "FanMan",
+        "address": "NC",
+        "website": "https://www.fanmaninc.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.490326336175,
+          41.449465224718
+        ]
+      },
+      "properties": {
+        "name": "Fresh Air Heating And Cooling, LLC",
+        "description": "Display Name: Fresh Air Heating And Cooling, LLC<br>Town: Danbury<br>Phone: (203) 650-1195<br>Services: DHW, Heat, Cool",
+        "business_name": "Fresh Air Heating And Cooling, LLC",
+        "address": "18 Bittersweet Drive Danbury CT 06810",
+        "town": "Danbury",
+        "phone": "(203) 650-1195",
+        "website": "https://www.freshairheatcool.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.595209709153,
+          42.214952480364
+        ]
+      },
+      "properties": {
+        "name": "FSI Oil And Propane LLC",
+        "description": "Display Name: FSI Oil And Propane LLC<br>Town: Broad Brook<br>Phone: (413) 532-3500<br>Services: DHW, Heat, Cool",
+        "business_name": "FSI Oil And Propane LLC",
+        "address": "17 Wapping Rd Broad Brook CT 06016",
+        "town": "Broad Brook",
+        "phone": "(413) 532-3500",
+        "website": "https://fsioilandpropane.com/",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.778173210836,
+          41.453344948051
+        ]
+      },
+      "properties": {
+        "name": "Furnace Man",
+        "description": "Display Name: Furnace Man<br>Town: Wallingford<br>Phone: (203) 678-4171<br>Services: DHW, Heat, Cool",
+        "business_name": "Furnace Man",
+        "address": "184 North Airline Rd Wallingford CT 06492",
+        "town": "Wallingford",
+        "phone": "(203) 678-4171",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.895114879682,
+          41.541502279757
+        ]
+      },
+      "properties": {
+        "name": "G C Electric Inc",
+        "description": "Display Name: G C Electric Inc<br>Town: Cheshire<br>Phone: (203) 272-9521<br>Services: Elect",
+        "business_name": "G C Electric Inc",
+        "address": "135 Commerce Ct. Cheshire CT 06410",
+        "town": "Cheshire",
+        "phone": "(203) 272-9521",
+        "website": "https://www.gc-electric.com/",
+        "services": [
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.804877089086,
+          41.533151877216
+        ]
+      },
+      "properties": {
+        "name": "Giacco HVAC",
+        "description": "Display Name: Giacco HVAC<br>Town: Meriden<br>Phone: (203) 235-0840",
+        "business_name": "Giacco HVAC",
+        "address": "10 Cooper Street Meriden 06450",
+        "town": "Meriden",
+        "phone": "(203) 235-0840",
+        "website": "https://www.giacco-oil.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.715354575038,
+          41.471150294078
+        ]
+      },
+      "properties": {
+        "name": "Green Power Energy",
+        "description": "Display Name: GPE<br>Town: Durham<br>Phone: (844) 584-0008<br>Services: PV, Storage, Elect",
+        "business_name": "GPE",
+        "address": "42 Ozick Drive, Durham CT 06422",
+        "town": "Durham",
+        "phone": "(844) 584-0008",
+        "website": "https://greenpowerenergy.com/",
+        "services": [
+          "PV",
+          "Storage",
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.925288475592,
+          41.30658762155
+        ]
+      },
+      "properties": {
+        "name": "Green Banyan Consulting",
+        "description": "Display Name: Green Banyan<br>Town: New Haven<br>Phone: 860-740-6818<br>Services: PV",
+        "business_name": "Green Banyan",
+        "address": "157 Church St New Haven CT 06510",
+        "town": "New Haven",
+        "phone": "860-740-6818",
+        "website": "https://www.greenbanyanconsulting.com/",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.435007804617,
+          41.382858218891
+        ]
+      },
+      "properties": {
+        "name": "Hagan Mechanical Services LLC",
+        "description": "Display Name: Hagan Mechanical Services LLC<br>Town: Deep River<br>Phone: (203) 217-8290<br>Services: DHW, Heat, Cool",
+        "business_name": "Hagan Mechanical Services LLC",
+        "address": "214 Main St Deep River CT 06417",
+        "town": "Deep River",
+        "phone": "(203) 217-8290",
+        "website": "https://haganmechanical.com/",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.925288475592,
+          41.30658762155
+        ]
+      },
+      "properties": {
+        "name": "Hands on Moving",
+        "description": "Display Name: Hands On<br>Town: New Haven<br>Phone: (203) 415-1771<br>Services: Handy, Other",
+        "business_name": "Hands On",
+        "address": "157 Church St` New Haven CT 06510",
+        "town": "New Haven",
+        "phone": "(203) 415-1771",
+        "website": "https://www.handsonmovingandstorage.com",
+        "services": [
+          "Handy",
+          "Other"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.919859697132,
+          41.401669520909
+        ]
+      },
+      "properties": {
+        "name": "Highwood Mechanical LLC",
+        "description": "Display Name: Highwood<br>Town: Hamden<br>Phone: (203) 288-3315 (203) 627-8510<br>Services: DHW, Heat, Cool, GSHP",
+        "business_name": "Highwood",
+        "address": "81 Overlook Dr Hamden CT 06514",
+        "town": "Hamden",
+        "phone": "(203) 288-3315 (203) 627-8510",
+        "website": "https://www.highwoodmc.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool",
+          "GSHP"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.18148580477,
+          41.227133494627
+        ]
+      },
+      "properties": {
+        "name": "Hoffman Fuel of Bridgeport",
+        "description": "Display Name: Hoffman Fuel<br>Town: Trumbull<br>Phone: 203-396-5570<br>Services: HES",
+        "business_name": "Hoffman Fuel",
+        "address": "56 Quarry Rd Trumbull CT 06611",
+        "town": "Trumbull",
+        "phone": "203-396-5570",
+        "services": [
+          "HES"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.974799369232,
+          41.812506606589
+        ]
+      },
+      "properties": {
+        "name": "Hometown Heating",
+        "description": "Display Name: Hometown Heating<br>Town: Brooklyn<br>Phone: (860) 779-2222<br>Services: DHW, Heat, Cool",
+        "business_name": "Hometown Heating",
+        "address": "549 Wolf Den Rd P.O. Box 738 Brooklyn CT",
+        "town": "Brooklyn",
+        "phone": "(860) 779-2222",
+        "website": "https://www.hometownheatingllc.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.645109464429,
+          41.57055222273
+        ]
+      },
+      "properties": {
+        "name": "HOP Energy",
+        "description": "Display Name: HOP Energy<br>Town: Portland<br>Phone: (860) 342-5755<br>Services: DHW, Heat, Cool",
+        "business_name": "HOP Energy",
+        "address": "36 Brownstone Ave Portland CT 06480",
+        "town": "Portland",
+        "phone": "(860) 342-5755",
+        "website": "https://www.HOPEnergy.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7941,
+          41.68874
+        ]
+      },
+      "properties": {
+        "name": "Human Resources Agency of New Britain, Inc. (HRA)",
+        "description": "Display Name: HRA<br>Town: New Britain<br>Phone: (860) 225-8601",
+        "business_name": "HRA",
+        "address": "New Britain CT 06053",
+        "town": "New Britain",
+        "phone": "(860) 225-8601",
+        "website": "https://www.hranbct.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.914033434904,
+          41.578646359978
+        ]
+      },
+      "properties": {
+        "name": "Hyper Heating & Cooling LLC",
+        "description": "Display Name: Hyper Heating & Cooling LLC<br>Town: Plantsville<br>Phone: (860) 966-5717<br>Services: DHW, Heat, Cool",
+        "business_name": "Hyper Heating & Cooling LLC",
+        "address": "2 Oakdale Dr Plantsville CT 06479",
+        "town": "Plantsville",
+        "phone": "(860) 966-5717",
+        "website": "https://www.hyperheatingcooling.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.990742946113,
+          41.59034979437
+        ]
+      },
+      "properties": {
+        "name": "InstaPlumbing",
+        "description": "Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumb, DHW, DHW/IE",
+        "business_name": "InstaPlumbing",
+        "address": "421 Wolcott Rd. Wolcott CT 06717",
+        "town": "Wolcott",
+        "phone": "203-632-9296; 203.632.8891",
+        "website": "https://www.instaplumbing.com/",
+        "services": [
+          "Plumb",
+          "DHW",
+          "DHW/IE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.963254593055,
+          41.633578557672
+        ]
+      },
+      "properties": {
+        "name": "Ion Solar Pros",
+        "description": "Display Name: Ion Solar<br>Town: Wolcott<br>Phone: 203-580-1170<br>Services: PV",
+        "business_name": "Ion Solar",
+        "address": "1615 Wolcott Rd Wolcott CT 06716",
+        "town": "Wolcott",
+        "phone": "203-580-1170",
+        "website": "https://www.ionsolarpros.com/",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.545626210548,
+          42.026298724022
+        ]
+      },
+      "properties": {
+        "name": "JL Mechanical Services LLC",
+        "description": "Display Name: JL Mechanical Services LLC<br>Town: Enfield<br>Phone: (860) 422-5617<br>Services: DHW, Heat, Cool",
+        "business_name": "JL Mechanical Services LLC",
+        "address": "332 North Maple Street Enfield CT 06810",
+        "town": "Enfield",
+        "phone": "(860) 422-5617",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.64612,
+          41.53045
+        ]
+      },
+      "properties": {
+        "name": "JMP Electric",
+        "description": "Display Name: JMP Electric<br>Town: Middletown<br>Phone: (860) 770-7251<br>Services: Elect",
+        "business_name": "JMP Electric",
+        "address": "60 Trailside Crossing Middletown CT 06457",
+        "town": "Middletown",
+        "phone": "(860) 770-7251",
+        "website": "https://jmpct.com/contact-us/",
+        "services": [
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.153296566485,
+          41.752103360912
+        ]
+      },
+      "properties": {
+        "name": "Justin Nuno Hvac & Plumbing LLC",
+        "description": "Display Name: Justin Nuno Hvac & Plumbing LLC<br>Town: North Windham<br>Phone: (959) 444-6688<br>Services: DHW, Heat, Cool",
+        "business_name": "Justin Nuno Hvac & Plumbing LLC",
+        "address": "14 Station Road #2 North Windham CT 06281",
+        "town": "North Windham",
+        "phone": "(959) 444-6688",
+        "website": "https://www.justinnunohvacplumbingllc.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.878514875851,
+          41.814649529601
+        ]
+      },
+      "properties": {
+        "name": "Keith'S Heating & Cooling LLC",
+        "description": "Display Name: Keith'S Heating & Cooling LLC<br>Town: Danielson<br>Phone: (860) 377-0116<br>Services: DHW, Heat, Cool",
+        "business_name": "Keith'S Heating & Cooling LLC",
+        "address": "31B Wheatley St. Danielson CT 06239",
+        "town": "Danielson",
+        "phone": "(860) 377-0116",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.222159531105,
+          41.413737627371
+        ]
+      },
+      "properties": {
+        "name": "Kenair",
+        "description": "Display Name: Kenair<br>Town: East Lyme<br>Phone: (860) 235-6743<br>Services: DHW, Heat, Cool",
+        "business_name": "Kenair",
+        "address": "24 Cardinal Road East Lyme CT 06333",
+        "town": "East Lyme",
+        "phone": "(860) 235-6743",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.722585923887,
+          41.423699034907
+        ]
+      },
+      "properties": {
+        "name": "Kitchen Classy",
+        "description": "Display Name: Kitchen Classy<br>Town: Carmel<br>Phone: (917) 250-9625<br>Services: DHW, Heat, Cool",
+        "business_name": "Kitchen Classy",
+        "address": "87 Carolyn Rd East Carmel CT 10512",
+        "town": "Carmel",
+        "phone": "(917) 250-9625",
+        "website": "https://www.kitchenclassy.com/hvac",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.641272428985,
+          41.527404848088
+        ]
+      },
+      "properties": {
+        "name": "L-Train Electric LLC",
+        "description": "Display Name: L-Train<br>Town: Middletown<br>Phone: (860) 343-1797<br>Services: Elect",
+        "business_name": "L-Train",
+        "address": "790 Ridge Road Middletown CT 06457",
+        "town": "Middletown",
+        "phone": "(860) 343-1797",
+        "website": "https://ltrainelectric.com",
+        "services": [
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.667201857154,
+          41.656113122091
+        ]
+      },
+      "properties": {
+        "name": "LA Mechanical Services",
+        "description": "Display Name: LA<br>Town: Rocky Hill<br>Phone: (860) 371-5459<br>Services: DHW, Heat, Cool",
+        "business_name": "LA",
+        "address": "32 Corncrib Ln Rocky Hill CT 06067",
+        "town": "Rocky Hill",
+        "phone": "(860) 371-5459",
+        "website": "https://www.LaMechanicalservices.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.036134521268,
+          41.840711431127
+        ]
+      },
+      "properties": {
+        "name": "Lamere Mechanical Services",
+        "description": "Display Name: Lamere<br>Town: New Hartford<br>Phone: (860) 307-2488<br>Services: DHW, Heat, Cool",
+        "business_name": "Lamere",
+        "address": "130 Winchester Rd New Hartford CT 06795",
+        "town": "New Hartford",
+        "phone": "(860) 307-2488",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.120722219642,
+          41.82056686989
+        ]
+      },
+      "properties": {
+        "name": "Landucci Heating & Cooling Inc.",
+        "description": "Display Name: Landucci Heating & Cooling Inc.<br>Town: Torrington<br>Phone: (860) 496-0114<br>Services: DHW, Heat, Cool",
+        "business_name": "Landucci Heating & Cooling Inc.",
+        "address": "58 Winsted Rd. Torrington CT 06790",
+        "town": "Torrington",
+        "phone": "(860) 496-0114",
+        "website": "https://www.landuccihc.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.691527684883,
+          41.780366144276
+        ]
+      },
+      "properties": {
+        "name": "Lawson Power Source",
+        "description": "Display Name: Lawson Power Source<br>Town: Hartford<br>Phone: (860) 983-1663<br>Services: Elect",
+        "business_name": "Lawson Power Source",
+        "address": "919 Albany Ave, Hartford CT 06112",
+        "town": "Hartford",
+        "phone": "(860) 983-1663",
+        "website": "https://lawson-power-source-llc.business.site",
+        "services": [
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.383550724475,
+          41.882135369708
+        ]
+      },
+      "properties": {
+        "name": "Lestage",
+        "description": "Display Name: Lestage<br>Town: Tolland<br>Phone: (682) 347-7982",
+        "business_name": "Lestage",
+        "address": "79 Burbank Rd Tolland 06084",
+        "town": "Tolland",
+        "phone": "(682) 347-7982",
+        "website": "http://lestageheatingandcooling.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12567,
+          41.52815
+        ]
+      },
+      "properties": {
+        "name": "Mark Electric",
+        "description": "Display Name: Mark<br>Town: Middlebury<br>Phone: 203-592-2800<br>Services: Elect, EV",
+        "business_name": "Mark",
+        "address": "Middlebury CT 06762",
+        "town": "Middlebury",
+        "phone": "203-592-2800",
+        "website": "https://www.markelectricllc.com",
+        "services": [
+          "Elect",
+          "EV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.733123052257,
+          41.952067050689
+        ]
+      },
+      "properties": {
+        "name": "MC Mechanical Services, LLC",
+        "description": "Display Name: MC<br>Town: East Granby<br>Phone: (860) 847-1268<br>Services: DHW, Heat, Cool",
+        "business_name": "MC",
+        "address": "9 Talcott Range Drive East Granby CT 06026",
+        "town": "East Granby",
+        "phone": "(860) 847-1268",
+        "website": "https://facebook.com/mcmechct",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.96455,
+          41.76843
+        ]
+      },
+      "properties": {
+        "name": "Miller Fuel LLC",
+        "description": "Display Name: Miller Fuel LLC<br>Town: Burlington<br>Phone: (860) 675-6121<br>Services: DHW, Heat, Cool",
+        "business_name": "Miller Fuel LLC",
+        "address": "Burlington CT",
+        "town": "Burlington",
+        "phone": "(860) 675-6121",
+        "website": "https://www.millerfuel.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12567,
+          41.52815
+        ]
+      },
+      "properties": {
+        "name": "Mobilio ",
+        "description": "Display Name: Mobilio<br>Town: MIDDLEBURY",
+        "business_name": "Mobilio",
+        "address": "MIDDLEBURY CT 06762",
+        "town": "MIDDLEBURY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.96455,
+          41.76843
+        ]
+      },
+      "properties": {
+        "name": "Mountain Top Mechanical LLC",
+        "description": "Display Name: Mountain Top Mechanical LLC<br>Town: Burlington<br>Phone: (860) 459-4536<br>Services: DHW, Heat, Cool",
+        "business_name": "Mountain Top Mechanical LLC",
+        "address": "Burlington CT 06013",
+        "town": "Burlington",
+        "phone": "(860) 459-4536",
+        "website": "https://www.mountain-top-mech.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.819424971906,
+          41.477841312032
+        ]
+      },
+      "properties": {
+        "name": "National Air Quality (B-9 Air Quality Services LLC)",
+        "description": "Display Name: Nat Air<br>Town: Wallingford<br>Phone: (203) 387-1709<br>Services: Duct clean",
+        "business_name": "Nat Air",
+        "address": "121 North Plains Industrial Road, Warehouse R Wallingford CT 06492",
+        "town": "Wallingford",
+        "phone": "(203) 387-1709",
+        "website": "https://nationalairquality.com",
+        "services": [
+          "Duct clean"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.679905955241,
+          41.281845840832
+        ]
+      },
+      "properties": {
+        "name": "National Roofing",
+        "description": "Display Name: Nat Roof<br>Town: Guilford<br>Phone: 203-230-0188<br>Services: Roof",
+        "business_name": "Nat Roof",
+        "address": "39 Boston St Guilford CT 06437",
+        "town": "Guilford",
+        "phone": "203-230-0188",
+        "website": "https://sites.google.com/view/nationalroofingcompany/services",
+        "services": [
+          "Roof"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01929969999999,
+          35.7595731
+        ]
+      },
+      "properties": {
+        "name": "NC Solar Now",
+        "description": "Display Name: NC Solar",
+        "business_name": "NC Solar",
+        "address": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.604841800221,
+          41.712545577393
+        ]
+      },
+      "properties": {
+        "name": "Nor'East Exteriors",
+        "description": "Display Name: NE Ext<br>Town: Glastonbury<br>Phone: 833-287-6631<br>Services: Roof",
+        "business_name": "NE Ext",
+        "address": "145 New London Turnpike Glastonbury CT 06033",
+        "town": "Glastonbury",
+        "phone": "833-287-6631",
+        "website": "https://www.noreastexteriors.com/",
+        "services": [
+          "Roof"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.999776381664,
+          41.267792902722
+        ]
+      },
+      "properties": {
+        "name": "New England Roofing & Home Repair",
+        "description": "Display Name: NE Roof<br>Town: Orange<br>Phone: 203-795-3947<br>Services: Roof",
+        "business_name": "NE Roof",
+        "address": "284 Racebrook Rd Orange CT 06477",
+        "town": "Orange",
+        "phone": "203-795-3947",
+        "website": "https://newenglandroofingllc.com/",
+        "services": [
+          "Roof"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.156767709758,
+          41.185892188166
+        ]
+      },
+      "properties": {
+        "name": "New England Conservation Services, LLC (now Posigen)",
+        "description": "Display Name: NECS<br>Town: Bridgeport<br>Phone: 2033897077 HES/HESIE<br>Services: HES, HES/IE, Attic, PV, Storage",
+        "business_name": "NECS",
+        "address": "304 Bishop Ave. Bridgeport CT 06610",
+        "town": "Bridgeport",
+        "phone": "2033897077 HES/HESIE",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.642227895575,
+          41.020489939367
+        ]
+      },
+      "properties": {
+        "name": "New England Total Energy",
+        "description": "Display Name: NETE<br>Town: Greenwich<br>Phone: (203) 869-5869<br>Services: HES, Bsmt, Duct clean",
+        "business_name": "NETE",
+        "address": "469 West Putnam Avenue Greenwich CT 06830",
+        "town": "Greenwich",
+        "phone": "(203) 869-5869",
+        "website": "https://newenglandoilcompany.com/",
+        "services": [
+          "HES",
+          "Bsmt",
+          "Duct clean"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.035471845993,
+          41.558469536334
+        ]
+      },
+      "properties": {
+        "name": "New Opportunities, Inc. (NOI)",
+        "description": "Display Name: NOI<br>Town: Waterbury",
+        "business_name": "NOI",
+        "address": "232 North Elm Street Waterbury CT 06702",
+        "town": "Waterbury",
+        "website": "https://www.newoppinc.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.076984176909,
+          41.55060617086
+        ]
+      },
+      "properties": {
+        "name": "Norwich Technical High School",
+        "description": "Display Name: Norwich<br>Town: Norwich<br>Phone: (860) 892-2126<br>Services: DHW, Heat, Cool",
+        "business_name": "Norwich",
+        "address": "7 Mahan Drive Norwich CT 06360",
+        "town": "Norwich",
+        "phone": "(860) 892-2126",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.669252719368,
+          41.74403798448
+        ]
+      },
+      "properties": {
+        "name": "Northeast Smart Energy",
+        "description": "Display Name: NSE<br>Town: Hartford<br>Phone: (860) 982-7025<br>Services: PV, Storage",
+        "business_name": "NSE",
+        "address": "85-B Meadow St. Hartford CT 06114",
+        "town": "Hartford",
+        "phone": "(860) 982-7025",
+        "website": "https://northeastsmartenergy.com",
+        "services": [
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.110829660583,
+          41.810175542408
+        ]
+      },
+      "properties": {
+        "name": "Oliver Wolcott Tech.",
+        "description": "Display Name: Oliver Wolcott Tech.<br>Town: Torrington<br>Phone: (860) 496-5300<br>Services: DHW, Heat, Cool",
+        "business_name": "Oliver Wolcott Tech.",
+        "address": "75 Oliver St. Torrington CT 06790",
+        "town": "Torrington",
+        "phone": "(860) 496-5300",
+        "website": "https://wolcott.cttech.org/",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.374547687768,
+          41.480919493712
+        ]
+      },
+      "properties": {
+        "name": "Onewayplumbing & Heating, Inc.",
+        "description": "Display Name: Onewayplumbing & Heating, Inc.<br>Town: East Haddam<br>Phone: (860) 873-2363<br>Services: DHW, Heat, Cool",
+        "business_name": "Onewayplumbing & Heating, Inc.",
+        "address": "531 Mt. Parnassus Rd East Haddam CT 06437",
+        "town": "East Haddam",
+        "phone": "(860) 873-2363",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.340168722994,
+          39.959166248814
+        ]
+      },
+      "properties": {
+        "name": "Orange Energy Solutions",
+        "description": "Display Name: Orange<br>Town: Broomall<br>Phone: 610-449-2444",
+        "business_name": "Orange",
+        "address": "520 Abbott Drive Broomall PA 0+019",
+        "town": "Broomall",
+        "phone": "610-449-2444",
+        "website": "https://www.orangeenergysolutions.com/contact-us"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.853365469735,
+          41.532620205194
+        ]
+      },
+      "properties": {
+        "name": "P&L Plumbing LLC",
+        "description": "Display Name: P&L Plumbing LLC<br>Town: Meriden<br>Phone: (203) 619-1476<br>Services: DHW, Heat, Cool",
+        "business_name": "P&L Plumbing LLC",
+        "address": "25 Skyline Drive Meriden CT 06450",
+        "town": "Meriden",
+        "phone": "(203) 619-1476",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.844109750916,
+          39.088131329494
+        ]
+      },
+      "properties": {
+        "name": "Panda Exteriors",
+        "description": "Display Name: Panda<br>Town: Laurel<br>Phone: (877) 213-1240<br>Services: Roof",
+        "business_name": "Panda",
+        "address": "14409 Greenview Ave. Laurel MD 20708",
+        "town": "Laurel",
+        "phone": "(877) 213-1240",
+        "website": "https://www.pandaexteriors.com/",
+        "services": [
+          "Roof"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.48415,
+          41.87095
+        ]
+      },
+      "properties": {
+        "name": "Peachywah Heating And Cooling LLC",
+        "description": "Display Name: Peachywah<br>Town: Ellington<br>Phone: (860) 918-7010<br>Services: Heat, Cool",
+        "business_name": "Peachywah",
+        "address": "10 Nutmeg Drive Ellington CT 06029",
+        "town": "Ellington",
+        "phone": "(860) 918-7010",
+        "website": "https://peachywah-heating-and-cooling-llc.business.site",
+        "services": [
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.156767709758,
+          41.185892188166
+        ]
+      },
+      "properties": {
+        "name": "PosiGen",
+        "description": "Display Name: Posigen<br>Town: Bridgeport<br>Phone: 1 866-767-4436 Solar, (203)389-7077 project<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, PV, Storage",
+        "business_name": "Posigen",
+        "address": "304 Bishop Ave. 1 Fl. Bridgeport CT 06610",
+        "town": "Bridgeport",
+        "phone": "1 866-767-4436 Solar, (203)389-7077 project",
+        "website": "http://www.posigen.com/",
+        "services": [
+          "HES",
+          "HES/IE",
+          "Attic",
+          "Attic/IE",
+          "Bsmt",
+          "Bsmt/IE",
+          "Wall",
+          "Wall/IE",
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.387624872113,
+          39.827965411932
+        ]
+      },
+      "properties": {
+        "name": "Power Home Remodel",
+        "description": "Display Name: Power Home<br>Town: Trumbull<br>Phone: 610-874-5000",
+        "business_name": "Power Home",
+        "address": "60 Commerce Drive Trumbull CT 06611",
+        "town": "Trumbull",
+        "phone": "610-874-5000",
+        "website": "https://powerhrg.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.45491,
+          41.38555
+        ]
+      },
+      "properties": {
+        "name": "Powertech Service And Solutions",
+        "description": "Display Name: Powertech Service And Solutions<br>Town: Danbury<br>Phone: (203) 448-2614<br>Services: DHW, Heat, Cool",
+        "business_name": "Powertech Service And Solutions",
+        "address": "5 Powell St Danbury CT 06810",
+        "town": "Danbury",
+        "phone": "(203) 448-2614",
+        "website": "https://www.powertechsas.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.521668072787,
+          41.780094211973
+        ]
+      },
+      "properties": {
+        "name": "Precision Mechanical LLC",
+        "description": "Display Name: Precision Mechanical LLC<br>Town: Manchester<br>Phone: (860) 878-7927<br>Services: DHW, Heat, Cool",
+        "business_name": "Precision Mechanical LLC",
+        "address": "386 Main Street Manchester CT 06040",
+        "town": "Manchester",
+        "phone": "(860) 878-7927",
+        "website": "https://www.precisionmechanicalllc.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41120887175,
+          41.103355060344
+        ]
+      },
+      "properties": {
+        "name": "PurePoint Energy",
+        "description": "Display Name: PurePoint<br>Town: Norwalk<br>Phone: (203) 642-4105<br>Services: PV, Storage",
+        "business_name": "PurePoint",
+        "address": "22 South Smith St Norwalk CT 06855",
+        "town": "Norwalk",
+        "phone": "(203) 642-4105",
+        "website": "https://purepointenergy.com",
+        "services": [
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.104486516222,
+          41.461293228601
+        ]
+      },
+      "properties": {
+        "name": "Rheaume Heating LLCs",
+        "description": "Display Name: Rheaume Heating LLCs<br>Town: Uncasville<br>Phone: (860) 848-2647<br>Services: DHW, Heat, Cool",
+        "business_name": "Rheaume Heating LLCs",
+        "address": "1295 Norwich New London Turnpike Uncasville CT 06382",
+        "town": "Uncasville",
+        "phone": "(860) 848-2647",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.069737876965,
+          41.216480959501
+        ]
+      },
+      "properties": {
+        "name": "Ricks Plumbing",
+        "description": "Display Name: Ricks Plumb<br>Town: Milford<br>Phone: 203-874-6629",
+        "business_name": "Ricks Plumb",
+        "address": "1050 Bridgeport Ave. Milford CT 06460",
+        "town": "Milford",
+        "phone": "203-874-6629",
+        "website": "https://www.ricksplumbing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.869674684348,
+          41.652728591242
+        ]
+      },
+      "properties": {
+        "name": "Roberge Plumbing Inc",
+        "description": "Display Name: Roberge Plumbing Inc<br>Town: Plainville<br>Phone: (860) 747-1511<br>Services: DHW, Heat, Cool",
+        "business_name": "Roberge Plumbing Inc",
+        "address": "433 East St Plainville CT 06062",
+        "town": "Plainville",
+        "phone": "(860) 747-1511",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.388809091134,
+          41.611581919779
+        ]
+      },
+      "properties": {
+        "name": "RT's Construction",
+        "description": "Display Name: RT<br>Town: New Milford<br>Phone: 860-350-2232<br>Services: PV",
+        "business_name": "RT",
+        "address": "165 Chestnut Land Road New Milford CT 06776",
+        "town": "New Milford",
+        "phone": "860-350-2232",
+        "website": "https://rtsolarconstruction.net/",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.755946592845,
+          41.987032830239
+        ]
+      },
+      "properties": {
+        "name": "Samuel A Hanchett",
+        "description": "Display Name: Samuel A Hanchett<br>Town: West Suffield<br>Phone: (717) 916-1391<br>Services: DHW, Heat, Cool",
+        "business_name": "Samuel A Hanchett",
+        "address": "1220 Copper Hill Rd West Suffield CT 06093",
+        "town": "West Suffield",
+        "phone": "(717) 916-1391",
+        "website": "https://linkedin.com/in/sam-hanchett-a912a086/",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.878865494527,
+          41.621730785679
+        ]
+      },
+      "properties": {
+        "name": "SAVKAT",
+        "description": "Display Name: SAVKAT<br>Town: Southington<br>Phone: 800-860-6932<br>Services: PV",
+        "business_name": "SAVKAT",
+        "address": "36 Triano Dr. Southington CT 06489",
+        "town": "Southington",
+        "phone": "800-860-6932",
+        "website": "https://savkat.com/",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.431411130118,
+          41.209253790792
+        ]
+      },
+      "properties": {
+        "name": "Servco Oil & Propane",
+        "description": "Display Name: Servco Oil & Propane<br>Town: Wilton<br>Phone: (203) 529-1643<br>Services: DHW, Heat, Cool",
+        "business_name": "Servco Oil & Propane",
+        "address": "387 Danbury Road Wilton CT 06897",
+        "town": "Wilton",
+        "phone": "(203) 529-1643",
+        "website": "https://www.servcooil.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.137557717052,
+          41.506971650745
+        ]
+      },
+      "properties": {
+        "name": "Service Sean LLC",
+        "description": "Display Name: Service Sean LLC<br>Town: Middlebury<br>Phone: (203) 974-2817<br>Services: DHW, Heat, Cool",
+        "business_name": "Service Sean LLC",
+        "address": "595 Long Meadow Rd Middlebury CT 06762",
+        "town": "Middlebury",
+        "phone": "(203) 974-2817",
+        "website": "https://www.serviceseanllc.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.079437555424,
+          41.397666295888
+        ]
+      },
+      "properties": {
+        "name": "Seymour Energy Services LLC.",
+        "description": "Display Name: Seymour Energy Services LLC.<br>Town: Seymour<br>Phone: (203) 888-1700<br>Services: DHW, Heat, Cool",
+        "business_name": "Seymour Energy Services LLC.",
+        "address": "145 Bank St Seymour CT 06483",
+        "town": "Seymour",
+        "phone": "(203) 888-1700",
+        "website": "https://www.ilovepropane.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22015,
+          41.3142
+        ]
+      },
+      "properties": {
+        "name": "Sippin Energy Products",
+        "description": "Display Name: Sippin Energy Products<br>Town: Monroe<br>Phone: (203) 880-6755<br>Services: DHW, Heat, Cool",
+        "business_name": "Sippin Energy Products",
+        "address": "234 Main Street Monroe CT 06468",
+        "town": "Monroe",
+        "phone": "(203) 880-6755",
+        "website": "https://www.sippin.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.041900746508,
+          41.578113721772
+        ]
+      },
+      "properties": {
+        "name": "Skoatak Mechanical, LLC",
+        "description": "Display Name: Skoatak Mechanical, LLC<br>Town: Waterbury<br>Phone: (860) 796-5497<br>Services: DHW, Heat, Cool",
+        "business_name": "Skoatak Mechanical, LLC",
+        "address": "98 Herkimer Ave Waterbury CT 06704",
+        "town": "Waterbury",
+        "phone": "(860) 796-5497",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.956923799635,
+          41.564910759091
+        ]
+      },
+      "properties": {
+        "name": "Skye Mechanical Services LLC",
+        "description": "Display Name: Skye Mechanical Services LLC<br>Town: Wolcott<br>Phone: (203) 808-3630<br>Services: DHW, Heat, Cool",
+        "business_name": "Skye Mechanical Services LLC",
+        "address": "30 Midwood Avenue Wolcott CT 06716",
+        "town": "Wolcott",
+        "phone": "(203) 808-3630",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.860996147404,
+          41.692815800894
+        ]
+      },
+      "properties": {
+        "name": "Solvit",
+        "description": "Display Name: Solvit<br>Town: Plainville<br>Phone: 1-860-407-5716<br>Services: Plumb, DHW, Heat, Cool, Elect",
+        "business_name": "Solvit",
+        "address": "65 Farmington Valley Dr Plainville CT 06062",
+        "town": "Plainville",
+        "phone": "1-860-407-5716",
+        "website": "https://solvitnow.com",
+        "services": [
+          "Plumb",
+          "DHW",
+          "Heat",
+          "Cool",
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.447465797453,
+          41.984761055836
+        ]
+      },
+      "properties": {
+        "name": "Somers Oil Service, Inc,",
+        "description": "Display Name: Somers Oil Service, Inc,<br>Town: Somers<br>Phone: (860) 749-4490<br>Services: DHW, Heat, Cool",
+        "business_name": "Somers Oil Service, Inc,",
+        "address": "11 South Road Somers CT 06071",
+        "town": "Somers",
+        "phone": "(860) 749-4490",
+        "website": "https://www.somersoil.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.372037074925,
+          41.426593886388
+        ]
+      },
+      "properties": {
+        "name": "Son Energy Systems",
+        "description": "Display Name: Son Energy<br>Town: Lyme<br>Phone: 860-434-2757<br>Services: PV",
+        "business_name": "Son Energy",
+        "address": "194 Norwich Salem Rd. Lyme CT 06371",
+        "town": "Lyme",
+        "phone": "860-434-2757",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.110596296402,
+          41.617654014922
+        ]
+      },
+      "properties": {
+        "name": "Stockton Heating & Air Conditioning",
+        "description": "Display Name: Stockton Heating & Air Conditioning<br>Town: North Franklin<br>Phone: (860) 822-3647<br>Services: DHW, Heat, Cool",
+        "business_name": "Stockton Heating & Air Conditioning",
+        "address": "43 Pond Rd North Franklin CT 06254",
+        "town": "North Franklin",
+        "phone": "(860) 822-3647",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.97232,
+          41.94793
+        ]
+      },
+      "properties": {
+        "name": "Summer Hill Solar",
+        "description": "Display Name: Summer Hill<br>Town: Woodstock<br>Phone: 860-481-3802<br>Services: PV",
+        "business_name": "Summer Hill",
+        "address": "Woodstock CT 06281",
+        "town": "Woodstock",
+        "phone": "860-481-3802",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.912835381746,
+          41.305147822317
+        ]
+      },
+      "properties": {
+        "name": "Sunlight Solar",
+        "description": "Display Name: Sunlight<br>Town: New Haven<br>Phone: 541.322.1910<br>Services: PV",
+        "business_name": "Sunlight",
+        "address": "90 Hamilton Street New Haven CT 06511",
+        "town": "New Haven",
+        "phone": "541.322.1910",
+        "website": "http://sunlightsolar.com/",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74324868237,
+          41.616024681005
+        ]
+      },
+      "properties": {
+        "name": "Talevi Enterprises Inc",
+        "description": "Display Name: Talevi<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: ALM, Lead, Mold",
+        "business_name": "Talevi",
+        "address": "1255 Berlin Turnpike Berlin CT 06037",
+        "town": "Berlin",
+        "phone": "(860) 828-4331",
+        "website": "https://talevient.com/",
+        "services": [
+          "ALM",
+          "Lead",
+          "Mold"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20163232859,
+          41.202961690661
+        ]
+      },
+      "properties": {
+        "name": "Tallento Corporation",
+        "description": "Display Name: Tallento<br>Town: Bridgeport<br>Phone: 203 522 5220<br>Services: Attic, DHW, Heat, Cool, PV",
+        "business_name": "Tallento",
+        "address": "343 Gurdon St. Bridgeport CT 06606",
+        "town": "Bridgeport",
+        "phone": "203 522 5220",
+        "website": "https://www.tallentocorp.com",
+        "services": [
+          "Attic",
+          "DHW",
+          "Heat",
+          "Cool",
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.089263944076,
+          41.32003195412
+        ]
+      },
+      "properties": {
+        "name": "TEAM, Inc.",
+        "description": "Display Name: TEAM<br>Town: Derby<br>Phone: (203) 736-5420",
+        "business_name": "TEAM",
+        "address": "30 Elizabeth Street Derby CT 06418",
+        "town": "Derby",
+        "phone": "(203) 736-5420",
+        "website": "https://www.teaminc.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.814551959294,
+          41.321953511792
+        ]
+      },
+      "properties": {
+        "name": "Total Comfort Control LLC",
+        "description": "Display Name: Total Comfort Control LLC<br>Town: North Branford<br>Phone: (203) 484-9698<br>Services: DHW, Heat, Cool",
+        "business_name": "Total Comfort Control LLC",
+        "address": "75 Totoket Road North Branford CT 06471",
+        "town": "North Branford",
+        "phone": "(203) 484-9698",
+        "website": "https://www.totalcomfortcontrolllc.com",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.931941876969,
+          41.28994680137
+        ]
+      },
+      "properties": {
+        "name": "Tracey Energy Services LLC",
+        "description": "Display Name: Tracey<br>Town: New Haven<br>Phone: (203) 777-5747<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls",
+        "business_name": "Tracey",
+        "address": "325 Howard Avenue New Haven CT 06519",
+        "town": "New Haven",
+        "phone": "(203) 777-5747",
+        "website": "https://traceyenergy.com/",
+        "services": [
+          "DHW",
+          "DHW/IE",
+          "Heat",
+          "Heat/IE",
+          "Cool",
+          "Cool/IE",
+          "Controls"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.738995908489,
+          41.577404698488
+        ]
+      },
+      "properties": {
+        "name": "Tranmer Electric, LLC",
+        "description": "Display Name: Tranmer<br>Town: Middletown<br>Phone: (860) 346-8404<br>Services: Elect, K&T",
+        "business_name": "Tranmer",
+        "address": "32 Shirleys Court Middletown CT 06457",
+        "town": "Middletown",
+        "phone": "(860) 346-8404",
+        "website": "https://tranmerelectric.com/residential-services/",
+        "services": [
+          "Elect",
+          "K&T"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.918342555362,
+          41.552061101837
+        ]
+      },
+      "properties": {
+        "name": "Trinity Solar",
+        "description": "Display Name: Trinity<br>Town: Cheshire<br>Phone: 203-701-3724<br>Services: PV",
+        "business_name": "Trinity",
+        "address": "7 McKee Place Cheshire CT 06410",
+        "town": "Cheshire",
+        "phone": "203-701-3724",
+        "website": "https://www.trinity-solar.com",
+        "services": [
+          "PV"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.156203847515,
+          41.681110790156
+        ]
+      },
+      "properties": {
+        "name": "Turner Plumbing And Hvac LLC",
+        "description": "Display Name: Turner Plumbing And Hvac LLC<br>Town: Windham<br>Phone: (860) 800-4713<br>Services: DHW, Heat, Cool",
+        "business_name": "Turner Plumbing And Hvac LLC",
+        "address": "124 Jerusalem Rd Windham CT 06280",
+        "town": "Windham",
+        "phone": "(860) 800-4713",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.988412459516,
+          41.60271255485
+        ]
+      },
+      "properties": {
+        "name": "Thames Valley Council for Community Action, Inc. (TVCCA)",
+        "description": "Display Name: TVCCA<br>Town: Jewett City<br>Phone: (860) 889-1365",
+        "business_name": "TVCCA",
+        "address": "One Sylvandale Road Jewett City CT 06351",
+        "town": "Jewett City",
+        "phone": "(860) 889-1365",
+        "website": "https://www.tvcca.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.675293831361,
+          41.737529168946
+        ]
+      },
+      "properties": {
+        "name": "Ugo Di Grazia Heating-Cooling",
+        "description": "Display Name: Ugo Di Grazia Heating-Cooling<br>Town: Hartford<br>Phone: (860) 544-5163<br>Services: DHW, Heat",
+        "business_name": "Ugo Di Grazia Heating-Cooling",
+        "address": "436 Franklin Ave. Hartford CT 06114",
+        "town": "Hartford",
+        "phone": "(860) 544-5163",
+        "website": "https://www.ugodigraziaheatingandcooling.com",
+        "services": [
+          "DHW",
+          "Heat"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.815037520903,
+          41.869905182534
+        ]
+      },
+      "properties": {
+        "name": "Valley Air Conditioning & Heating, Inc.",
+        "description": "Display Name: Valley Air Conditioning & Heating, Inc.<br>Town: Simsbury<br>Phone: (860) 658-0371<br>Services: DHW, Heat, Cool",
+        "business_name": "Valley Air Conditioning & Heating, Inc.",
+        "address": "129 West Street Simsbury CT 06070",
+        "town": "Simsbury",
+        "phone": "(860) 658-0371",
+        "website": "https://valley-air.com/",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.675534900122,
+          41.487153218332
+        ]
+      },
+      "properties": {
+        "name": "Valley Heating & Cooling, Inc.",
+        "description": "Display Name: Valley Heating & Cooling, Inc.<br>Town: Richmond<br>Phone: (401) 539-0400<br>Services: DHW, Heat, Cool",
+        "business_name": "Valley Heating & Cooling, Inc.",
+        "address": "98 Kenyon Hill Trail Richmond RI 02898",
+        "town": "Richmond",
+        "phone": "(401) 539-0400",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0543,
+          41.4926
+        ]
+      },
+      "properties": {
+        "name": "Valleyview Windows",
+        "description": "Display Name: Valleyview<br>Town: Naugatuck<br>Phone: (203) 528-6979<br>Services: Windows",
+        "business_name": "Valleyview",
+        "address": "Naugatuck CT 06770",
+        "town": "Naugatuck",
+        "phone": "(203) 528-6979",
+        "website": "http://www.valleyviewwindowsct.com/index.cfm",
+        "services": [
+          "Windows"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.876840182124,
+          41.256324231583
+        ]
+      },
+      "properties": {
+        "name": "Viglione Heating Cooling Inc",
+        "description": "Display Name: Viglione<br>Town: East Haven<br>Phone: (203) 467-8388<br>Services: Plumb, DHW, Heat, Cool, Duct clean",
+        "business_name": "Viglione",
+        "address": "259 Commerce Street East Haven CT 06513",
+        "town": "East Haven",
+        "phone": "(203) 467-8388",
+        "website": "https://www.viglione.com",
+        "services": [
+          "Plumb",
+          "DHW",
+          "Heat",
+          "Cool",
+          "Duct clean"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.313592708107,
+          41.29276102998
+        ]
+      },
+      "properties": {
+        "name": "Waldo Renewable Electric",
+        "description": "Display Name: Waldo<br>Town: Old Lyme<br>Phone: 203-494-9523<br>Services: PV, Storage",
+        "business_name": "Waldo",
+        "address": "14 Littlefield Dr Old Lyme CT 06371",
+        "town": "Old Lyme",
+        "phone": "203-494-9523",
+        "website": "https://www.waldorenewable.com",
+        "services": [
+          "PV",
+          "Storage"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.007670098032,
+          41.911077772703
+        ]
+      },
+      "properties": {
+        "name": "Warrior Mechanical Service Company",
+        "description": "Display Name: Warrior Mechanical Service Company<br>Town: Barkhamsted<br>Phone: (860) 948-0387<br>Services: DHW, Heat, Cool",
+        "business_name": "Warrior Mechanical Service Company",
+        "address": "19 Fancher Rd Barkhamsted CT 06063",
+        "town": "Barkhamsted",
+        "phone": "(860) 948-0387",
+        "website": "https://homeadvisor.com/rated.warriorwatersolutions.112878307.html",
+        "services": [
+          "DHW",
+          "Heat",
+          "Cool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.753594337124,
+          41.788393112079
+        ]
+      },
+      "properties": {
+        "name": "West Hartford Electric",
+        "description": "Display Name: WHartford E<br>Town: West Hartford<br>Phone: 860-690-9472<br>Services: Elect",
+        "business_name": "WHartford E",
+        "address": "34 Magnolia Hill West Hartford CT 06117",
+        "town": "West Hartford",
+        "phone": "860-690-9472",
+        "website": "http://westhartfordelectric.com",
+        "services": [
+          "Elect"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.928102450201,
+          41.319815855647
+        ]
+      },
+      "properties": {
+        "name": "Winchester Environmental",
+        "description": "Display Name: Winchester<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: ALM, Mold, VRM",
+        "business_name": "Winchester",
+        "address": "185 Winchester Ave, New Haven CT 06511",
+        "town": "New Haven",
+        "phone": "(203) 887-0377 Owner(203) 309-0756",
+        "website": "https://www.winchesterenvironmental.com/",
+        "services": [
+          "ALM",
+          "Mold",
+          "VRM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.553696871195,
+          41.789935513325
+        ]
+      },
+      "properties": {
+        "name": "Window World",
+        "description": "Display Name: Window World<br>Town: Manchester<br>Phone: 18606434568<br>Services: Windows",
+        "business_name": "Window World",
+        "address": "409 New State Rd Manchester CT 06042",
+        "town": "Manchester",
+        "phone": "18606434568",
+        "website": "https://www.windowworld.com",
+        "services": [
+          "Windows"
+        ]
+      }
+    }
+  ]
+}
