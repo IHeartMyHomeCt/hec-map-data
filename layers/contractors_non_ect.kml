@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Contractors: Non-Energize CT</name>
-    <description>Generated 2026-10-05 04:55 EDT from Airtable Contractors / Non-energize CT contractors. Do not edit by hand.</description>
+    <description>Generated 2026-10-05 11:44 EDT from Airtable Contractors / Non-energize CT contractors. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ff1c85f0</color>
@@ -14,37 +14,37 @@
     </Style>
     <Placemark>
       <name>2 Cool Guys Hvac</name>
-      <description><![CDATA[Display Name: 2CoolGuys<br>Town: Bozrah<br>Phone: (860) 818-8549<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: 2CoolGuys<br>Town: Bozrah<br>Phone: (860) 818-8549<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.20201326062,41.53480521043,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>3C Electric</name>
-      <description><![CDATA[Display Name: 3C Electric<br>Town: Hartford<br>Phone: (860) 218-8500<br>Services: Elect]]></description>
+      <description><![CDATA[Display Name: 3C Electric<br>Town: Hartford<br>Phone: (860) 218-8500<br>Services: Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.706437863824,41.756551574647,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>4U Heating &amp; Cooling Services, LLC</name>
-      <description><![CDATA[Display Name: 4U<br>Town: Milford<br>Phone: (203)988-2255<br>Services: DHW, Heat]]></description>
+      <description><![CDATA[Display Name: 4U<br>Town: Milford<br>Phone: (203)988-2255<br>Services: Heat pump water heating installation, Heating system installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.011922749353,41.241739415254,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>2020 Air Mechanical</name>
-      <description><![CDATA[Display Name: 20/20<br>Town: New Milford<br>Phone: (860) 272-8789<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: 20/20<br>Town: New Milford<br>Phone: (860) 272-8789<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.425462538557,41.534359024682,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>24/7 Mechanical Service LLC</name>
-      <description><![CDATA[Display Name: 24/7 Mechanical Service LLC<br>Town: Bridgeport<br>Phone: (203) 394-8727<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: 24/7 Mechanical Service LLC<br>Town: Bridgeport<br>Phone: (203) 394-8727<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.210963659327,41.204402566677,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>A+ Home Improvements</name>
-      <description><![CDATA[Display Name: A+<br>Town: New Milford<br>Phone: (860) 799-7887<br>Services: Roof]]></description>
+      <description><![CDATA[Display Name: A+<br>Town: New Milford<br>Phone: (860) 799-7887<br>Services: Roofing replacement or repairs]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.399299051076,41.552860174884,0</coordinates></Point>
     </Placemark>
@@ -62,109 +62,109 @@
     </Placemark>
     <Placemark>
       <name>Action Air Systems</name>
-      <description><![CDATA[Display Name: Action Air Systems<br>Town: Manchester<br>Phone: (860) 645-8838<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Action Air Systems<br>Town: Manchester<br>Phone: (860) 645-8838<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.55193424396,41.791884907508,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Action Solar</name>
-      <description><![CDATA[Display Name: Action Solar<br>Town: West Hartford<br>Phone: 480-239-9945<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: Action Solar<br>Town: West Hartford<br>Phone: 480-239-9945<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.766972623789,41.762557404461,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>ADJ Of Stamford</name>
-      <description><![CDATA[Display Name: ADJ Of Stamford<br>Town: Stamford<br>Phone: (203) 348-6448<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: ADJ Of Stamford<br>Town: Stamford<br>Phone: (203) 348-6448<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.554013894541,41.039150427255,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Aegis Solar</name>
-      <description><![CDATA[Display Name: Aegis<br>Town: Branford<br>Phone: 203-208-1856; Nathan Cell 203.640.2271<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: Aegis<br>Town: Branford<br>Phone: 203-208-1856; Nathan Cell 203.640.2271<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.770256732794,41.303306535602,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Aiello Home Services</name>
-      <description><![CDATA[Display Name: Aiello <br>Town: Windsor Locks<br>Phone: (860) 292-2600<br>Services: HES, DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Aiello <br>Town: Windsor Locks<br>Phone: (860) 292-2600<br>Services: Home energy solutions, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.63954,41.92593,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Air Flo Mechanical</name>
-      <description><![CDATA[Display Name: Air Flo Mechanical<br>Town: Colchester<br>Phone: (860) 989-5079<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Air Flo Mechanical<br>Town: Colchester<br>Phone: (860) 989-5079<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.283567173943,41.575091077171,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Air Specialties Air Conditioning &amp; Heating Inc</name>
-      <description><![CDATA[Display Name: Air Spec<br>Town: West Haven<br>Phone: (475) 235-8825<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Air Spec<br>Town: West Haven<br>Phone: (475) 235-8825<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.947068891703,41.28845551023,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Alberca Contruction</name>
-      <description><![CDATA[Display Name: Alberca<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: ALM, Mold]]></description>
+      <description><![CDATA[Display Name: Alberca<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: Asbestos remediation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.475596758528,41.750262291492,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>All Phase</name>
-      <description><![CDATA[Display Name: All Phase<br>Town: East Haven<br>Phone: 203-361-2472<br>Services: Plumb, Heat, Cool, Duct clean]]></description>
+      <description><![CDATA[Display Name: All Phase<br>Town: East Haven<br>Phone: 203-361-2472<br>Services: Plumbing, Heating system installation, Heat pump air conditioning installation, Ductwork cleaning]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.874009284058,41.286195271348,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>All Set Heating &amp; Cooling LLC</name>
-      <description><![CDATA[Display Name: All Set<br>Town: Cromwell<br>Phone: (475) 238-5927<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: All Set<br>Town: Cromwell<br>Phone: (475) 238-5927<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.676185208615,41.601674443822,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Amp&apos;d Enterprises</name>
-      <description><![CDATA[Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Duct clean, Mold]]></description>
+      <description><![CDATA[Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Ductwork cleaning, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.77046,41.30392,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Archer Heating And Cooling</name>
-      <description><![CDATA[Display Name: Archer<br>Town: Torrington<br>Phone: (203) 731-4066<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Archer<br>Town: Torrington<br>Phone: (203) 731-4066<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.083225438021,41.802680278438,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Best Energy LLC</name>
-      <description><![CDATA[Display Name: Best Energy LLC<br>Town: Pawcatuck<br>Phone: (860) 599-1920<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Best Energy LLC<br>Town: Pawcatuck<br>Phone: (860) 599-1920<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-71.833206527385,41.377206494892,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Bobs Insulation</name>
-      <description><![CDATA[Display Name: Bobs<br>Town: Sutton<br>Phone: 508 865 2312<br>Services: Attic]]></description>
+      <description><![CDATA[Display Name: Bobs<br>Town: Sutton<br>Phone: 508 865 2312<br>Services: Attic insulation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-71.784380346122,42.160800142103,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Bourque Hc Solutions, LLC</name>
-      <description><![CDATA[Display Name: Bourque Hc Solutions, LLC<br>Town: Windham<br>Phone: (860) 617-7767<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Bourque Hc Solutions, LLC<br>Town: Windham<br>Phone: (860) 617-7767<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.180439485811,41.713711300707,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Britt Air Services</name>
-      <description><![CDATA[Display Name: Britt Air Services<br>Town: Southport<br>Phone: (203) 254-0500<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Britt Air Services<br>Town: Southport<br>Phone: (203) 254-0500<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.285047402427,41.137384324522,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Brown Roofing</name>
-      <description><![CDATA[Display Name: Brown<br>Town: Seymour<br>Phone: 203-442-9616<br>Services: Roof]]></description>
+      <description><![CDATA[Display Name: Brown<br>Town: Seymour<br>Phone: 203-442-9616<br>Services: Roofing replacement or repairs]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.052768429162,41.391139703768,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Busy Bee Services LLC</name>
-      <description><![CDATA[Display Name: Busy Bee<br>Town: Farmington<br>Phone: (860) 500-8551 860-847-7158<br>Services: Plumb, DHW, Heat, Cool, Duct clean]]></description>
+      <description><![CDATA[Display Name: Busy Bee<br>Town: Farmington<br>Phone: (860) 500-8551 860-847-7158<br>Services: Plumbing, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation, Ductwork cleaning]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.854978508078,41.748520716979,0</coordinates></Point>
     </Placemark>
@@ -176,85 +176,85 @@
     </Placemark>
     <Placemark>
       <name>Cameron Plumbing &amp; Heating</name>
-      <description><![CDATA[Display Name: Cameron Plumbing & Heating<br>Town: Portland<br>Phone: (860) 342-3750<br>Services: Plumb, Heat]]></description>
+      <description><![CDATA[Display Name: Cameron Plumbing & Heating<br>Town: Portland<br>Phone: (860) 342-3750<br>Services: Plumbing, Heating system installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.635344840973,41.571051156321,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Capitol Air</name>
-      <description><![CDATA[Display Name: Capitol Air<br>Town: Milford<br>Phone: (203) 650-7480<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Capitol Air<br>Town: Milford<br>Phone: (203) 650-7480<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.097654392292,41.22901311903,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Capitol Refrigeration LLC</name>
-      <description><![CDATA[Display Name: Capitol Refrigeration LLC<br>Town: Tolland<br>Phone: (870) 357-7809<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Capitol Refrigeration LLC<br>Town: Tolland<br>Phone: (870) 357-7809<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.402589369116,41.865615050831,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Chiarillo&apos;S Heating &amp; Air Conditioning LLC</name>
-      <description><![CDATA[Display Name: Charillo<br>Town: Bristol<br>Phone: (860) 585-8139<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Charillo<br>Town: Bristol<br>Phone: (860) 585-8139<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.906122230613,41.657871127815,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Charles Abatement, LLC</name>
-      <description><![CDATA[Display Name: Charles<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: ALM]]></description>
+      <description><![CDATA[Display Name: Charles<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: Asbestos remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.933979916859,41.324378742893,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Charter Oak</name>
-      <description><![CDATA[Display Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: ALM, Lead, Mold]]></description>
+      <description><![CDATA[Display Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: Asbestos remediation, Lead remediation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.022941563365,41.228660129296,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Climate Partners</name>
-      <description><![CDATA[Display Name: Climate Partners<br>Town: Milford<br>Phone: (203) 877-7771<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Climate Partners<br>Town: Milford<br>Phone: (203) 877-7771<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.075652549237,41.214132961633,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Cole Heating &amp; Cooling</name>
-      <description><![CDATA[Display Name: Cole Heating & Cooling<br>Town: Seymour<br>Phone: (203) 888-0376<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Cole Heating & Cooling<br>Town: Seymour<br>Phone: (203) 888-0376<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.073827602471,41.388639042098,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>ConEd Solutions</name>
-      <description><![CDATA[Display Name: ConEd<br>Town: Danbury<br>Phone: (844) 896-2614<br>Services: PV, Storage]]></description>
+      <description><![CDATA[Display Name: ConEd<br>Town: Danbury<br>Phone: (844) 896-2614<br>Services: Solar installation, Solar battery storage]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.428088674211,41.406420782951,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Controlled Temperatures, Inc.</name>
-      <description><![CDATA[Display Name: Controlled Temperatures, Inc.<br>Town: Stamford<br>Phone: (203) 348-9141<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Controlled Temperatures, Inc.<br>Town: Stamford<br>Phone: (203) 348-9141<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.521420896678,41.069429346739,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Core Value</name>
-      <description><![CDATA[Display Name: Core Value<br>Town: Lancaster<br>Phone: 800-605-8007<br>Services: Aeroseal, Duct clean]]></description>
+      <description><![CDATA[Display Name: Core Value<br>Town: Lancaster<br>Phone: 800-605-8007<br>Services: Advanced Duct Sealing with Aeroseal, Ductwork cleaning]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-76.290108643765,40.011399883984,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Cornwall Plumbing &amp; Heating LLC</name>
-      <description><![CDATA[Display Name: Cornwall Plumbing & Heating LLC<br>Town: Canaan<br>Phone: (860) 672-6350<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Cornwall Plumbing & Heating LLC<br>Town: Canaan<br>Phone: (860) 672-6350<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.327171948717,42.025331106595,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>CPM Environmental</name>
-      <description><![CDATA[Display Name: CPM Env<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: ALM, Mold]]></description>
+      <description><![CDATA[Display Name: CPM Env<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: Asbestos remediation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.114131423436,41.46531376211,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Crownpoint Heating And Cooling</name>
-      <description><![CDATA[Display Name: Crownpoint Heating And Cooling<br>Town: Lebanon<br>Phone: (860) 336-9132<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Crownpoint Heating And Cooling<br>Town: Lebanon<br>Phone: (860) 336-9132<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.294715353954,41.630294029161,0</coordinates></Point>
     </Placemark>
@@ -266,43 +266,43 @@
     </Placemark>
     <Placemark>
       <name>CT Home Solutions</name>
-      <description><![CDATA[Display Name: CT Homes<br>Town: Wallingford<br>Phone: 18882180909<br>Services: HES, Attic]]></description>
+      <description><![CDATA[Display Name: CT Homes<br>Town: Wallingford<br>Phone: 18882180909<br>Services: Home energy solutions, Attic insulation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.819734127064,41.479458086631,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Cts Heating &amp; Cooling, Inc</name>
-      <description><![CDATA[Display Name: CTS<br>Town: West Haven<br>Phone: (203) 389-6099<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: CTS<br>Town: West Haven<br>Phone: (203) 389-6099<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.972841480463,41.296948862664,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Degree Incorporated</name>
-      <description><![CDATA[Display Name: Degree Incorporated<br>Town: Glastonbury<br>Phone: (860) 633-6122<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Degree Incorporated<br>Town: Glastonbury<br>Phone: (860) 633-6122<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.591780660652,41.710255710187,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Deitch Energy</name>
-      <description><![CDATA[Display Name: Deitch Energy<br>Town: Hartford<br>Phone: (860) 215-5353<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Deitch Energy<br>Town: Hartford<br>Phone: (860) 215-5353<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.701568603999,41.769889157904,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Dillon Roofing</name>
-      <description><![CDATA[Display Name: Dillon Roofing<br>Town: Northford<br>Phone: 203-484-4503<br>Services: Roof]]></description>
+      <description><![CDATA[Display Name: Dillon Roofing<br>Town: Northford<br>Phone: 203-484-4503<br>Services: Roofing replacement or repairs]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.760912326293,41.411613296146,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Direct Home Services</name>
-      <description><![CDATA[Display Name: Direct Home<br>Town: Durham<br>Phone: (860) 352-1017<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls]]></description>
+      <description><![CDATA[Display Name: Direct Home<br>Town: Durham<br>Phone: (860) 352-1017<br>Services: Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, HVAC control integration installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.715159196465,41.470891862367,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Donahues Plumbing Heating And Ac</name>
-      <description><![CDATA[Display Name: Donahues Plumbing Heating And Ac<br>Town: Watertown<br>Phone: (203) 704-1188<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Donahues Plumbing Heating And Ac<br>Town: Watertown<br>Phone: (203) 704-1188<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.152093155402,41.624947113355,0</coordinates></Point>
     </Placemark>
@@ -314,73 +314,73 @@
     </Placemark>
     <Placemark>
       <name>Dynamic Electrical Systems LLC</name>
-      <description><![CDATA[Display Name: Dynamic Electrical Systems LLC<br>Town: Meriden<br>Phone: 203-494-1023<br>Services: Elect]]></description>
+      <description><![CDATA[Display Name: Dynamic Electrical Systems LLC<br>Town: Meriden<br>Phone: 203-494-1023<br>Services: Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.753054798195,41.526863538041,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>East Coast Mechanical, Inc. Heating &amp; Cooling</name>
-      <description><![CDATA[Display Name: EC Mech<br>Town: Cheshire<br>Phone: 12032726676<br>Services: DHW, Heat]]></description>
+      <description><![CDATA[Display Name: EC Mech<br>Town: Cheshire<br>Phone: 12032726676<br>Services: Heat pump water heating installation, Heating system installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.894818975083,41.531845885897,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>EcoSolar Installations</name>
-      <description><![CDATA[Display Name: EcoSolar<br>Town: Branford<br>Phone: 203-530-1330<br>Services: PV, Storage]]></description>
+      <description><![CDATA[Display Name: EcoSolar<br>Town: Branford<br>Phone: 203-530-1330<br>Services: Solar installation, Solar battery storage]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.796441021265,41.2992810209,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Environmental Group Inc.</name>
-      <description><![CDATA[Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: ALM, Mold, VRM]]></description>
+      <description><![CDATA[Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.633270008535,41.550804308905,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Energy Management Authority, LLC</name>
-      <description><![CDATA[Display Name: EMA<br>Town: Milford<br>Phone: (203)919-1445<br>Services: HES, Attic, Bsmt, Wall]]></description>
+      <description><![CDATA[Display Name: EMA<br>Town: Milford<br>Phone: (203)919-1445<br>Services: Home energy solutions, Attic insulation, Basement insulation, Wall insulation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.012741067463,41.241083850417,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Eminent Mechanical Llc</name>
-      <description><![CDATA[Display Name: Eminent Mechanical Llc<br>Town: Meriden<br>Phone: (860) 992-6244<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Eminent Mechanical Llc<br>Town: Meriden<br>Phone: (860) 992-6244<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.80800967152,41.543446827847,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Environmental Contracting &amp; Demolition, LLC</name>
-      <description><![CDATA[Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM]]></description>
+      <description><![CDATA[Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.039700945214,41.547739819888,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>The-Energy Store</name>
-      <description><![CDATA[Display Name: Energy Store<br>Town: Newtown<br>Phone: 203-448-6875<br>Services: HES]]></description>
+      <description><![CDATA[Display Name: Energy Store<br>Town: Newtown<br>Phone: 203-448-6875<br>Services: Home energy solutions]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.289446398593,41.390384936649,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Environmental Control, LLC</name>
-      <description><![CDATA[Display Name: Environmental Control, LLC<br>Town: Stratford<br>Phone: (203) 209-2887<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Environmental Control, LLC<br>Town: Stratford<br>Phone: (203) 209-2887<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.145654992299,41.168260696635,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Ergo Air Mechanical Inc.</name>
-      <description><![CDATA[Display Name: Ergo Air Mechanical Inc.<br>Town: New Hyde Park<br>Phone: (718) 208-0009<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Ergo Air Mechanical Inc.<br>Town: New Hyde Park<br>Phone: (718) 208-0009<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.686823802062,40.727086609609,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Eriksson Electric</name>
-      <description><![CDATA[Display Name: Eriksson Electric<br>Town: West Hartford<br>Phone: 860-236-4352<br>Services: Elect]]></description>
+      <description><![CDATA[Display Name: Eriksson Electric<br>Town: West Hartford<br>Phone: 860-236-4352<br>Services: Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.771330988137,41.740928938902,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>European Technology</name>
-      <description><![CDATA[Display Name: European Technology<br>Town: East Granby<br>Phone: (413) 374-4660<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: European Technology<br>Town: East Granby<br>Phone: (413) 374-4660<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.738920381634,41.903450672503,0</coordinates></Point>
     </Placemark>
@@ -392,25 +392,25 @@
     </Placemark>
     <Placemark>
       <name>Fresh Air Heating And Cooling, LLC</name>
-      <description><![CDATA[Display Name: Fresh Air Heating And Cooling, LLC<br>Town: Danbury<br>Phone: (203) 650-1195<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Fresh Air Heating And Cooling, LLC<br>Town: Danbury<br>Phone: (203) 650-1195<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.490326336175,41.449465224718,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>FSI Oil And Propane LLC</name>
-      <description><![CDATA[Display Name: FSI Oil And Propane LLC<br>Town: Broad Brook<br>Phone: (413) 532-3500<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: FSI Oil And Propane LLC<br>Town: Broad Brook<br>Phone: (413) 532-3500<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.595209709153,42.214952480364,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Furnace Man</name>
-      <description><![CDATA[Display Name: Furnace Man<br>Town: Wallingford<br>Phone: (203) 678-4171<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Furnace Man<br>Town: Wallingford<br>Phone: (203) 678-4171<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.778173210836,41.453344948051,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>G C Electric Inc</name>
-      <description><![CDATA[Display Name: G C Electric Inc<br>Town: Cheshire<br>Phone: (203) 272-9521<br>Services: Elect]]></description>
+      <description><![CDATA[Display Name: G C Electric Inc<br>Town: Cheshire<br>Phone: (203) 272-9521<br>Services: Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.895114879682,41.541502279757,0</coordinates></Point>
     </Placemark>
@@ -422,49 +422,49 @@
     </Placemark>
     <Placemark>
       <name>Green Power Energy</name>
-      <description><![CDATA[Display Name: GPE<br>Town: Durham<br>Phone: (844) 584-0008<br>Services: PV, Storage, Elect]]></description>
+      <description><![CDATA[Display Name: GPE<br>Town: Durham<br>Phone: (844) 584-0008<br>Services: Solar installation, Solar battery storage, Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.715354575038,41.471150294078,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Green Banyan Consulting</name>
-      <description><![CDATA[Display Name: Green Banyan<br>Town: New Haven<br>Phone: 860-740-6818<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: Green Banyan<br>Town: New Haven<br>Phone: 860-740-6818<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.925288475592,41.30658762155,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Hagan Mechanical Services LLC</name>
-      <description><![CDATA[Display Name: Hagan Mechanical Services LLC<br>Town: Deep River<br>Phone: (203) 217-8290<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Hagan Mechanical Services LLC<br>Town: Deep River<br>Phone: (203) 217-8290<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.435007804617,41.382858218891,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Hands on Moving</name>
-      <description><![CDATA[Display Name: Hands On<br>Town: New Haven<br>Phone: (203) 415-1771<br>Services: Handy, Other]]></description>
+      <description><![CDATA[Display Name: Hands On<br>Town: New Haven<br>Phone: (203) 415-1771<br>Services: Handywork, Other]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.925288475592,41.30658762155,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Highwood Mechanical LLC</name>
-      <description><![CDATA[Display Name: Highwood<br>Town: Hamden<br>Phone: (203) 288-3315 (203) 627-8510<br>Services: DHW, Heat, Cool, GSHP]]></description>
+      <description><![CDATA[Display Name: Highwood<br>Town: Hamden<br>Phone: (203) 288-3315 (203) 627-8510<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation, Ground source heat pump installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.919859697132,41.401669520909,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Hoffman Fuel of Bridgeport</name>
-      <description><![CDATA[Display Name: Hoffman Fuel<br>Town: Trumbull<br>Phone: 203-396-5570<br>Services: HES]]></description>
+      <description><![CDATA[Display Name: Hoffman Fuel<br>Town: Trumbull<br>Phone: 203-396-5570<br>Services: Home energy solutions]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.18148580477,41.227133494627,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Hometown Heating</name>
-      <description><![CDATA[Display Name: Hometown Heating<br>Town: Brooklyn<br>Phone: (860) 779-2222<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Hometown Heating<br>Town: Brooklyn<br>Phone: (860) 779-2222<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-71.974799369232,41.812506606589,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>HOP Energy</name>
-      <description><![CDATA[Display Name: HOP Energy<br>Town: Portland<br>Phone: (860) 342-5755<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: HOP Energy<br>Town: Portland<br>Phone: (860) 342-5755<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.645109464429,41.57055222273,0</coordinates></Point>
     </Placemark>
@@ -476,85 +476,85 @@
     </Placemark>
     <Placemark>
       <name>Hyper Heating &amp; Cooling LLC</name>
-      <description><![CDATA[Display Name: Hyper Heating & Cooling LLC<br>Town: Plantsville<br>Phone: (860) 966-5717<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Hyper Heating & Cooling LLC<br>Town: Plantsville<br>Phone: (860) 966-5717<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.914033434904,41.578646359978,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>InstaPlumbing</name>
-      <description><![CDATA[Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumb, DHW, DHW/IE]]></description>
+      <description><![CDATA[Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.990742946113,41.59034979437,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Ion Solar Pros</name>
-      <description><![CDATA[Display Name: Ion Solar<br>Town: Wolcott<br>Phone: 203-580-1170<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: Ion Solar<br>Town: Wolcott<br>Phone: 203-580-1170<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.963254593055,41.633578557672,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>JL Mechanical Services LLC</name>
-      <description><![CDATA[Display Name: JL Mechanical Services LLC<br>Town: Enfield<br>Phone: (860) 422-5617<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: JL Mechanical Services LLC<br>Town: Enfield<br>Phone: (860) 422-5617<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.545626210548,42.026298724022,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>JMP Electric</name>
-      <description><![CDATA[Display Name: JMP Electric<br>Town: Middletown<br>Phone: (860) 770-7251<br>Services: Elect]]></description>
+      <description><![CDATA[Display Name: JMP Electric<br>Town: Middletown<br>Phone: (860) 770-7251<br>Services: Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.64612,41.53045,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Justin Nuno Hvac &amp; Plumbing LLC</name>
-      <description><![CDATA[Display Name: Justin Nuno Hvac & Plumbing LLC<br>Town: North Windham<br>Phone: (959) 444-6688<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Justin Nuno Hvac & Plumbing LLC<br>Town: North Windham<br>Phone: (959) 444-6688<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.153296566485,41.752103360912,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Keith&apos;S Heating &amp; Cooling LLC</name>
-      <description><![CDATA[Display Name: Keith'S Heating & Cooling LLC<br>Town: Danielson<br>Phone: (860) 377-0116<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Keith'S Heating & Cooling LLC<br>Town: Danielson<br>Phone: (860) 377-0116<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-71.878514875851,41.814649529601,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Kenair</name>
-      <description><![CDATA[Display Name: Kenair<br>Town: East Lyme<br>Phone: (860) 235-6743<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Kenair<br>Town: East Lyme<br>Phone: (860) 235-6743<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.222159531105,41.413737627371,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Kitchen Classy</name>
-      <description><![CDATA[Display Name: Kitchen Classy<br>Town: Carmel<br>Phone: (917) 250-9625<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Kitchen Classy<br>Town: Carmel<br>Phone: (917) 250-9625<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.722585923887,41.423699034907,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>L-Train Electric LLC</name>
-      <description><![CDATA[Display Name: L-Train<br>Town: Middletown<br>Phone: (860) 343-1797<br>Services: Elect]]></description>
+      <description><![CDATA[Display Name: L-Train<br>Town: Middletown<br>Phone: (860) 343-1797<br>Services: Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.641272428985,41.527404848088,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>LA Mechanical Services</name>
-      <description><![CDATA[Display Name: LA<br>Town: Rocky Hill<br>Phone: (860) 371-5459<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: LA<br>Town: Rocky Hill<br>Phone: (860) 371-5459<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.667201857154,41.656113122091,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Lamere Mechanical Services</name>
-      <description><![CDATA[Display Name: Lamere<br>Town: New Hartford<br>Phone: (860) 307-2488<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Lamere<br>Town: New Hartford<br>Phone: (860) 307-2488<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.036134521268,41.840711431127,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Landucci Heating &amp; Cooling Inc.</name>
-      <description><![CDATA[Display Name: Landucci Heating & Cooling Inc.<br>Town: Torrington<br>Phone: (860) 496-0114<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Landucci Heating & Cooling Inc.<br>Town: Torrington<br>Phone: (860) 496-0114<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.120722219642,41.82056686989,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Lawson Power Source</name>
-      <description><![CDATA[Display Name: Lawson Power Source<br>Town: Hartford<br>Phone: (860) 983-1663<br>Services: Elect]]></description>
+      <description><![CDATA[Display Name: Lawson Power Source<br>Town: Hartford<br>Phone: (860) 983-1663<br>Services: Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.691527684883,41.780366144276,0</coordinates></Point>
     </Placemark>
@@ -566,19 +566,19 @@
     </Placemark>
     <Placemark>
       <name>Mark Electric</name>
-      <description><![CDATA[Display Name: Mark<br>Town: Middlebury<br>Phone: 203-592-2800<br>Services: Elect, EV]]></description>
+      <description><![CDATA[Display Name: Mark<br>Town: Middlebury<br>Phone: 203-592-2800<br>Services: Electrical, Electric Vehicle charger or car purchase]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.12567,41.52815,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>MC Mechanical Services, LLC</name>
-      <description><![CDATA[Display Name: MC<br>Town: East Granby<br>Phone: (860) 847-1268<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: MC<br>Town: East Granby<br>Phone: (860) 847-1268<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.733123052257,41.952067050689,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Miller Fuel LLC</name>
-      <description><![CDATA[Display Name: Miller Fuel LLC<br>Town: Burlington<br>Phone: (860) 675-6121<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Miller Fuel LLC<br>Town: Burlington<br>Phone: (860) 675-6121<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.96455,41.76843,0</coordinates></Point>
     </Placemark>
@@ -590,19 +590,19 @@
     </Placemark>
     <Placemark>
       <name>Mountain Top Mechanical LLC</name>
-      <description><![CDATA[Display Name: Mountain Top Mechanical LLC<br>Town: Burlington<br>Phone: (860) 459-4536<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Mountain Top Mechanical LLC<br>Town: Burlington<br>Phone: (860) 459-4536<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.96455,41.76843,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>National Air Quality (B-9 Air Quality Services LLC)</name>
-      <description><![CDATA[Display Name: Nat Air<br>Town: Wallingford<br>Phone: (203) 387-1709<br>Services: Duct clean]]></description>
+      <description><![CDATA[Display Name: Nat Air<br>Town: Wallingford<br>Phone: (203) 387-1709<br>Services: Ductwork cleaning]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.819424971906,41.477841312032,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>National Roofing</name>
-      <description><![CDATA[Display Name: Nat Roof<br>Town: Guilford<br>Phone: 203-230-0188<br>Services: Roof]]></description>
+      <description><![CDATA[Display Name: Nat Roof<br>Town: Guilford<br>Phone: 203-230-0188<br>Services: Roofing replacement or repairs]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.679905955241,41.281845840832,0</coordinates></Point>
     </Placemark>
@@ -614,25 +614,25 @@
     </Placemark>
     <Placemark>
       <name>Nor&apos;East Exteriors</name>
-      <description><![CDATA[Display Name: NE Ext<br>Town: Glastonbury<br>Phone: 833-287-6631<br>Services: Roof]]></description>
+      <description><![CDATA[Display Name: NE Ext<br>Town: Glastonbury<br>Phone: 833-287-6631<br>Services: Roofing replacement or repairs]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.604841800221,41.712545577393,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>New England Roofing &amp; Home Repair</name>
-      <description><![CDATA[Display Name: NE Roof<br>Town: Orange<br>Phone: 203-795-3947<br>Services: Roof]]></description>
+      <description><![CDATA[Display Name: NE Roof<br>Town: Orange<br>Phone: 203-795-3947<br>Services: Roofing replacement or repairs]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.999776381664,41.267792902722,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>New England Conservation Services, LLC (now Posigen)</name>
-      <description><![CDATA[Display Name: NECS<br>Town: Bridgeport<br>Phone: 2033897077 HES/HESIE<br>Services: HES, HES/IE, Attic, PV, Storage]]></description>
+      <description><![CDATA[Display Name: NECS<br>Town: Bridgeport<br>Phone: 2033897077 HES/HESIE<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Solar installation, Solar battery storage]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.156767709758,41.185892188166,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>New England Total Energy</name>
-      <description><![CDATA[Display Name: NETE<br>Town: Greenwich<br>Phone: (203) 869-5869<br>Services: HES, Bsmt, Duct clean]]></description>
+      <description><![CDATA[Display Name: NETE<br>Town: Greenwich<br>Phone: (203) 869-5869<br>Services: Home energy solutions, Basement insulation, Ductwork cleaning]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.642227895575,41.020489939367,0</coordinates></Point>
     </Placemark>
@@ -644,25 +644,25 @@
     </Placemark>
     <Placemark>
       <name>Norwich Technical High School</name>
-      <description><![CDATA[Display Name: Norwich<br>Town: Norwich<br>Phone: (860) 892-2126<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Norwich<br>Town: Norwich<br>Phone: (860) 892-2126<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.076984176909,41.55060617086,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Northeast Smart Energy</name>
-      <description><![CDATA[Display Name: NSE<br>Town: Hartford<br>Phone: (860) 982-7025<br>Services: PV, Storage]]></description>
+      <description><![CDATA[Display Name: NSE<br>Town: Hartford<br>Phone: (860) 982-7025<br>Services: Solar installation, Solar battery storage]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.669252719368,41.74403798448,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Oliver Wolcott Tech.</name>
-      <description><![CDATA[Display Name: Oliver Wolcott Tech.<br>Town: Torrington<br>Phone: (860) 496-5300<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Oliver Wolcott Tech.<br>Town: Torrington<br>Phone: (860) 496-5300<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.110829660583,41.810175542408,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Onewayplumbing &amp; Heating, Inc.</name>
-      <description><![CDATA[Display Name: Onewayplumbing & Heating, Inc.<br>Town: East Haddam<br>Phone: (860) 873-2363<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Onewayplumbing & Heating, Inc.<br>Town: East Haddam<br>Phone: (860) 873-2363<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.374547687768,41.480919493712,0</coordinates></Point>
     </Placemark>
@@ -674,25 +674,25 @@
     </Placemark>
     <Placemark>
       <name>P&amp;L Plumbing LLC</name>
-      <description><![CDATA[Display Name: P&L Plumbing LLC<br>Town: Meriden<br>Phone: (203) 619-1476<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: P&L Plumbing LLC<br>Town: Meriden<br>Phone: (203) 619-1476<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.853365469735,41.532620205194,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Panda Exteriors</name>
-      <description><![CDATA[Display Name: Panda<br>Town: Laurel<br>Phone: (877) 213-1240<br>Services: Roof]]></description>
+      <description><![CDATA[Display Name: Panda<br>Town: Laurel<br>Phone: (877) 213-1240<br>Services: Roofing replacement or repairs]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-76.844109750916,39.088131329494,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Peachywah Heating And Cooling LLC</name>
-      <description><![CDATA[Display Name: Peachywah<br>Town: Ellington<br>Phone: (860) 918-7010<br>Services: Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Peachywah<br>Town: Ellington<br>Phone: (860) 918-7010<br>Services: Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.48415,41.87095,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>PosiGen</name>
-      <description><![CDATA[Display Name: Posigen<br>Town: Bridgeport<br>Phone: 1 866-767-4436 Solar, (203)389-7077 project<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, PV, Storage]]></description>
+      <description><![CDATA[Display Name: Posigen<br>Town: Bridgeport<br>Phone: 1 866-767-4436 Solar, (203)389-7077 project<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Solar installation, Solar battery storage]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.156767709758,41.185892188166,0</coordinates></Point>
     </Placemark>
@@ -704,25 +704,25 @@
     </Placemark>
     <Placemark>
       <name>Powertech Service And Solutions</name>
-      <description><![CDATA[Display Name: Powertech Service And Solutions<br>Town: Danbury<br>Phone: (203) 448-2614<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Powertech Service And Solutions<br>Town: Danbury<br>Phone: (203) 448-2614<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.45491,41.38555,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Precision Mechanical LLC</name>
-      <description><![CDATA[Display Name: Precision Mechanical LLC<br>Town: Manchester<br>Phone: (860) 878-7927<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Precision Mechanical LLC<br>Town: Manchester<br>Phone: (860) 878-7927<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.521668072787,41.780094211973,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>PurePoint Energy</name>
-      <description><![CDATA[Display Name: PurePoint<br>Town: Norwalk<br>Phone: (203) 642-4105<br>Services: PV, Storage]]></description>
+      <description><![CDATA[Display Name: PurePoint<br>Town: Norwalk<br>Phone: (203) 642-4105<br>Services: Solar installation, Solar battery storage]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.41120887175,41.103355060344,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Rheaume Heating LLCs</name>
-      <description><![CDATA[Display Name: Rheaume Heating LLCs<br>Town: Uncasville<br>Phone: (860) 848-2647<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Rheaume Heating LLCs<br>Town: Uncasville<br>Phone: (860) 848-2647<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.104486516222,41.461293228601,0</coordinates></Point>
     </Placemark>
@@ -734,109 +734,109 @@
     </Placemark>
     <Placemark>
       <name>Roberge Plumbing Inc</name>
-      <description><![CDATA[Display Name: Roberge Plumbing Inc<br>Town: Plainville<br>Phone: (860) 747-1511<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Roberge Plumbing Inc<br>Town: Plainville<br>Phone: (860) 747-1511<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.869674684348,41.652728591242,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>RT&apos;s Construction</name>
-      <description><![CDATA[Display Name: RT<br>Town: New Milford<br>Phone: 860-350-2232<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: RT<br>Town: New Milford<br>Phone: 860-350-2232<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.388809091134,41.611581919779,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Samuel A Hanchett</name>
-      <description><![CDATA[Display Name: Samuel A Hanchett<br>Town: West Suffield<br>Phone: (717) 916-1391<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Samuel A Hanchett<br>Town: West Suffield<br>Phone: (717) 916-1391<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.755946592845,41.987032830239,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>SAVKAT</name>
-      <description><![CDATA[Display Name: SAVKAT<br>Town: Southington<br>Phone: 800-860-6932<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: SAVKAT<br>Town: Southington<br>Phone: 800-860-6932<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.878865494527,41.621730785679,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Servco Oil &amp; Propane</name>
-      <description><![CDATA[Display Name: Servco Oil & Propane<br>Town: Wilton<br>Phone: (203) 529-1643<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Servco Oil & Propane<br>Town: Wilton<br>Phone: (203) 529-1643<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.431411130118,41.209253790792,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Service Sean LLC</name>
-      <description><![CDATA[Display Name: Service Sean LLC<br>Town: Middlebury<br>Phone: (203) 974-2817<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Service Sean LLC<br>Town: Middlebury<br>Phone: (203) 974-2817<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.137557717052,41.506971650745,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Seymour Energy Services LLC.</name>
-      <description><![CDATA[Display Name: Seymour Energy Services LLC.<br>Town: Seymour<br>Phone: (203) 888-1700<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Seymour Energy Services LLC.<br>Town: Seymour<br>Phone: (203) 888-1700<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.079437555424,41.397666295888,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Sippin Energy Products</name>
-      <description><![CDATA[Display Name: Sippin Energy Products<br>Town: Monroe<br>Phone: (203) 880-6755<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Sippin Energy Products<br>Town: Monroe<br>Phone: (203) 880-6755<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.22015,41.3142,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Skoatak Mechanical, LLC</name>
-      <description><![CDATA[Display Name: Skoatak Mechanical, LLC<br>Town: Waterbury<br>Phone: (860) 796-5497<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Skoatak Mechanical, LLC<br>Town: Waterbury<br>Phone: (860) 796-5497<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.041900746508,41.578113721772,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Skye Mechanical Services LLC</name>
-      <description><![CDATA[Display Name: Skye Mechanical Services LLC<br>Town: Wolcott<br>Phone: (203) 808-3630<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Skye Mechanical Services LLC<br>Town: Wolcott<br>Phone: (203) 808-3630<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.956923799635,41.564910759091,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Solvit</name>
-      <description><![CDATA[Display Name: Solvit<br>Town: Plainville<br>Phone: 1-860-407-5716<br>Services: Plumb, DHW, Heat, Cool, Elect]]></description>
+      <description><![CDATA[Display Name: Solvit<br>Town: Plainville<br>Phone: 1-860-407-5716<br>Services: Plumbing, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation, Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.860996147404,41.692815800894,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Somers Oil Service, Inc,</name>
-      <description><![CDATA[Display Name: Somers Oil Service, Inc,<br>Town: Somers<br>Phone: (860) 749-4490<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Somers Oil Service, Inc,<br>Town: Somers<br>Phone: (860) 749-4490<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.447465797453,41.984761055836,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Son Energy Systems</name>
-      <description><![CDATA[Display Name: Son Energy<br>Town: Lyme<br>Phone: 860-434-2757<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: Son Energy<br>Town: Lyme<br>Phone: 860-434-2757<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.372037074925,41.426593886388,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Stockton Heating &amp; Air Conditioning</name>
-      <description><![CDATA[Display Name: Stockton Heating & Air Conditioning<br>Town: North Franklin<br>Phone: (860) 822-3647<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Stockton Heating & Air Conditioning<br>Town: North Franklin<br>Phone: (860) 822-3647<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.110596296402,41.617654014922,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Summer Hill Solar</name>
-      <description><![CDATA[Display Name: Summer Hill<br>Town: Woodstock<br>Phone: 860-481-3802<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: Summer Hill<br>Town: Woodstock<br>Phone: 860-481-3802<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-71.97232,41.94793,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Sunlight Solar</name>
-      <description><![CDATA[Display Name: Sunlight<br>Town: New Haven<br>Phone: 541.322.1910<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: Sunlight<br>Town: New Haven<br>Phone: 541.322.1910<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.912835381746,41.305147822317,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Talevi Enterprises Inc</name>
-      <description><![CDATA[Display Name: Talevi<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: ALM, Lead, Mold]]></description>
+      <description><![CDATA[Display Name: Talevi<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: Asbestos remediation, Lead remediation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.74324868237,41.616024681005,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Tallento Corporation</name>
-      <description><![CDATA[Display Name: Tallento<br>Town: Bridgeport<br>Phone: 203 522 5220<br>Services: Attic, DHW, Heat, Cool, PV]]></description>
+      <description><![CDATA[Display Name: Tallento<br>Town: Bridgeport<br>Phone: 203 522 5220<br>Services: Attic insulation, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation, Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.20163232859,41.202961690661,0</coordinates></Point>
     </Placemark>
@@ -848,31 +848,31 @@
     </Placemark>
     <Placemark>
       <name>Total Comfort Control LLC</name>
-      <description><![CDATA[Display Name: Total Comfort Control LLC<br>Town: North Branford<br>Phone: (203) 484-9698<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Total Comfort Control LLC<br>Town: North Branford<br>Phone: (203) 484-9698<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.814551959294,41.321953511792,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Tracey Energy Services LLC</name>
-      <description><![CDATA[Display Name: Tracey<br>Town: New Haven<br>Phone: (203) 777-5747<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls]]></description>
+      <description><![CDATA[Display Name: Tracey<br>Town: New Haven<br>Phone: (203) 777-5747<br>Services: Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, HVAC control integration installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.931941876969,41.28994680137,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Tranmer Electric, LLC</name>
-      <description><![CDATA[Display Name: Tranmer<br>Town: Middletown<br>Phone: (860) 346-8404<br>Services: Elect, K&T]]></description>
+      <description><![CDATA[Display Name: Tranmer<br>Town: Middletown<br>Phone: (860) 346-8404<br>Services: Electrical, Knob and tube wiring remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.738995908489,41.577404698488,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Trinity Solar</name>
-      <description><![CDATA[Display Name: Trinity<br>Town: Cheshire<br>Phone: 203-701-3724<br>Services: PV]]></description>
+      <description><![CDATA[Display Name: Trinity<br>Town: Cheshire<br>Phone: 203-701-3724<br>Services: Solar installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.918342555362,41.552061101837,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Turner Plumbing And Hvac LLC</name>
-      <description><![CDATA[Display Name: Turner Plumbing And Hvac LLC<br>Town: Windham<br>Phone: (860) 800-4713<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Turner Plumbing And Hvac LLC<br>Town: Windham<br>Phone: (860) 800-4713<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.156203847515,41.681110790156,0</coordinates></Point>
     </Placemark>
@@ -884,61 +884,61 @@
     </Placemark>
     <Placemark>
       <name>Ugo Di Grazia Heating-Cooling</name>
-      <description><![CDATA[Display Name: Ugo Di Grazia Heating-Cooling<br>Town: Hartford<br>Phone: (860) 544-5163<br>Services: DHW, Heat]]></description>
+      <description><![CDATA[Display Name: Ugo Di Grazia Heating-Cooling<br>Town: Hartford<br>Phone: (860) 544-5163<br>Services: Heat pump water heating installation, Heating system installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.675293831361,41.737529168946,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Valley Air Conditioning &amp; Heating, Inc.</name>
-      <description><![CDATA[Display Name: Valley Air Conditioning & Heating, Inc.<br>Town: Simsbury<br>Phone: (860) 658-0371<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Valley Air Conditioning & Heating, Inc.<br>Town: Simsbury<br>Phone: (860) 658-0371<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.815037520903,41.869905182534,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Valley Heating &amp; Cooling, Inc.</name>
-      <description><![CDATA[Display Name: Valley Heating & Cooling, Inc.<br>Town: Richmond<br>Phone: (401) 539-0400<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Valley Heating & Cooling, Inc.<br>Town: Richmond<br>Phone: (401) 539-0400<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-71.675534900122,41.487153218332,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Valleyview Windows</name>
-      <description><![CDATA[Display Name: Valleyview<br>Town: Naugatuck<br>Phone: (203) 528-6979<br>Services: Windows]]></description>
+      <description><![CDATA[Display Name: Valleyview<br>Town: Naugatuck<br>Phone: (203) 528-6979<br>Services: Window upgrade and installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.0543,41.4926,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Viglione Heating Cooling Inc</name>
-      <description><![CDATA[Display Name: Viglione<br>Town: East Haven<br>Phone: (203) 467-8388<br>Services: Plumb, DHW, Heat, Cool, Duct clean]]></description>
+      <description><![CDATA[Display Name: Viglione<br>Town: East Haven<br>Phone: (203) 467-8388<br>Services: Plumbing, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation, Ductwork cleaning]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.876840182124,41.256324231583,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Waldo Renewable Electric</name>
-      <description><![CDATA[Display Name: Waldo<br>Town: Old Lyme<br>Phone: 203-494-9523<br>Services: PV, Storage]]></description>
+      <description><![CDATA[Display Name: Waldo<br>Town: Old Lyme<br>Phone: 203-494-9523<br>Services: Solar installation, Solar battery storage]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.313592708107,41.29276102998,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Warrior Mechanical Service Company</name>
-      <description><![CDATA[Display Name: Warrior Mechanical Service Company<br>Town: Barkhamsted<br>Phone: (860) 948-0387<br>Services: DHW, Heat, Cool]]></description>
+      <description><![CDATA[Display Name: Warrior Mechanical Service Company<br>Town: Barkhamsted<br>Phone: (860) 948-0387<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.007670098032,41.911077772703,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>West Hartford Electric</name>
-      <description><![CDATA[Display Name: WHartford E<br>Town: West Hartford<br>Phone: 860-690-9472<br>Services: Elect]]></description>
+      <description><![CDATA[Display Name: WHartford E<br>Town: West Hartford<br>Phone: 860-690-9472<br>Services: Electrical]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.753594337124,41.788393112079,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Winchester Environmental</name>
-      <description><![CDATA[Display Name: Winchester<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: ALM, Mold, VRM]]></description>
+      <description><![CDATA[Display Name: Winchester<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.928102450201,41.319815855647,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Window World</name>
-      <description><![CDATA[Display Name: Window World<br>Town: Manchester<br>Phone: 18606434568<br>Services: Windows]]></description>
+      <description><![CDATA[Display Name: Window World<br>Town: Manchester<br>Phone: 18606434568<br>Services: Window upgrade and installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.553696871195,41.789935513325,0</coordinates></Point>
     </Placemark>
