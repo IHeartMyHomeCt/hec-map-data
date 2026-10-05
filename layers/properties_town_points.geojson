@@ -1,0 +1,1733 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.06631834825652,
+          41.34292250575166
+        ]
+      },
+      "properties": {
+        "name": "Ansonia",
+        "town": "Ansonia",
+        "total": 8,
+        "properties": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.17200409288581,
+          41.88504172219254
+        ]
+      },
+      "properties": {
+        "name": "Ashford",
+        "town": "Ashford",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85400186028,
+          41.79014348195626
+        ]
+      },
+      "properties": {
+        "name": "Avon",
+        "town": "Avon",
+        "total": 5,
+        "properties": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05274853683822,
+          41.44099978150782
+        ]
+      },
+      "properties": {
+        "name": "Beacon Falls",
+        "town": "Beacon Falls",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.78242130826916,
+          41.61161961472155
+        ]
+      },
+      "properties": {
+        "name": "Berlin",
+        "town": "Berlin",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.99390735236776,
+          41.4239762312055
+        ]
+      },
+      "properties": {
+        "name": "Bethany",
+        "town": "Bethany",
+        "total": 5,
+        "properties": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3896381045345,
+          41.371332558770405
+        ]
+      },
+      "properties": {
+        "name": "Bethel",
+        "town": "Bethel",
+        "total": 7,
+        "properties": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74181134494837,
+          41.84151806590379
+        ]
+      },
+      "properties": {
+        "name": "Bloomfield",
+        "town": "Bloomfield",
+        "total": 9,
+        "properties": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7932628439446,
+          41.29405536443174
+        ]
+      },
+      "properties": {
+        "name": "Branford",
+        "town": "Branford",
+        "total": 7,
+        "properties": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.19529452917867,
+          41.19792558789956
+        ]
+      },
+      "properties": {
+        "name": "Bridgeport",
+        "town": "Bridgeport",
+        "total": 34,
+        "properties": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.94063449942726,
+          41.681329648139354
+        ]
+      },
+      "properties": {
+        "name": "Bristol",
+        "town": "Bristol",
+        "total": 6,
+        "properties": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.31002177603914,
+          41.95852750633098
+        ]
+      },
+      "properties": {
+        "name": "Canaan",
+        "town": "Canaan",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.00859593294875,
+          41.69635275097867
+        ]
+      },
+      "properties": {
+        "name": "Canterbury",
+        "town": "Canterbury",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89664942325297,
+          41.51054386527673
+        ]
+      },
+      "properties": {
+        "name": "Cheshire",
+        "town": "Cheshire",
+        "total": 23,
+        "properties": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34727340134991,
+          41.565611000438196
+        ]
+      },
+      "properties": {
+        "name": "Colchester",
+        "town": "Colchester",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.31175115757287,
+          41.69121404914419
+        ]
+      },
+      "properties": {
+        "name": "Columbia",
+        "town": "Columbia",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.35399833769263,
+          41.799517592432096
+        ]
+      },
+      "properties": {
+        "name": "Coventry",
+        "town": "Coventry",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.65479176472536,
+          41.61336664560229
+        ]
+      },
+      "properties": {
+        "name": "Cromwell",
+        "town": "Cromwell",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.46917260805785,
+          41.40679682045557
+        ]
+      },
+      "properties": {
+        "name": "Danbury",
+        "town": "Danbury",
+        "total": 4,
+        "properties": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.48537606335974,
+          41.08434950636918
+        ]
+      },
+      "properties": {
+        "name": "Darien",
+        "town": "Darien",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08234969080596,
+          41.32257623519453
+        ]
+      },
+      "properties": {
+        "name": "Derby",
+        "town": "Derby",
+        "total": 7,
+        "properties": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68308953674678,
+          41.46396701459658
+        ]
+      },
+      "properties": {
+        "name": "Durham",
+        "town": "Durham",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7452299142919,
+          41.94794942039886
+        ]
+      },
+      "properties": {
+        "name": "East Granby",
+        "town": "East Granby",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.39436109429246,
+          41.47736189100408
+        ]
+      },
+      "properties": {
+        "name": "East Haddam",
+        "town": "East Haddam",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.50840903264648,
+          41.56340804865289
+        ]
+      },
+      "properties": {
+        "name": "East Hampton",
+        "town": "East Hampton",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61439745103745,
+          41.763595721188494
+        ]
+      },
+      "properties": {
+        "name": "East Hartford",
+        "town": "East Hartford",
+        "total": 8,
+        "properties": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85453338655755,
+          41.30881677652893
+        ]
+      },
+      "properties": {
+        "name": "East Haven",
+        "town": "East Haven",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.56730934866758,
+          41.90424702323127
+        ]
+      },
+      "properties": {
+        "name": "East Windsor",
+        "town": "East Windsor",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.08007909856525,
+          41.88267961963837
+        ]
+      },
+      "properties": {
+        "name": "Eastford",
+        "town": "Eastford",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.30111412989616,
+          41.25966684558705
+        ]
+      },
+      "properties": {
+        "name": "Easton",
+        "town": "Easton",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55471138908457,
+          41.986530235684995
+        ]
+      },
+      "properties": {
+        "name": "Enfield",
+        "town": "Enfield",
+        "total": 7,
+        "properties": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.40513993426045,
+          41.35338960357696
+        ]
+      },
+      "properties": {
+        "name": "Essex",
+        "town": "Essex",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.27211944451207,
+          41.17556069244553
+        ]
+      },
+      "properties": {
+        "name": "Fairfield",
+        "town": "Fairfield",
+        "total": 6,
+        "properties": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.84097631717815,
+          41.72617437829106
+        ]
+      },
+      "properties": {
+        "name": "Farmington",
+        "town": "Farmington",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.14236915468177,
+          41.61324752436276
+        ]
+      },
+      "properties": {
+        "name": "Franklin",
+        "town": "Franklin",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5471743104558,
+          41.6894740033082
+        ]
+      },
+      "properties": {
+        "name": "Glastonbury",
+        "town": "Glastonbury",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.84066669139058,
+          41.96199565127523
+        ]
+      },
+      "properties": {
+        "name": "Granby",
+        "town": "Granby",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9215143229543,
+          41.594586115253364
+        ]
+      },
+      "properties": {
+        "name": "Griswold",
+        "town": "Griswold",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.02654351177809,
+          41.365958310575444
+        ]
+      },
+      "properties": {
+        "name": "Groton",
+        "town": "Groton",
+        "total": 4,
+        "properties": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.69921443539143,
+          41.30968443825845
+        ]
+      },
+      "properties": {
+        "name": "Guilford",
+        "town": "Guilford",
+        "total": 11,
+        "properties": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54596487264517,
+          41.46596786280375
+        ]
+      },
+      "properties": {
+        "name": "Haddam",
+        "town": "Haddam",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.93088780735344,
+          41.38141960995226
+        ]
+      },
+      "properties": {
+        "name": "Hamden",
+        "town": "Hamden",
+        "total": 127,
+        "properties": 127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05746397947625,
+          41.784453345976345
+        ]
+      },
+      "properties": {
+        "name": "Hampton",
+        "town": "Hampton",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.69027319105756,
+          41.76553959563735
+        ]
+      },
+      "properties": {
+        "name": "Hartford",
+        "town": "Hartford",
+        "total": 44,
+        "properties": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.38362104436253,
+          41.65961381583489
+        ]
+      },
+      "properties": {
+        "name": "Hebron",
+        "town": "Hebron",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.56632022273718,
+          41.37327104729282
+        ]
+      },
+      "properties": {
+        "name": "Killingworth",
+        "town": "Killingworth",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.52537845140768,
+          41.77716267962455
+        ]
+      },
+      "properties": {
+        "name": "Manchester",
+        "town": "Manchester",
+        "total": 11,
+        "properties": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45356336576744,
+          41.63130888910793
+        ]
+      },
+      "properties": {
+        "name": "Marlborough",
+        "town": "Marlborough",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.78398800909159,
+          41.53784535685121
+        ]
+      },
+      "properties": {
+        "name": "Meriden",
+        "town": "Meriden",
+        "total": 19,
+        "properties": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12366803420406,
+          41.52785126498111
+        ]
+      },
+      "properties": {
+        "name": "Middlebury",
+        "town": "Middlebury",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.71560300233668,
+          41.51880215322893
+        ]
+      },
+      "properties": {
+        "name": "Middlefield",
+        "town": "Middlefield",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.64790197122909,
+          41.52835241727657
+        ]
+      },
+      "properties": {
+        "name": "Middletown",
+        "town": "Middletown",
+        "total": 115,
+        "properties": 115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0660142471181,
+          41.23826539705048
+        ]
+      },
+      "properties": {
+        "name": "Milford",
+        "town": "Milford",
+        "total": 23,
+        "properties": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22604446065843,
+          41.33138471393668
+        ]
+      },
+      "properties": {
+        "name": "Monroe",
+        "town": "Monroe",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05177296096022,
+          41.49174895387792
+        ]
+      },
+      "properties": {
+        "name": "Naugatuck",
+        "town": "Naugatuck",
+        "total": 10,
+        "properties": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.78518154515427,
+          41.675241516226855
+        ]
+      },
+      "properties": {
+        "name": "New Britain",
+        "town": "New Britain",
+        "total": 10,
+        "properties": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.48828865190882,
+          41.489039596897236
+        ]
+      },
+      "properties": {
+        "name": "New Fairfield",
+        "town": "New Fairfield",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.93154666389306,
+          41.311405843199175
+        ]
+      },
+      "properties": {
+        "name": "New Haven",
+        "town": "New Haven",
+        "total": 777,
+        "properties": 777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.11077273610331,
+          41.36110604343824
+        ]
+      },
+      "properties": {
+        "name": "New London",
+        "town": "New London",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.42033230445863,
+          41.61214528224507
+        ]
+      },
+      "properties": {
+        "name": "New Milford",
+        "town": "New Milford",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73033052376367,
+          41.68726844126408
+        ]
+      },
+      "properties": {
+        "name": "Newington",
+        "town": "Newington",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.30098466290114,
+          41.394130654330716
+        ]
+      },
+      "properties": {
+        "name": "Newtown",
+        "town": "Newtown",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.78094691956157,
+          41.36244061768073
+        ]
+      },
+      "properties": {
+        "name": "North Branford",
+        "town": "North Branford",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85746310684574,
+          41.38317980095344
+        ]
+      },
+      "properties": {
+        "name": "North Haven",
+        "town": "North Haven",
+        "total": 16,
+        "properties": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.42722083382813,
+          41.125049821776415
+        ]
+      },
+      "properties": {
+        "name": "Norwalk",
+        "town": "Norwalk",
+        "total": 18,
+        "properties": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.08823570173175,
+          41.549535573175326
+        ]
+      },
+      "properties": {
+        "name": "Norwich",
+        "town": "Norwich",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.02714945955366,
+          41.282143892112735
+        ]
+      },
+      "properties": {
+        "name": "Orange",
+        "town": "Orange",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12866841134944,
+          41.43331170598294
+        ]
+      },
+      "properties": {
+        "name": "Oxford",
+        "town": "Oxford",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85786257996392,
+          41.673401877236245
+        ]
+      },
+      "properties": {
+        "name": "Plainville",
+        "town": "Plainville",
+        "total": 4,
+        "properties": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.02549945539451,
+          41.66303050215173
+        ]
+      },
+      "properties": {
+        "name": "Plymouth",
+        "town": "Plymouth",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58796397811577,
+          41.59461866732458
+        ]
+      },
+      "properties": {
+        "name": "Portland",
+        "town": "Portland",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9762808534619,
+          41.50023930299331
+        ]
+      },
+      "properties": {
+        "name": "Prospect",
+        "town": "Prospect",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.87120071688098,
+          41.90960850308352
+        ]
+      },
+      "properties": {
+        "name": "Putnam",
+        "town": "Putnam",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.26643367216147,
+          41.48512279033805
+        ]
+      },
+      "properties": {
+        "name": "Salem",
+        "town": "Salem",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08715592460601,
+          41.38138323668443
+        ]
+      },
+      "properties": {
+        "name": "Seymour",
+        "town": "Seymour",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.43861899438954,
+          41.85802398417452
+        ]
+      },
+      "properties": {
+        "name": "Sharon",
+        "town": "Sharon",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14509587187996,
+          41.30811322152997
+        ]
+      },
+      "properties": {
+        "name": "Shelton",
+        "town": "Shelton",
+        "total": 4,
+        "properties": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49857742691358,
+          41.57384232497458
+        ]
+      },
+      "properties": {
+        "name": "Sherman",
+        "town": "Sherman",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8269356873033,
+          41.87374595396218
+        ]
+      },
+      "properties": {
+        "name": "Simsbury",
+        "town": "Simsbury",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57342318261757,
+          41.83603089077914
+        ]
+      },
+      "properties": {
+        "name": "South Windsor",
+        "town": "South Windsor",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2225380044792,
+          41.47018263993589
+        ]
+      },
+      "properties": {
+        "name": "Southbury",
+        "town": "Southbury",
+        "total": 4,
+        "properties": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.88002901727994,
+          41.6063074563981
+        ]
+      },
+      "properties": {
+        "name": "Southington",
+        "town": "Southington",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55807233103398,
+          41.10827964385278
+        ]
+      },
+      "properties": {
+        "name": "Stamford",
+        "town": "Stamford",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81848060805513,
+          41.7024744832021
+        ]
+      },
+      "properties": {
+        "name": "Sterling",
+        "town": "Sterling",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.91839937881757,
+          41.38666316444584
+        ]
+      },
+      "properties": {
+        "name": "Stonington",
+        "town": "Stonington",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13418191869434,
+          41.21161602284563
+        ]
+      },
+      "properties": {
+        "name": "Stratford",
+        "town": "Stratford",
+        "total": 13,
+        "properties": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.66841574695917,
+          41.990800410762425
+        ]
+      },
+      "properties": {
+        "name": "Suffield",
+        "town": "Suffield",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08277562574901,
+          41.674183081750705
+        ]
+      },
+      "properties": {
+        "name": "Thomaston",
+        "town": "Thomaston",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3649311702932,
+          41.87711316673854
+        ]
+      },
+      "properties": {
+        "name": "Tolland",
+        "town": "Tolland",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12806843293583,
+          41.835342215679205
+        ]
+      },
+      "properties": {
+        "name": "Torrington",
+        "town": "Torrington",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21385193269097,
+          41.26336297050682
+        ]
+      },
+      "properties": {
+        "name": "Trumbull",
+        "town": "Trumbull",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45713928529517,
+          41.838508789099976
+        ]
+      },
+      "properties": {
+        "name": "Vernon",
+        "town": "Vernon",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.83246407884526,
+          41.5822362094975
+        ]
+      },
+      "properties": {
+        "name": "Voluntown",
+        "town": "Voluntown",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79503400551552,
+          41.45546031264003
+        ]
+      },
+      "properties": {
+        "name": "Wallingford",
+        "town": "Wallingford",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.03708061211533,
+          41.5565704655901
+        ]
+      },
+      "properties": {
+        "name": "Waterbury",
+        "town": "Waterbury",
+        "total": 56,
+        "properties": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.15595513244779,
+          41.38402284987001
+        ]
+      },
+      "properties": {
+        "name": "Waterford",
+        "town": "Waterford",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.75032824807849,
+          41.77021545930268
+        ]
+      },
+      "properties": {
+        "name": "West Hartford",
+        "town": "West Hartford",
+        "total": 21,
+        "properties": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95992386908043,
+          41.27503821882837
+        ]
+      },
+      "properties": {
+        "name": "West Haven",
+        "town": "West Haven",
+        "total": 65,
+        "properties": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4656359392153,
+          41.30501241092867
+        ]
+      },
+      "properties": {
+        "name": "Westbrook",
+        "town": "Westbrook",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.37176317286935,
+          41.22931382018341
+        ]
+      },
+      "properties": {
+        "name": "Weston",
+        "town": "Weston",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.35104912957209,
+          41.15145888842502
+        ]
+      },
+      "properties": {
+        "name": "Westport",
+        "town": "Westport",
+        "total": 16,
+        "properties": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67124894674504,
+          41.7040735822704
+        ]
+      },
+      "properties": {
+        "name": "Wethersfield",
+        "town": "Wethersfield",
+        "total": 4,
+        "properties": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.43894932514712,
+          41.207615141762346
+        ]
+      },
+      "properties": {
+        "name": "Wilton",
+        "town": "Wilton",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.16200124108472,
+          41.70524748065405
+        ]
+      },
+      "properties": {
+        "name": "Windham",
+        "town": "Windham",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.65708342006373,
+          41.86950981246065
+        ]
+      },
+      "properties": {
+        "name": "Windsor",
+        "town": "Windsor",
+        "total": 5,
+        "properties": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.65403211084661,
+          41.92546408661594
+        ]
+      },
+      "properties": {
+        "name": "Windsor Locks",
+        "town": "Windsor Locks",
+        "total": 3,
+        "properties": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.97401860308199,
+          41.59961355690453
+        ]
+      },
+      "properties": {
+        "name": "Wolcott",
+        "town": "Wolcott",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0109321225141,
+          41.35517629582306
+        ]
+      },
+      "properties": {
+        "name": "Woodbridge",
+        "town": "Woodbridge",
+        "total": 1,
+        "properties": 1
+      }
+    }
+  ]
+}
