@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "Alberca Contruction",
-        "description": "Display Name: Alberca<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: ALM, Mold",
+        "description": "Display Name: Alberca<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: Asbestos remediation, Mold remediation",
         "business_name": "Alberca",
         "address": "79 High Ledge Cir Manchester CT 06040",
         "town": "Manchester",
@@ -49,7 +49,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM, Mold"
+        "services": "Asbestos remediation, Mold remediation"
       }
     },
     {
@@ -63,7 +63,7 @@
       },
       "properties": {
         "name": "Amp'd Enterprises",
-        "description": "Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Duct clean, Mold",
+        "description": "Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Ductwork cleaning, Mold remediation",
         "business_name": "Amp'd",
         "address": "3 Reseearch Dr Branford CT 06405",
         "town": "Branford",
@@ -100,7 +100,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Duct clean, Mold"
+        "services": "Ductwork cleaning, Mold remediation"
       }
     },
     {
@@ -114,7 +114,7 @@
       },
       "properties": {
         "name": "Charles Abatement, LLC",
-        "description": "Display Name: Charles<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: ALM",
+        "description": "Display Name: Charles<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: Asbestos remediation",
         "business_name": "Charles",
         "address": "91 Shelton Avenue New Haven CT 06511",
         "town": "New Haven",
@@ -151,7 +151,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM"
+        "services": "Asbestos remediation"
       }
     },
     {
@@ -165,7 +165,7 @@
       },
       "properties": {
         "name": "Charter Oak",
-        "description": "Display Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: ALM, Lead, Mold",
+        "description": "Display Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: Asbestos remediation, Lead remediation, Mold remediation",
         "business_name": "Charter Oak",
         "address": "111 Pepes Farm Rd Milford CT 06460",
         "town": "Milford",
@@ -202,7 +202,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM, Lead, Mold"
+        "services": "Asbestos remediation, Lead remediation, Mold remediation"
       }
     },
     {
@@ -216,7 +216,7 @@
       },
       "properties": {
         "name": "CPM Environmental",
-        "description": "Display Name: CPM Env<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: ALM, Mold",
+        "description": "Display Name: CPM Env<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: Asbestos remediation, Mold remediation",
         "business_name": "CPM Env",
         "address": "315 Riggs St Oxford CT 06478",
         "town": "Oxford",
@@ -253,7 +253,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM, Mold"
+        "services": "Asbestos remediation, Mold remediation"
       }
     },
     {
@@ -267,7 +267,7 @@
       },
       "properties": {
         "name": "Environmental Group Inc.",
-        "description": "Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: ALM, Mold, VRM",
+        "description": "Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation",
         "business_name": "EGI",
         "address": "18 Roberts St Middletown CT 06457",
         "town": "Middletown",
@@ -304,7 +304,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM, Mold, VRM"
+        "services": "Asbestos remediation, Mold remediation, Vermiculite remediation"
       }
     },
     {
@@ -318,7 +318,7 @@
       },
       "properties": {
         "name": "Environmental Contracting & Demolition, LLC",
-        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM",
+        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation",
         "business_name": "ENCO",
         "address": "70 West Liberty Street Waterbury CT 06706",
         "town": "Waterbury",
@@ -355,7 +355,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM, Mold, VRM"
+        "services": "Asbestos remediation, Mold remediation, Vermiculite remediation"
       }
     },
     {
@@ -369,7 +369,7 @@
       },
       "properties": {
         "name": "Home Comfort Practice",
-        "description": "Display Name: HCP<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "description": "Display Name: HCP<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation",
         "business_name": "HCP",
         "address": "165 Benton St Stratford CT 06615",
         "town": "Stratford",
@@ -406,7 +406,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "Yes",
         "service_windows_ie": "Yes",
-        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation"
       }
     },
     {
@@ -420,7 +420,7 @@
       },
       "properties": {
         "name": "Talevi Enterprises Inc",
-        "description": "Display Name: Talevi<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: ALM, Lead, Mold",
+        "description": "Display Name: Talevi<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: Asbestos remediation, Lead remediation, Mold remediation",
         "business_name": "Talevi",
         "address": "1255 Berlin Turnpike Berlin CT 06037",
         "town": "Berlin",
@@ -457,7 +457,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM, Lead, Mold"
+        "services": "Asbestos remediation, Lead remediation, Mold remediation"
       }
     },
     {
@@ -471,7 +471,7 @@
       },
       "properties": {
         "name": "Winchester Environmental",
-        "description": "Display Name: Winchester<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: ALM, Mold, VRM",
+        "description": "Display Name: Winchester<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation",
         "business_name": "Winchester",
         "address": "185 Winchester Ave, New Haven CT 06511",
         "town": "New Haven",
@@ -508,7 +508,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM, Mold, VRM"
+        "services": "Asbestos remediation, Mold remediation, Vermiculite remediation"
       }
     }
   ]
