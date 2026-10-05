@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Health and safety remediators</name>
-    <description>Generated 2026-10-05 04:55 EDT from Airtable Contractors / Health and safety remediators. Do not edit by hand.</description>
+    <description>Generated 2026-10-05 11:44 EDT from Airtable Contractors / Health and safety remediators. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ffb4237c</color>
@@ -14,61 +14,61 @@
     </Style>
     <Placemark>
       <name>Alberca Contruction</name>
-      <description><![CDATA[Display Name: Alberca<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: ALM, Mold]]></description>
+      <description><![CDATA[Display Name: Alberca<br>Town: Manchester<br>Phone: (860) 783-6099 (860) 869-8270<br>Services: Asbestos remediation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.475596758528,41.750262291492,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Amp&apos;d Enterprises</name>
-      <description><![CDATA[Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Duct clean, Mold]]></description>
+      <description><![CDATA[Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Ductwork cleaning, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.77046,41.30392,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Charles Abatement, LLC</name>
-      <description><![CDATA[Display Name: Charles<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: ALM]]></description>
+      <description><![CDATA[Display Name: Charles<br>Town: New Haven<br>Phone: (203) 868 - 5900<br>Services: Asbestos remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.933979916859,41.324378742893,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Charter Oak</name>
-      <description><![CDATA[Display Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: ALM, Lead, Mold]]></description>
+      <description><![CDATA[Display Name: Charter Oak<br>Town: Milford<br>Phone: 888-225-6090<br>Services: Asbestos remediation, Lead remediation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.022941563365,41.228660129296,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>CPM Environmental</name>
-      <description><![CDATA[Display Name: CPM Env<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: ALM, Mold]]></description>
+      <description><![CDATA[Display Name: CPM Env<br>Town: Oxford<br>Phone: 203-446-5229 475-243-7176<br>Services: Asbestos remediation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.114131423436,41.46531376211,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Environmental Group Inc.</name>
-      <description><![CDATA[Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: ALM, Mold, VRM]]></description>
+      <description><![CDATA[Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.633270008535,41.550804308905,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Environmental Contracting &amp; Demolition, LLC</name>
-      <description><![CDATA[Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM]]></description>
+      <description><![CDATA[Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.039700945214,41.547739819888,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Home Comfort Practice</name>
-      <description><![CDATA[Display Name: HCP<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE]]></description>
+      <description><![CDATA[Display Name: HCP<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.144407759038,41.1737297112,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Talevi Enterprises Inc</name>
-      <description><![CDATA[Display Name: Talevi<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: ALM, Lead, Mold]]></description>
+      <description><![CDATA[Display Name: Talevi<br>Town: Berlin<br>Phone: (860) 828-4331<br>Services: Asbestos remediation, Lead remediation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.74324868237,41.616024681005,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Winchester Environmental</name>
-      <description><![CDATA[Display Name: Winchester<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: ALM, Mold, VRM]]></description>
+      <description><![CDATA[Display Name: Winchester<br>Town: New Haven<br>Phone: (203) 887-0377 Owner(203) 309-0756<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.928102450201,41.319815855647,0</coordinates></Point>
     </Placemark>
