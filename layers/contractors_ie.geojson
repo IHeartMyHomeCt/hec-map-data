@@ -261,57 +261,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.039700945214,
-          41.547739819888
-        ]
-      },
-      "properties": {
-        "name": "Environmental Contracting & Demolition, LLC",
-        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation",
-        "business_name": "ENCO",
-        "address": "70 West Liberty Street Waterbury CT 06706",
-        "town": "Waterbury",
-        "phone": "cell preferred# 203-627-5341 203-754-5959 office",
-        "website": "https://www.encoct.com",
-        "service_aeroseal": "No",
-        "service_alm": "Yes",
-        "service_attic": "No",
-        "service_bsmt": "No",
-        "service_controls": "No",
-        "service_cool": "No",
-        "service_cool_ie": "No",
-        "service_dhw": "No",
-        "service_dhw_ie": "No",
-        "service_duct_clean": "No",
-        "service_elect": "No",
-        "service_ev": "No",
-        "service_gshp": "No",
-        "service_handy": "No",
-        "service_heat": "No",
-        "service_heat_ie": "No",
-        "service_hes": "No",
-        "service_hes_ie": "No",
-        "service_kt": "No",
-        "service_lead": "No",
-        "service_mold": "Yes",
-        "service_other": "No",
-        "service_plumb": "No",
-        "service_pv": "No",
-        "service_roof": "No",
-        "service_storage": "No",
-        "service_vrm": "Yes",
-        "service_wall": "No",
-        "service_wall_ie": "No",
-        "service_windows": "No",
-        "service_windows_ie": "No",
-        "services": "Asbestos remediation, Mold remediation, Vermiculite remediation"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.144407759038,
           41.1737297112
         ]
