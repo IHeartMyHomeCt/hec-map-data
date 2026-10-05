@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "CMC Energy Services",
-        "description": "Display Name: CMC<br>Town: Wallingford<br>Phone: (888) 403-3500<br>Services: HES, HES/IE, Aeroseal, Duct clean",
+        "description": "Display Name: CMC<br>Town: Wallingford<br>Phone: (888) 403-3500<br>Services: Home energy solutions, Income eligible home energy solutions, Advanced Duct Sealing with Aeroseal, Ductwork cleaning",
         "business_name": "CMC",
         "address": "4 Tower Drive Wallingford CT 06492",
         "town": "Wallingford",
@@ -49,7 +49,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Aeroseal, Duct clean"
+        "services": "Home energy solutions, Income eligible home energy solutions, Advanced Duct Sealing with Aeroseal, Ductwork cleaning"
       }
     },
     {
@@ -63,7 +63,7 @@
       },
       "properties": {
         "name": "CT Weatherproof Insulation",
-        "description": "Display Name: CWI<br>Town: Fairfield<br>Phone:  203-813-1597<br>Services: HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "description": "Display Name: CWI<br>Town: Fairfield<br>Phone:  203-813-1597<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation",
         "business_name": "CWI",
         "address": "418 Meadow Street Fairfield CT 06824",
         "town": "Fairfield",
@@ -100,7 +100,7 @@
         "service_wall_ie": "No",
         "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation"
       }
     },
     {
@@ -114,7 +114,7 @@
       },
       "properties": {
         "name": "Direct Home Services",
-        "description": "Display Name: Direct Home<br>Town: Durham<br>Phone: (860) 352-1017<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls",
+        "description": "Display Name: Direct Home<br>Town: Durham<br>Phone: (860) 352-1017<br>Services: Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, HVAC control integration installation",
         "business_name": "Direct Home",
         "address": "57 Ozick Dr Durham CT 06422",
         "town": "Durham",
@@ -151,7 +151,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls"
+        "services": "Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, HVAC control integration installation"
       }
     },
     {
@@ -165,7 +165,7 @@
       },
       "properties": {
         "name": "EcoSmart Home Services",
-        "description": "Display Name: EcoSmart<br>Town: East Berlin<br>Phone: (860) 828-6626<br>Services: HES, HES/IE, Attic, GSHP, PV, Storage, EV",
+        "description": "Display Name: EcoSmart<br>Town: East Berlin<br>Phone: (860) 828-6626<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Ground source heat pump installation, Solar installation, Solar battery storage, Electric Vehicle charger or car purchase",
         "business_name": "EcoSmart",
         "address": "105A Clark Drive East Berlin CT 06023",
         "town": "East Berlin",
@@ -202,7 +202,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Attic, GSHP, PV, Storage, EV"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Ground source heat pump installation, Solar installation, Solar battery storage, Electric Vehicle charger or car purchase"
       }
     },
     {
@@ -216,7 +216,7 @@
       },
       "properties": {
         "name": "Energy Efficiencies Solutions",
-        "description": "Display Name: EES<br>Town: Windsor<br>Phone: 860-580-9076<br>Services: HES, HES/IE, Attic",
+        "description": "Display Name: EES<br>Town: Windsor<br>Phone: 860-580-9076<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation",
         "business_name": "EES",
         "address": "398 Palisado Avenue Windsor CT 06095",
         "town": "Windsor",
@@ -253,7 +253,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Attic"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation"
       }
     },
     {
@@ -267,7 +267,7 @@
       },
       "properties": {
         "name": "Environmental Contracting & Demolition, LLC",
-        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: ALM, Mold, VRM",
+        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation",
         "business_name": "ENCO",
         "address": "70 West Liberty Street Waterbury CT 06706",
         "town": "Waterbury",
@@ -304,7 +304,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "ALM, Mold, VRM"
+        "services": "Asbestos remediation, Mold remediation, Vermiculite remediation"
       }
     },
     {
@@ -318,7 +318,7 @@
       },
       "properties": {
         "name": "Home Comfort Practice",
-        "description": "Display Name: HCP<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "description": "Display Name: HCP<br>Town: Stratford<br>Phone: (203) 450-3000<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation",
         "business_name": "HCP",
         "address": "165 Benton St Stratford CT 06615",
         "town": "Stratford",
@@ -355,7 +355,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "Yes",
         "service_windows_ie": "Yes",
-        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation"
       }
     },
     {
@@ -369,7 +369,7 @@
       },
       "properties": {
         "name": "Handyman Express Energy Solutions",
-        "description": "Display Name: HE Soln<br>Town: Stratford<br>Phone: 203-307-5395<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "description": "Display Name: HE Soln<br>Town: Stratford<br>Phone: 203-307-5395<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation",
         "business_name": "HE Soln",
         "address": "1414 Barnum Ave. Stratford CT 06614",
         "town": "Stratford",
@@ -406,7 +406,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "Yes",
         "service_windows_ie": "Yes",
-        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation"
       }
     },
     {
@@ -420,7 +420,7 @@
       },
       "properties": {
         "name": "Home Doctor of America",
-        "description": "Display Name: Home Doctor<br>Town:  Sandy Hook<br>Phone: (203) 405-3040<br>Services: HES, HES/IE, Aeroseal",
+        "description": "Display Name: Home Doctor<br>Town:  Sandy Hook<br>Phone: (203) 405-3040<br>Services: Home energy solutions, Income eligible home energy solutions, Advanced Duct Sealing with Aeroseal",
         "business_name": "Home Doctor",
         "address": "15 New Lebbon Rd Sandy Hook CT 06482",
         "town": "Sandy Hook",
@@ -457,7 +457,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Aeroseal"
+        "services": "Home energy solutions, Income eligible home energy solutions, Advanced Duct Sealing with Aeroseal"
       }
     },
     {
@@ -471,7 +471,7 @@
       },
       "properties": {
         "name": "InstaPlumbing",
-        "description": "Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumb, DHW, DHW/IE",
+        "description": "Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation",
         "business_name": "InstaPlumbing",
         "address": "421 Wolcott Rd. Wolcott CT 06717",
         "town": "Wolcott",
@@ -508,7 +508,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Plumb, DHW, DHW/IE"
+        "services": "Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation"
       }
     },
     {
@@ -522,7 +522,7 @@
       },
       "properties": {
         "name": "Peter Kupchick Heating&Cooling Inc.",
-        "description": "Display Name: Kupchick<br>Town: Fairfield<br>Phone: (203) 259-9787<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "description": "Display Name: Kupchick<br>Town: Fairfield<br>Phone: (203) 259-9787<br>Services: Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation",
         "business_name": "Kupchick",
         "address": "213 Farist Rd Fairfield CT 06825",
         "town": "Fairfield",
@@ -559,7 +559,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
+        "services": "Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation"
       }
     },
     {
@@ -573,7 +573,7 @@
       },
       "properties": {
         "name": "Lantern Energy",
-        "description": "Display Name: Lantern Energy<br>Town: Glastonbury<br>Phone: (877) 878-3006 x109<br>Services: HES, HES/IE, Attic, Aeroseal",
+        "description": "Display Name: Lantern Energy<br>Town: Glastonbury<br>Phone: (877) 878-3006 x109<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Advanced Duct Sealing with Aeroseal",
         "business_name": "Lantern Energy",
         "address": "256 Oakwood Drive Glastonbury CT 06033",
         "town": "Glastonbury",
@@ -610,7 +610,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Attic, Aeroseal"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Advanced Duct Sealing with Aeroseal"
       }
     },
     {
@@ -624,7 +624,7 @@
       },
       "properties": {
         "name": "New England Smart Energy Group, LLC",
-        "description": "Display Name: NE-SEG<br>Town: Fairfield<br>Phone: (203) 292-8088, 203-292-9655<br>Services: HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "description": "Display Name: NE-SEG<br>Town: Fairfield<br>Phone: (203) 292-8088, 203-292-9655<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation",
         "business_name": "NE-SEG",
         "address": "418 Meadow Street Fairfield CT 06824",
         "town": "Fairfield",
@@ -661,7 +661,7 @@
         "service_wall_ie": "No",
         "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Attic, Windows, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation"
       }
     },
     {
@@ -675,7 +675,7 @@
       },
       "properties": {
         "name": "New England Conservation Services, LLC (now Posigen)",
-        "description": "Display Name: NECS<br>Town: Bridgeport<br>Phone: 2033897077 HES/HESIE<br>Services: HES, HES/IE, Attic, PV, Storage",
+        "description": "Display Name: NECS<br>Town: Bridgeport<br>Phone: 2033897077 HES/HESIE<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Solar installation, Solar battery storage",
         "business_name": "NECS",
         "address": "304 Bishop Ave. Bridgeport CT 06610",
         "town": "Bridgeport",
@@ -711,7 +711,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Attic, PV, Storage"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Solar installation, Solar battery storage"
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "properties": {
         "name": "PosiGen",
-        "description": "Display Name: Posigen<br>Town: Bridgeport<br>Phone: 1 866-767-4436 Solar, (203)389-7077 project<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, PV, Storage",
+        "description": "Display Name: Posigen<br>Town: Bridgeport<br>Phone: 1 866-767-4436 Solar, (203)389-7077 project<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Solar installation, Solar battery storage",
         "business_name": "Posigen",
         "address": "304 Bishop Ave. 1 Fl. Bridgeport CT 06610",
         "town": "Bridgeport",
@@ -762,7 +762,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, PV, Storage"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Solar installation, Solar battery storage"
       }
     },
     {
@@ -776,7 +776,7 @@
       },
       "properties": {
         "name": "Raps Plumbing & Heating Inc.",
-        "description": "Display Name: RAPS<br>Town: Milford<br>Phone: (203) 876-1212<br>Services: Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE",
+        "description": "Display Name: RAPS<br>Town: Milford<br>Phone: (203) 876-1212<br>Services: Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation",
         "business_name": "RAPS",
         "address": "152 Old Gate Lane Milford CT 06460",
         "town": "Milford",
@@ -813,7 +813,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE"
+        "services": "Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation"
       }
     },
     {
@@ -827,7 +827,7 @@
       },
       "properties": {
         "name": "Tracey Energy Services LLC",
-        "description": "Display Name: Tracey<br>Town: New Haven<br>Phone: (203) 777-5747<br>Services: DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls",
+        "description": "Display Name: Tracey<br>Town: New Haven<br>Phone: (203) 777-5747<br>Services: Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, HVAC control integration installation",
         "business_name": "Tracey",
         "address": "325 Howard Avenue New Haven CT 06519",
         "town": "New Haven",
@@ -864,7 +864,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Controls"
+        "services": "Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, HVAC control integration installation"
       }
     },
     {
@@ -878,7 +878,7 @@
       },
       "properties": {
         "name": "Valiant Energy Solutions",
-        "description": "Display Name: Valiant<br>Town: Waterbury<br>Phone: (866) 707-1625<br>Services: HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Aeroseal, Duct clean, Controls, Elect, K&T",
+        "description": "Display Name: Valiant<br>Town: Waterbury<br>Phone: (866) 707-1625<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, Advanced Duct Sealing with Aeroseal, Ductwork cleaning, HVAC control integration installation, Electrical, Knob and tube wiring remediation",
         "business_name": "Valiant",
         "address": "165 Railroad Hill St Waterbury CT 06708",
         "town": "Waterbury",
@@ -915,7 +915,7 @@
         "service_wall_ie": "Yes",
         "service_windows": "Yes",
         "service_windows_ie": "Yes",
-        "services": "HES, HES/IE, Attic, Attic/IE, Bsmt, Bsmt/IE, Wall, Wall/IE, Windows, Windows/IE, Plumb, DHW, DHW/IE, Heat, Heat/IE, Cool, Cool/IE, Aeroseal, Duct clean, Controls, Elect, K&T"
+        "services": "Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, Advanced Duct Sealing with Aeroseal, Ductwork cleaning, HVAC control integration installation, Electrical, Knob and tube wiring remediation"
       }
     }
   ]
