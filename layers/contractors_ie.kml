@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Contractors: HES-IE / income eligible</name>
-    <description>Generated 2026-10-05 12:46 EDT from Airtable Contractors / Income eligible map. Do not edit by hand.</description>
+    <description>Generated 2026-10-05 15:09 EDT from Airtable Contractors / Income eligible map. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ffd08228</color>
@@ -41,12 +41,6 @@
       <description><![CDATA[Display Name: EES<br>Town: Windsor<br>Phone: 860-580-9076<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.638779410647,41.860837280193,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Environmental Contracting &amp; Demolition, LLC</name>
-      <description><![CDATA[Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-73.039700945214,41.547739819888,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Home Comfort Practice</name>
