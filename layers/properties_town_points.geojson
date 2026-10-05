@@ -54,6 +54,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.97296619894294,
+          41.93136238727274
+        ]
+      },
+      "properties": {
+        "name": "Barkhamsted",
+        "town": "Barkhamsted",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.05274853683822,
           41.44099978150782
         ]
@@ -573,8 +589,8 @@
       "properties": {
         "name": "Glastonbury",
         "town": "Glastonbury",
-        "total": 2,
-        "properties": 2
+        "total": 4,
+        "properties": 4
       }
     },
     {
@@ -605,8 +621,8 @@
       "properties": {
         "name": "Griswold",
         "town": "Griswold",
-        "total": 1,
-        "properties": 1
+        "total": 2,
+        "properties": 2
       }
     },
     {
@@ -717,6 +733,22 @@
       "properties": {
         "name": "Hebron",
         "town": "Hebron",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.45529776370488,
+          41.73224597591047
+        ]
+      },
+      "properties": {
+        "name": "Kent",
+        "town": "Kent",
         "total": 1,
         "properties": 1
       }
@@ -742,6 +774,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.01646963139483,
+          41.441582434027744
+        ]
+      },
+      "properties": {
+        "name": "Ledyard",
+        "town": "Ledyard",
+        "total": 2,
+        "properties": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.52537845140768,
           41.77716267962455
         ]
@@ -751,6 +799,22 @@
         "town": "Manchester",
         "total": 11,
         "properties": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22724542925404,
+          41.7863001354455
+        ]
+      },
+      "properties": {
+        "name": "Mansfield",
+        "town": "Mansfield",
+        "total": 5,
+        "properties": 5
       }
     },
     {
@@ -1005,8 +1069,8 @@
       "properties": {
         "name": "North Branford",
         "town": "North Branford",
-        "total": 1,
-        "properties": 1
+        "total": 2,
+        "properties": 2
       }
     },
     {
@@ -1261,8 +1325,8 @@
       "properties": {
         "name": "Simsbury",
         "town": "Simsbury",
-        "total": 2,
-        "properties": 2
+        "total": 3,
+        "properties": 3
       }
     },
     {
@@ -1318,6 +1382,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.07581448480909,
+          41.63026074269918
+        ]
+      },
+      "properties": {
+        "name": "Sprague",
+        "town": "Sprague",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.55807233103398,
           41.10827964385278
         ]
@@ -1357,8 +1437,8 @@
       "properties": {
         "name": "Stonington",
         "town": "Stonington",
-        "total": 2,
-        "properties": 2
+        "total": 5,
+        "properties": 5
       }
     },
     {
@@ -1405,6 +1485,22 @@
       "properties": {
         "name": "Thomaston",
         "town": "Thomaston",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.87358297595023,
+          41.97815951952728
+        ]
+      },
+      "properties": {
+        "name": "Thompson",
+        "town": "Thompson",
         "total": 1,
         "properties": 1
       }
@@ -1469,8 +1565,8 @@
       "properties": {
         "name": "Vernon",
         "town": "Vernon",
-        "total": 2,
-        "properties": 2
+        "total": 6,
+        "properties": 6
       }
     },
     {
@@ -1661,8 +1757,8 @@
       "properties": {
         "name": "Windham",
         "town": "Windham",
-        "total": 1,
-        "properties": 1
+        "total": 6,
+        "properties": 6
       }
     },
     {
