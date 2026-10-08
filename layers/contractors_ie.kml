@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Contractors: HES-IE / income eligible</name>
-    <description>Generated 2026-10-08 04:54 EDT from Airtable Contractors / Income eligible map. Do not edit by hand.</description>
+    <description>Generated 2026-10-08 13:57 EDT from Airtable Contractors / Income eligible map. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ffd08228</color>
@@ -23,12 +23,6 @@
       <description><![CDATA[Display Name: CWI<br>Town: Fairfield<br>Phone:  203-813-1597<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.239144784075,41.162562142701,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Direct Home Services</name>
-      <description><![CDATA[Display Name: Direct Home<br>Town: Durham<br>Phone: (860) 352-1017<br>Services: Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, HVAC control integration installation]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-72.715159196465,41.470891862367,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>EcoSmart Home Services</name>
@@ -61,18 +55,6 @@
       <Point><coordinates>-73.240434531066,41.38394602865,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>InstaPlumbing</name>
-      <description><![CDATA[Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-72.990742946113,41.59034979437,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Peter Kupchick Heating&amp;Cooling Inc.</name>
-      <description><![CDATA[Display Name: Kupchick<br>Town: Fairfield<br>Phone: (203) 259-9787<br>Services: Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-73.248771199592,41.183070513602,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Lantern Energy</name>
       <description><![CDATA[Display Name: Lantern Energy<br>Town: Glastonbury<br>Phone: (877) 878-3006 x109<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Advanced Duct Sealing with Aeroseal]]></description>
       <styleUrl>#pt</styleUrl>
@@ -83,30 +65,6 @@
       <description><![CDATA[Display Name: NE-SEG<br>Town: Fairfield<br>Phone: (203) 292-8088, 203-292-9655<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.239144784075,41.162562142701,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>New England Conservation Services, LLC (now Posigen)</name>
-      <description><![CDATA[Display Name: NECS<br>Town: Bridgeport<br>Phone: 2033897077 HES/HESIE<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Solar installation, Solar battery storage]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-73.156767709758,41.185892188166,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>PosiGen</name>
-      <description><![CDATA[Display Name: Posigen<br>Town: Bridgeport<br>Phone: 1 866-767-4436 Solar, (203)389-7077 project<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Solar installation, Solar battery storage]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-73.156767709758,41.185892188166,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Raps Plumbing &amp; Heating Inc.</name>
-      <description><![CDATA[Display Name: RAPS<br>Town: Milford<br>Phone: (203) 876-1212<br>Services: Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-73.030377125124,41.230196524939,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Tracey Energy Services LLC</name>
-      <description><![CDATA[Display Name: Tracey<br>Town: New Haven<br>Phone: (203) 777-5747<br>Services: Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation, HVAC control integration installation]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-72.931941876969,41.28994680137,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Valiant Energy Solutions</name>
