@@ -839,6 +839,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.1543106,
+          41.2155525
+        ]
+      },
+      "properties": {
+        "geoid": "09001081000",
+        "name": "Census Tract 810",
+        "town": "",
+        "total": 1,
+        "undefined": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.1194022,
           41.2327113
         ]
