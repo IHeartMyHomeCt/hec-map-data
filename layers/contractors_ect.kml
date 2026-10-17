@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Contractors: Energize CT approved</name>
-    <description>Generated 2026-10-16 04:54 EDT from Airtable Contractors / Energize CT map. Do not edit by hand.</description>
+    <description>Generated 2026-10-17 04:54 EDT from Airtable Contractors / Energize CT map. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ff2fa34c</color>
@@ -62,7 +62,7 @@
     </Placemark>
     <Placemark>
       <name>72 Degrees A/C &amp; Heating, LLC</name>
-      <description><![CDATA[Display Name: 72 Degrees A/C & Heating, LLC<br>Phone: (860) 591-8085<br>Energize CT?: Yes]]></description>
+      <description><![CDATA[Display Name: 72 Degrees A/C & Heating, LLC<br>Phone: (860) 822-1041<br>Energize CT?: Yes]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.086811583777,41.616430513627,0</coordinates></Point>
     </Placemark>
@@ -146,7 +146,7 @@
     </Placemark>
     <Placemark>
       <name>Absolute Air Services, LLC</name>
-      <description><![CDATA[Display Name: Absolute Air<br>Town: Portland<br>Phone: (860) 2640327<br>Services: Plumbing, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation<br>Energize CT?: Yes]]></description>
+      <description><![CDATA[Display Name: Absolute Air<br>Town: Portland<br>Phone: (860) 932-8365<br>Services: Plumbing, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation<br>Energize CT?: Yes]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.597664901645,41.570798770673,0</coordinates></Point>
     </Placemark>
