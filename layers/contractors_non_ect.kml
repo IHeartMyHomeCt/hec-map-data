@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Contractors: Non-Energize CT</name>
-    <description>Generated 2026-10-19 04:54 EDT from Airtable Contractors / Non-energize CT contractors. Do not edit by hand.</description>
+    <description>Generated 2026-10-20 04:54 EDT from Airtable Contractors / Non-energize CT contractors. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ff1c85f0</color>
@@ -290,7 +290,7 @@
     </Placemark>
     <Placemark>
       <name>Deitch Energy</name>
-      <description><![CDATA[Display Name: Deitch Energy<br>Town: Hartford<br>Phone: (860) 215-5353<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
+      <description><![CDATA[Display Name: Deitch Energy<br>Town: Hartford<br>Phone: (860) 728-5431<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.701568603999,41.769889157904,0</coordinates></Point>
     </Placemark>
@@ -488,7 +488,7 @@
     </Placemark>
     <Placemark>
       <name>InstaPlumbing</name>
-      <description><![CDATA[Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: 203-632-9296; 203.632.8891<br>Services: Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation]]></description>
+      <description><![CDATA[Display Name: InstaPlumbing<br>Town: Wolcott<br>Phone: (203) 632-9296<br>Services: Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.990742946113,41.59034979437,0</coordinates></Point>
     </Placemark>
@@ -734,7 +734,7 @@
     </Placemark>
     <Placemark>
       <name>Ricks Plumbing</name>
-      <description><![CDATA[Display Name: Ricks Plumb<br>Town: Milford<br>Phone: 203-874-6629]]></description>
+      <description><![CDATA[Display Name: Ricks Plumb<br>Town: Milford<br>Phone: (475) 271-1244]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.069737876965,41.216480959501,0</coordinates></Point>
     </Placemark>
