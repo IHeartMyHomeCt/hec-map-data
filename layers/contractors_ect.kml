@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Contractors: Energize CT approved</name>
-    <description>Generated 2026-10-20 04:54 EDT from Airtable Contractors / Energize CT map. Do not edit by hand.</description>
+    <description>Generated 2026-10-21 04:54 EDT from Airtable Contractors / Energize CT map. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ff2fa34c</color>
@@ -3433,8 +3433,8 @@
       <Point><coordinates>-72.819424971906,41.477841312032,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>National Roofing</name>
-      <description><![CDATA[Display Name: Nat Roof<br>Town: Guilford<br>Phone: 203-230-0188<br>Services: Roofing replacement or repairs<br>Energize CT?: No]]></description>
+      <name>Good Roofing</name>
+      <description><![CDATA[Display Name: Nat Roof<br>Town: Guilford<br>Phone: 203-453-0601<br>Services: Roofing replacement or repairs<br>Energize CT?: No]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.679905955241,41.281845840832,0</coordinates></Point>
     </Placemark>
