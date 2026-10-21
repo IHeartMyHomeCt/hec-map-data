@@ -5028,12 +5028,12 @@
         ]
       },
       "properties": {
-        "name": "National Roofing",
-        "description": "Display Name: Nat Roof<br>Town: Guilford<br>Phone: 203-230-0188<br>Services: Roofing replacement or repairs",
+        "name": "Good Roofing",
+        "description": "Display Name: Nat Roof<br>Town: Guilford<br>Phone: 203-453-0601<br>Services: Roofing replacement or repairs",
         "business_name": "Nat Roof",
         "address": "39 Boston St Guilford CT 06437",
         "town": "Guilford",
-        "phone": "203-230-0188",
+        "phone": "203-453-0601",
         "website": "https://sites.google.com/view/nationalroofingcompany/services",
         "service_aeroseal": "No",
         "service_alm": "No",
