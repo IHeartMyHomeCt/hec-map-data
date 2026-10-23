@@ -445,8 +445,8 @@
       "properties": {
         "name": "East Haven",
         "town": "East Haven",
-        "total": 3,
-        "properties": 3
+        "total": 4,
+        "properties": 4
       }
     },
     {
@@ -1613,8 +1613,8 @@
       "properties": {
         "name": "Waterbury",
         "town": "Waterbury",
-        "total": 57,
-        "properties": 57
+        "total": 58,
+        "properties": 58
       }
     },
     {
