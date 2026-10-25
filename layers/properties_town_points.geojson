@@ -1126,6 +1126,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.303278493915,
+          41.32050852445298
+        ]
+      },
+      "properties": {
+        "name": "Old Lyme",
+        "town": "Old Lyme",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.02714945955366,
           41.282143892112735
         ]
