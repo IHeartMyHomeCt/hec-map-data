@@ -717,8 +717,8 @@
       "properties": {
         "name": "Hartford",
         "town": "Hartford",
-        "total": 44,
-        "properties": 44
+        "total": 45,
+        "properties": 45
       }
     },
     {
@@ -1087,6 +1087,22 @@
         "town": "North Haven",
         "total": 16,
         "properties": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8753392214239,
+          41.46642113581419
+        ]
+      },
+      "properties": {
+        "name": "North Stonington",
+        "town": "North Stonington",
+        "total": 1,
+        "properties": 1
       }
     },
     {
