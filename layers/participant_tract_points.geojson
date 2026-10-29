@@ -2530,8 +2530,8 @@
         "geoid": "09003504900",
         "name": "Census Tract 5049",
         "town": "",
-        "total": 1,
-        "undefined": 1
+        "total": 2,
+        "undefined": 2
       }
     },
     {
@@ -6170,6 +6170,23 @@
         "town": "",
         "total": 2,
         "undefined": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8725254,
+          41.4709693
+        ]
+      },
+      "properties": {
+        "geoid": "09011707100",
+        "name": "Census Tract 7071",
+        "town": "",
+        "total": 1,
+        "undefined": 1
       }
     },
     {
