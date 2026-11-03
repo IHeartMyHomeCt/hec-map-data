@@ -2284,6 +2284,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.683324,
+          41.7323863
+        ]
+      },
+      "properties": {
+        "geoid": "09003502300",
+        "name": "Census Tract 5023",
+        "town": "",
+        "total": 1,
+        "undefined": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.6762109,
           41.7392343
         ]
