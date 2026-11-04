@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Contractors: HES-IE / income eligible</name>
-    <description>Generated 2026-11-03 04:54 EST from Airtable Contractors / Income eligible map. Do not edit by hand.</description>
+    <description>Generated 2026-11-04 04:54 EST from Airtable Contractors / Income eligible map. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ffd08228</color>
@@ -12,12 +12,6 @@
       </IconStyle>
       <LabelStyle><scale>0</scale></LabelStyle>
     </Style>
-    <Placemark>
-      <name>CMC Energy Services</name>
-      <description><![CDATA[Display Name: CMC<br>Town: Wallingford<br>Phone: (888) 403-3500<br>Services: Home energy solutions, Income eligible home energy solutions, Advanced Duct Sealing with Aeroseal, Ductwork cleaning]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-72.791152617078,41.491245605985,0</coordinates></Point>
-    </Placemark>
     <Placemark>
       <name>CT Weatherproof Insulation</name>
       <description><![CDATA[Display Name: CWI<br>Town: Fairfield<br>Phone:  203-813-1597<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
@@ -31,12 +25,6 @@
       <Point><coordinates>-72.719672019821,41.621993958932,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Energy Efficiencies Solutions</name>
-      <description><![CDATA[Display Name: EES<br>Town: Windsor<br>Phone: 860-580-9076<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-72.638779410647,41.860837280193,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Home Comfort Practice</name>
       <description><![CDATA[Display Name: HCP<br>Town: Stratford<br>Phone: (475) 242-0247<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
@@ -47,18 +35,6 @@
       <description><![CDATA[Display Name: HE Soln<br>Town: Stratford<br>Phone: 203-307-5395<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Plumbing, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.138784861069,41.196367044786,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Home Doctor of America</name>
-      <description><![CDATA[Display Name: Home Doctor<br>Town:  Sandy Hook<br>Phone: (203) 405-3040<br>Services: Home energy solutions, Income eligible home energy solutions, Advanced Duct Sealing with Aeroseal]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-73.240434531066,41.38394602865,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Lantern Energy</name>
-      <description><![CDATA[Display Name: Lantern Energy<br>Town: Glastonbury<br>Phone: (877) 878-3006 x109<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Advanced Duct Sealing with Aeroseal]]></description>
-      <styleUrl>#pt</styleUrl>
-      <Point><coordinates>-72.579797241888,41.711536660583,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>New England Smart Energy Group, LLC</name>
