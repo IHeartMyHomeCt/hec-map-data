@@ -62,7 +62,7 @@
       },
       "properties": {
         "name": "3C Electric",
-        "description": "Display Name: 3C Electric<br>Town: Hartford<br>Phone: (860) 218-8500<br>Services: Electrical",
+        "description": "Display Name: 3C Electric<br>Town: Hartford<br>Phone: (860) 218-8500<br>Services: Heat pump air conditioning installation, Electrical, Heating system installation",
         "business_name": "3C Electric",
         "address": "50 Francis Ave Hartford CT 06106",
         "town": "Hartford",
@@ -73,7 +73,7 @@
         "service_attic": "No",
         "service_bsmt": "No",
         "service_controls": "No",
-        "service_cool": "No",
+        "service_cool": "Yes",
         "service_cool_ie": "No",
         "service_dhw": "No",
         "service_dhw_ie": "No",
@@ -82,7 +82,7 @@
         "service_ev": "No",
         "service_gshp": "No",
         "service_handy": "No",
-        "service_heat": "No",
+        "service_heat": "Yes",
         "service_heat_ie": "No",
         "service_hes": "No",
         "service_hes_ie": "No",
@@ -99,7 +99,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Electrical"
+        "services": "Heat pump air conditioning installation, Electrical, Heating system installation"
       }
     },
     {
@@ -416,7 +416,7 @@
       },
       "properties": {
         "name": "Action Air Systems",
-        "description": "Display Name: Action Air Systems<br>Town: Manchester<br>Phone: (860) 645-8838<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation",
+        "description": "Display Name: Action Air Systems<br>Town: Manchester<br>Phone: (860) 645-8838<br>Services: Plumbing, Heat pump air conditioning installation, Heat pump water heating installation, Heating system installation",
         "business_name": "Action Air Systems",
         "address": "131 Adams Street Manchester CT 06042",
         "town": "Manchester",
@@ -444,7 +444,7 @@
         "service_lead": "No",
         "service_mold": "No",
         "service_other": "No",
-        "service_plumb": "No",
+        "service_plumb": "Yes",
         "service_pv": "No",
         "service_roof": "No",
         "service_storage": "No",
@@ -453,7 +453,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation"
+        "services": "Plumbing, Heat pump air conditioning installation, Heat pump water heating installation, Heating system installation"
       }
     },
     {
@@ -824,7 +824,7 @@
       },
       "properties": {
         "name": "All Phase",
-        "description": "Display Name: All Phase<br>Town: East Haven<br>Phone: 203-361-2472<br>Services: Plumbing, Heating system installation, Heat pump air conditioning installation, Ductwork cleaning",
+        "description": "Display Name: All Phase<br>Town: East Haven<br>Phone: 203-361-2472<br>Services: Electrical, Heat pump air conditioning installation, Ductwork cleaning, Heating system installation, Plumbing",
         "business_name": "All Phase",
         "address": "150 Bradley St East Haven CT 06512",
         "town": "East Haven",
@@ -840,7 +840,7 @@
         "service_dhw": "No",
         "service_dhw_ie": "No",
         "service_duct_clean": "Yes",
-        "service_elect": "No",
+        "service_elect": "Yes",
         "service_ev": "No",
         "service_gshp": "No",
         "service_handy": "No",
@@ -861,7 +861,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Plumbing, Heating system installation, Heat pump air conditioning installation, Ductwork cleaning"
+        "services": "Electrical, Heat pump air conditioning installation, Ductwork cleaning, Heating system installation, Plumbing"
       }
     },
     {
@@ -926,7 +926,7 @@
       },
       "properties": {
         "name": "Amp'd Enterprises",
-        "description": "Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Ductwork cleaning, Mold remediation",
+        "description": "Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Attic insulation, Basement insulation, Ductwork cleaning, Wall insulation, Mold remediation",
         "business_name": "Amp'd",
         "address": "3 Reseearch Dr Branford CT 06405",
         "town": "Branford",
@@ -934,8 +934,8 @@
         "website": "https://www.ampdct.com/",
         "service_aeroseal": "No",
         "service_alm": "No",
-        "service_attic": "No",
-        "service_bsmt": "No",
+        "service_attic": "Yes",
+        "service_bsmt": "Yes",
         "service_controls": "No",
         "service_cool": "No",
         "service_cool_ie": "No",
@@ -959,11 +959,11 @@
         "service_roof": "No",
         "service_storage": "No",
         "service_vrm": "No",
-        "service_wall": "No",
+        "service_wall": "Yes",
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Ductwork cleaning, Mold remediation"
+        "services": "Attic insulation, Basement insulation, Ductwork cleaning, Wall insulation, Mold remediation"
       }
     },
     {
@@ -1230,7 +1230,7 @@
       },
       "properties": {
         "name": "Brown Roofing",
-        "description": "Display Name: Brown<br>Town: Seymour<br>Phone: (203) 723-1372<br>Services: Roofing replacement or repairs",
+        "description": "Display Name: Brown<br>Town: Seymour<br>Phone: (203) 723-1372<br>Services: Roofing replacement or repairs, Window upgrade and installation",
         "business_name": "Brown",
         "address": "12 Progress Ave Seymour CT 06483",
         "town": "Seymour",
@@ -1265,9 +1265,9 @@
         "service_vrm": "No",
         "service_wall": "No",
         "service_wall_ie": "No",
-        "service_windows": "No",
+        "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": "Roofing replacement or repairs"
+        "services": "Roofing replacement or repairs, Window upgrade and installation"
       }
     },
     {
@@ -1281,7 +1281,7 @@
       },
       "properties": {
         "name": "Busy Bee Services LLC",
-        "description": "Display Name: Busy Bee<br>Town: Farmington<br>Phone: (860) 325-3087<br>Services: Plumbing, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation, Ductwork cleaning",
+        "description": "Display Name: Busy Bee<br>Town: Farmington<br>Phone: (860) 325-3087<br>Services: Heat pump air conditioning installation, Heat pump water heating installation, Ductwork cleaning, Heating system installation, Plumbing, Electric Vehicle charger or car purchase, Electrical",
         "business_name": "Busy Bee",
         "address": "7 Eastview Drive Farmington CT 06032",
         "town": "Farmington",
@@ -1297,8 +1297,8 @@
         "service_dhw": "Yes",
         "service_dhw_ie": "No",
         "service_duct_clean": "Yes",
-        "service_elect": "No",
-        "service_ev": "No",
+        "service_elect": "Yes",
+        "service_ev": "Yes",
         "service_gshp": "No",
         "service_handy": "No",
         "service_heat": "Yes",
@@ -1318,7 +1318,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Plumbing, Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation, Ductwork cleaning"
+        "services": "Heat pump air conditioning installation, Heat pump water heating installation, Ductwork cleaning, Heating system installation, Plumbing, Electric Vehicle charger or car purchase, Electrical"
       }
     },
     {
@@ -1941,7 +1941,7 @@
       },
       "properties": {
         "name": "Cornwall Plumbing & Heating LLC",
-        "description": "Display Name: Cornwall Plumbing & Heating LLC<br>Town: Canaan<br>Phone: (860) 672-6350<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation",
+        "description": "Display Name: Cornwall Plumbing & Heating LLC<br>Town: Canaan<br>Phone: (860) 672-6350<br>Services: Heat pump air conditioning installation, Plumbing, Heating system installation, Heat pump water heating installation",
         "business_name": "Cornwall Plumbing & Heating LLC",
         "address": "8 Gandolfo Drive Canaan CT 06018",
         "town": "Canaan",
@@ -1969,7 +1969,7 @@
         "service_lead": "No",
         "service_mold": "No",
         "service_other": "No",
-        "service_plumb": "No",
+        "service_plumb": "Yes",
         "service_pv": "No",
         "service_roof": "No",
         "service_storage": "No",
@@ -1978,7 +1978,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation"
+        "services": "Heat pump air conditioning installation, Plumbing, Heating system installation, Heat pump water heating installation"
       }
     },
     {
@@ -2144,14 +2144,14 @@
       },
       "properties": {
         "name": "CT Asbestos Contracting LLC",
-        "description": "Display Name: CT Asbestos<br>Town: New Haven<br>Phone: (203) 589-4340",
+        "description": "Display Name: CT Asbestos<br>Town: New Haven<br>Phone: (203) 589-4340<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation",
         "business_name": "CT Asbestos",
         "address": "64 Ashland Pl New Haven 06513",
         "town": "New Haven",
         "phone": "(203) 589-4340",
         "website": "https://www.ctasbestoscontracting.com/",
         "service_aeroseal": "No",
-        "service_alm": "No",
+        "service_alm": "Yes",
         "service_attic": "No",
         "service_bsmt": "No",
         "service_controls": "No",
@@ -2170,17 +2170,18 @@
         "service_hes_ie": "No",
         "service_kt": "No",
         "service_lead": "No",
-        "service_mold": "No",
+        "service_mold": "Yes",
         "service_other": "No",
         "service_plumb": "No",
         "service_pv": "No",
         "service_roof": "No",
         "service_storage": "No",
-        "service_vrm": "No",
+        "service_vrm": "Yes",
         "service_wall": "No",
         "service_wall_ie": "No",
         "service_windows": "No",
-        "service_windows_ie": "No"
+        "service_windows_ie": "No",
+        "services": "Asbestos remediation, Mold remediation, Vermiculite remediation"
       }
     },
     {
@@ -2295,7 +2296,7 @@
       },
       "properties": {
         "name": "Degree Incorporated",
-        "description": "Display Name: Degree Incorporated<br>Town: Glastonbury<br>Phone: (860) 272-8789<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation",
+        "description": "Display Name: Degree Incorporated<br>Town: Glastonbury<br>Phone: (860) 272-8789<br>Services: Heat pump air conditioning installation, Electrical, Heating system installation, Plumbing, Heat pump water heating installation",
         "business_name": "Degree Incorporated",
         "address": "160 Oak Street Glastonbury CT 06033",
         "town": "Glastonbury",
@@ -2311,7 +2312,7 @@
         "service_dhw": "Yes",
         "service_dhw_ie": "No",
         "service_duct_clean": "No",
-        "service_elect": "No",
+        "service_elect": "Yes",
         "service_ev": "No",
         "service_gshp": "No",
         "service_handy": "No",
@@ -2323,7 +2324,7 @@
         "service_lead": "No",
         "service_mold": "No",
         "service_other": "No",
-        "service_plumb": "No",
+        "service_plumb": "Yes",
         "service_pv": "No",
         "service_roof": "No",
         "service_storage": "No",
@@ -2332,7 +2333,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation"
+        "services": "Heat pump air conditioning installation, Electrical, Heating system installation, Plumbing, Heat pump water heating installation"
       }
     },
     {
@@ -2646,7 +2647,7 @@
       },
       "properties": {
         "name": "East Coast Mechanical, Inc. Heating & Cooling",
-        "description": "Display Name: EC Mech<br>Town: Cheshire<br>Phone: 12032726676<br>Services: Heat pump water heating installation, Heating system installation",
+        "description": "Display Name: EC Mech<br>Town: Cheshire<br>Phone: 12032726676<br>Services: Heat pump air conditioning installation, Heating system installation, Heat pump water heating installation, HVAC control integration installation",
         "business_name": "EC Mech",
         "address": "1187 Highland Ave Cheshire CT 06410",
         "town": "Cheshire",
@@ -2656,8 +2657,8 @@
         "service_alm": "No",
         "service_attic": "No",
         "service_bsmt": "No",
-        "service_controls": "No",
-        "service_cool": "No",
+        "service_controls": "Yes",
+        "service_cool": "Yes",
         "service_cool_ie": "No",
         "service_dhw": "Yes",
         "service_dhw_ie": "No",
@@ -2683,7 +2684,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation"
+        "services": "Heat pump air conditioning installation, Heating system installation, Heat pump water heating installation, HVAC control integration installation"
       }
     },
     {
@@ -2901,7 +2902,7 @@
       },
       "properties": {
         "name": "Environmental Contracting & Demolition, LLC",
-        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation",
+        "description": "Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Attic insulation, Basement insulation, Lead remediation, Mold remediation, Wall insulation, Asbestos remediation, Vermiculite remediation",
         "business_name": "ENCO",
         "address": "70 West Liberty Street Waterbury CT 06706",
         "town": "Waterbury",
@@ -2909,8 +2910,8 @@
         "website": "https://www.encoct.com",
         "service_aeroseal": "No",
         "service_alm": "Yes",
-        "service_attic": "No",
-        "service_bsmt": "No",
+        "service_attic": "Yes",
+        "service_bsmt": "Yes",
         "service_controls": "No",
         "service_cool": "No",
         "service_cool_ie": "No",
@@ -2926,7 +2927,7 @@
         "service_hes": "No",
         "service_hes_ie": "No",
         "service_kt": "No",
-        "service_lead": "No",
+        "service_lead": "Yes",
         "service_mold": "Yes",
         "service_other": "No",
         "service_plumb": "No",
@@ -2934,11 +2935,11 @@
         "service_roof": "No",
         "service_storage": "No",
         "service_vrm": "Yes",
-        "service_wall": "No",
+        "service_wall": "Yes",
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Asbestos remediation, Mold remediation, Vermiculite remediation"
+        "services": "Attic insulation, Basement insulation, Lead remediation, Mold remediation, Wall insulation, Asbestos remediation, Vermiculite remediation"
       }
     },
     {
@@ -3002,7 +3003,7 @@
       },
       "properties": {
         "name": "Environmental Control, LLC",
-        "description": "Display Name: Environmental Control, LLC<br>Town: Stratford<br>Phone: (203) 375-5228<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation",
+        "description": "Display Name: Environmental Control, LLC<br>Town: Stratford<br>Phone: (203) 375-5228<br>Services: Heat pump air conditioning installation, Ground source heat pump installation, Heating system installation, Plumbing, Heat pump water heating installation",
         "business_name": "Environmental Control, LLC",
         "address": "1265 Woodend Road Stratford CT 06614",
         "town": "Stratford",
@@ -3020,7 +3021,7 @@
         "service_duct_clean": "No",
         "service_elect": "No",
         "service_ev": "No",
-        "service_gshp": "No",
+        "service_gshp": "Yes",
         "service_handy": "No",
         "service_heat": "Yes",
         "service_heat_ie": "No",
@@ -3030,7 +3031,7 @@
         "service_lead": "No",
         "service_mold": "No",
         "service_other": "No",
-        "service_plumb": "No",
+        "service_plumb": "Yes",
         "service_pv": "No",
         "service_roof": "No",
         "service_storage": "No",
@@ -3039,7 +3040,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation"
+        "services": "Heat pump air conditioning installation, Ground source heat pump installation, Heating system installation, Plumbing, Heat pump water heating installation"
       }
     },
     {
@@ -3155,23 +3156,23 @@
       },
       "properties": {
         "name": "European Technology",
-        "description": "Display Name: European Technology<br>Town: East Granby<br>Phone: (413) 374-4460<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation",
+        "description": "Display Name: European Technology<br>Town: East Granby<br>Phone: (413) 374-4460<br>Services: Advanced Duct Sealing with Aeroseal, Heat pump air conditioning installation, Electrical, Heating system installation, Window upgrade and installation, Roofing replacement or repairs",
         "business_name": "European Technology",
         "address": "4 Miller Rd East Granby CT 06026",
         "town": "East Granby",
         "phone": "(413) 374-4460",
         "website": "https://www.etgohome.us",
-        "service_aeroseal": "No",
+        "service_aeroseal": "Yes",
         "service_alm": "No",
         "service_attic": "No",
         "service_bsmt": "No",
         "service_controls": "No",
         "service_cool": "Yes",
         "service_cool_ie": "No",
-        "service_dhw": "Yes",
+        "service_dhw": "No",
         "service_dhw_ie": "No",
         "service_duct_clean": "No",
-        "service_elect": "No",
+        "service_elect": "Yes",
         "service_ev": "No",
         "service_gshp": "No",
         "service_handy": "No",
@@ -3185,14 +3186,14 @@
         "service_other": "No",
         "service_plumb": "No",
         "service_pv": "No",
-        "service_roof": "No",
+        "service_roof": "Yes",
         "service_storage": "No",
         "service_vrm": "No",
         "service_wall": "No",
         "service_wall_ie": "No",
-        "service_windows": "No",
+        "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation"
+        "services": "Advanced Duct Sealing with Aeroseal, Heat pump air conditioning installation, Electrical, Heating system installation, Window upgrade and installation, Roofing replacement or repairs"
       }
     },
     {
@@ -3206,23 +3207,23 @@
       },
       "properties": {
         "name": "FanMan Inc",
-        "description": "Display Name: FanMan<br>Town: Mooresville<br>Phone: (704) 759-9964",
+        "description": "Display Name: FanMan<br>Town: Mooresville<br>Phone: (704) 759-9964<br>Services: Advanced Duct Sealing with Aeroseal, Attic insulation, Electrical, Window upgrade and installation, Wall insulation, Basement insulation",
         "business_name": "FanMan",
         "address": "119 N. Main St. Mooresville NC 28115",
         "town": "Mooresville",
         "phone": "(704) 759-9964",
         "website": "https://www.fanmaninc.com/",
-        "service_aeroseal": "No",
+        "service_aeroseal": "Yes",
         "service_alm": "No",
-        "service_attic": "No",
-        "service_bsmt": "No",
+        "service_attic": "Yes",
+        "service_bsmt": "Yes",
         "service_controls": "No",
         "service_cool": "No",
         "service_cool_ie": "No",
         "service_dhw": "No",
         "service_dhw_ie": "No",
         "service_duct_clean": "No",
-        "service_elect": "No",
+        "service_elect": "Yes",
         "service_ev": "No",
         "service_gshp": "No",
         "service_handy": "No",
@@ -3239,10 +3240,11 @@
         "service_roof": "No",
         "service_storage": "No",
         "service_vrm": "No",
-        "service_wall": "No",
+        "service_wall": "Yes",
         "service_wall_ie": "No",
-        "service_windows": "No",
-        "service_windows_ie": "No"
+        "service_windows": "Yes",
+        "service_windows_ie": "No",
+        "services": "Advanced Duct Sealing with Aeroseal, Attic insulation, Electrical, Window upgrade and installation, Wall insulation, Basement insulation"
       }
     },
     {
@@ -3509,7 +3511,7 @@
       },
       "properties": {
         "name": "Green Power Energy",
-        "description": "Display Name: GPE<br>Town: Durham<br>Phone: (844) 584-0008<br>Services: Solar installation, Solar battery storage, Electrical",
+        "description": "Display Name: GPE<br>Town: Durham<br>Phone: (844) 584-0008<br>Services: Electric Vehicle charger or car purchase, Electrical, Solar installation, Roofing replacement or repairs, Solar battery storage",
         "business_name": "GPE",
         "address": "42 Ozick Drive, Durham CT 06422",
         "town": "Durham",
@@ -3526,7 +3528,7 @@
         "service_dhw_ie": "No",
         "service_duct_clean": "No",
         "service_elect": "Yes",
-        "service_ev": "No",
+        "service_ev": "Yes",
         "service_gshp": "No",
         "service_handy": "No",
         "service_heat": "No",
@@ -3539,14 +3541,14 @@
         "service_other": "No",
         "service_plumb": "No",
         "service_pv": "Yes",
-        "service_roof": "No",
+        "service_roof": "Yes",
         "service_storage": "Yes",
         "service_vrm": "No",
         "service_wall": "No",
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Solar installation, Solar battery storage, Electrical"
+        "services": "Electric Vehicle charger or car purchase, Electrical, Solar installation, Roofing replacement or repairs, Solar battery storage"
       }
     },
     {
@@ -4220,7 +4222,7 @@
       },
       "properties": {
         "name": "Justin Nuno Hvac & Plumbing LLC",
-        "description": "Display Name: Justin Nuno Hvac & Plumbing LLC<br>Town: North Windham<br>Phone: (959) 444-6688<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation",
+        "description": "Display Name: Justin Nuno Hvac & Plumbing LLC<br>Town: North Windham<br>Phone: (959) 444-6688<br>Services: Heat pump air conditioning installation, Heating system installation, Plumbing, Heat pump water heating installation",
         "business_name": "Justin Nuno Hvac & Plumbing LLC",
         "address": "14 Station Road #2 North Windham CT 06256",
         "town": "North Windham",
@@ -4248,7 +4250,7 @@
         "service_lead": "No",
         "service_mold": "No",
         "service_other": "No",
-        "service_plumb": "No",
+        "service_plumb": "Yes",
         "service_pv": "No",
         "service_roof": "No",
         "service_storage": "No",
@@ -4257,7 +4259,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation"
+        "services": "Heat pump air conditioning installation, Heating system installation, Plumbing, Heat pump water heating installation"
       }
     },
     {
@@ -4927,7 +4929,7 @@
       },
       "properties": {
         "name": "Mountain Top Mechanical LLC",
-        "description": "Display Name: Mountain Top Mechanical LLC<br>Town: Litchfield<br>Phone: (860) 792-3387<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation",
+        "description": "Display Name: Mountain Top Mechanical LLC<br>Town: Litchfield<br>Phone: (860) 792-3387<br>Services: Plumbing, Heat pump air conditioning installation, Heat pump water heating installation, Heating system installation",
         "business_name": "Mountain Top Mechanical LLC",
         "address": "50 Thomaston Road Litchfield CT 06759",
         "town": "Litchfield",
@@ -4955,7 +4957,7 @@
         "service_lead": "No",
         "service_mold": "No",
         "service_other": "No",
-        "service_plumb": "No",
+        "service_plumb": "Yes",
         "service_pv": "No",
         "service_roof": "No",
         "service_storage": "No",
@@ -4964,7 +4966,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation"
+        "services": "Plumbing, Heat pump air conditioning installation, Heat pump water heating installation, Heating system installation"
       }
     },
     {
@@ -5127,7 +5129,7 @@
       },
       "properties": {
         "name": "Nor'East Exteriors",
-        "description": "Display Name: NE Ext<br>Town: Westbrook<br>Phone: (860) 7173949<br>Services: Roofing replacement or repairs",
+        "description": "Display Name: NE Ext<br>Town: Westbrook<br>Phone: (860) 7173949<br>Services: Roofing replacement or repairs, Window upgrade and installation, Water",
         "business_name": "NE Ext",
         "address": "39 Grove Beach Road North Westbrook CT 06498",
         "town": "Westbrook",
@@ -5162,9 +5164,9 @@
         "service_vrm": "No",
         "service_wall": "No",
         "service_wall_ie": "No",
-        "service_windows": "No",
+        "service_windows": "Yes",
         "service_windows_ie": "No",
-        "services": "Roofing replacement or repairs"
+        "services": "Roofing replacement or repairs, Window upgrade and installation, Water"
       }
     },
     {
@@ -6289,7 +6291,7 @@
       },
       "properties": {
         "name": "SAVKAT",
-        "description": "Display Name: SAVKAT<br>Town: Bristol<br>Phone: (860) 288-7557<br>Services: Solar installation",
+        "description": "Display Name: SAVKAT<br>Town: Bristol<br>Phone: (860) 288-7557<br>Services: Electrical, Solar installation, Roofing replacement or repairs, Solar battery storage",
         "business_name": "SAVKAT",
         "address": "71 Dolphin Road Bristol CT 06010",
         "town": "Bristol",
@@ -6305,7 +6307,7 @@
         "service_dhw": "No",
         "service_dhw_ie": "No",
         "service_duct_clean": "No",
-        "service_elect": "No",
+        "service_elect": "Yes",
         "service_ev": "No",
         "service_gshp": "No",
         "service_handy": "No",
@@ -6319,14 +6321,14 @@
         "service_other": "No",
         "service_plumb": "No",
         "service_pv": "Yes",
-        "service_roof": "No",
-        "service_storage": "No",
+        "service_roof": "Yes",
+        "service_storage": "Yes",
         "service_vrm": "No",
         "service_wall": "No",
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Solar installation"
+        "services": "Electrical, Solar installation, Roofing replacement or repairs, Solar battery storage"
       }
     },
     {
@@ -6442,7 +6444,7 @@
       },
       "properties": {
         "name": "Seymour Energy Services LLC.",
-        "description": "Display Name: Seymour Energy Services LLC.<br>Town: Seymour<br>Phone: (203) 463-2257<br>Services: Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation",
+        "description": "Display Name: Seymour Energy Services LLC.<br>Town: Seymour<br>Phone: (203) 463-2257<br>Services: Electrical, Plumbing",
         "business_name": "Seymour Energy Services LLC.",
         "address": "145 Bank St Seymour CT 06483",
         "town": "Seymour",
@@ -6453,16 +6455,16 @@
         "service_attic": "No",
         "service_bsmt": "No",
         "service_controls": "No",
-        "service_cool": "Yes",
+        "service_cool": "No",
         "service_cool_ie": "No",
-        "service_dhw": "Yes",
+        "service_dhw": "No",
         "service_dhw_ie": "No",
         "service_duct_clean": "No",
-        "service_elect": "No",
+        "service_elect": "Yes",
         "service_ev": "No",
         "service_gshp": "No",
         "service_handy": "No",
-        "service_heat": "Yes",
+        "service_heat": "No",
         "service_heat_ie": "No",
         "service_hes": "No",
         "service_hes_ie": "No",
@@ -6470,7 +6472,7 @@
         "service_lead": "No",
         "service_mold": "No",
         "service_other": "No",
-        "service_plumb": "No",
+        "service_plumb": "Yes",
         "service_pv": "No",
         "service_roof": "No",
         "service_storage": "No",
@@ -6479,7 +6481,7 @@
         "service_wall_ie": "No",
         "service_windows": "No",
         "service_windows_ie": "No",
-        "services": "Heat pump water heating installation, Heating system installation, Heat pump air conditioning installation"
+        "services": "Electrical, Plumbing"
       }
     },
     {
