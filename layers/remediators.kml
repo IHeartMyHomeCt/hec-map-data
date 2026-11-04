@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Health and safety remediators</name>
-    <description>Generated 2026-11-03 04:55 EST from Airtable Contractors / Health and safety remediators. Do not edit by hand.</description>
+    <description>Generated 2026-11-04 04:55 EST from Airtable Contractors / Health and safety remediators. Do not edit by hand.</description>
     <Style id="pt">
       <IconStyle>
         <color>ffb4237c</color>
@@ -20,7 +20,7 @@
     </Placemark>
     <Placemark>
       <name>Amp&apos;d Enterprises</name>
-      <description><![CDATA[Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Ductwork cleaning, Mold remediation]]></description>
+      <description><![CDATA[Display Name: Amp'd<br>Town: Branford<br>Phone: 800-924.2247<br>Services: Attic insulation, Basement insulation, Ductwork cleaning, Wall insulation, Mold remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-72.77046,41.30392,0</coordinates></Point>
     </Placemark>
@@ -43,6 +43,24 @@
       <Point><coordinates>-73.114131423436,41.46531376211,0</coordinates></Point>
     </Placemark>
     <Placemark>
+      <name>CT Asbestos Contracting LLC</name>
+      <description><![CDATA[Display Name: CT Asbestos<br>Town: New Haven<br>Phone: (203) 589-4340<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.8898813,41.289866,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Energy Saver of Connecticut</name>
+      <description><![CDATA[Display Name: Dr. Energy Saver of Connecticut<br>Phone: (800) 541-0487<br>Services: Water, Mold remediation]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-73.055053637232,41.391307516334,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dynamic Building &amp; Energy Solutions</name>
+      <description><![CDATA[Display Name: DynaBuild<br>Town: Stonington<br>Phone: 8605358118<br>Services: Attic insulation, Basement insulation, Home energy solutions, Mold remediation, Wall insulation, Window upgrade and installation]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-71.90166,41.38383,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
       <name>Environmental Group Inc.</name>
       <description><![CDATA[Display Name: EGI<br>Town: Middletown<br>Phone: O: 860-259-5257 C: 860-462-7204<br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
       <styleUrl>#pt</styleUrl>
@@ -50,15 +68,33 @@
     </Placemark>
     <Placemark>
       <name>Environmental Contracting &amp; Demolition, LLC</name>
-      <description><![CDATA[Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Asbestos remediation, Mold remediation, Vermiculite remediation]]></description>
+      <description><![CDATA[Display Name: ENCO<br>Town: Waterbury<br>Phone: cell preferred# 203-627-5341 203-754-5959 office <br>Services: Attic insulation, Basement insulation, Lead remediation, Mold remediation, Wall insulation, Asbestos remediation, Vermiculite remediation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.039700945214,41.547739819888,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fogarty&apos;s Home Services</name>
+      <description><![CDATA[Display Name: Fogarty's Home Services<br>Phone: (860) 219-0499<br>Services: Attic insulation, Basement insulation, Mold remediation, Window upgrade and installation, Wall insulation, Water]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.708416136946,41.881445924629,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Home Comfort Practice</name>
       <description><![CDATA[Display Name: HCP<br>Town: Stratford<br>Phone: (475) 242-0247<br>Services: Home energy solutions, Income eligible home energy solutions, Attic insulation, Income eligible attic insulation, Basement insulation, Income eligible basement insulation, Wall insulation, Income eligible wall insulation, Window upgrade and installation, Income eligible window upgrade and installation, Heat pump water heating installation, Income eligible heat pump water heating installation, Heating system installation, Income eligible Heating system installation, Heat pump air conditioning installation, Income eligible heat pump air conditioning installation]]></description>
       <styleUrl>#pt</styleUrl>
       <Point><coordinates>-73.144407759038,41.1737297112,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nealon Energy Solutions, LLC</name>
+      <description><![CDATA[Display Name: Nealon Energy Solutions, LLC<br>Phone: (860) 669-0333<br>Services: Advanced Duct Sealing with Aeroseal, Attic insulation, Basement insulation, Home energy solutions, Wall insulation, Mold remediation]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.491797717521,41.274326076452,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Relevant Energy Concepts LLC</name>
+      <description><![CDATA[Display Name: Relevant Energy Concepts LLC<br>Town: Enfield <br>Phone: (413) 693-6573<br>Services: Mold remediation]]></description>
+      <styleUrl>#pt</styleUrl>
+      <Point><coordinates>-72.514072923521,41.991068035823,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Talevi Enterprises Inc</name>
