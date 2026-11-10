@@ -6704,6 +6704,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.8473709,
+          41.8539014
+        ]
+      },
+      "properties": {
+        "geoid": "09015904101",
+        "name": "Census Tract 9041.01",
+        "town": "",
+        "total": 1,
+        "undefined": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.0091181,
           41.6939604
         ]
