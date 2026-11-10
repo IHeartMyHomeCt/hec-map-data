@@ -758,6 +758,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.84866326042133,
+          41.83784328663378
+        ]
+      },
+      "properties": {
+        "name": "Killingly",
+        "town": "Killingly",
+        "total": 1,
+        "properties": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.56632022273718,
           41.37327104729282
         ]
