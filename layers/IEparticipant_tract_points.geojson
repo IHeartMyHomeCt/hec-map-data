@@ -60,24 +60,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.1499188,
-          41.197596
-        ]
-      },
-      "properties": {
-        "geoid": "09001080100",
-        "name": "Census Tract 801",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.1187218,
           41.2094041
         ]
@@ -132,42 +114,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.7630153,
-          41.6775276
-        ]
-      },
-      "properties": {
-        "geoid": "09003416300",
-        "name": "Census Tract 4163",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.8111845,
-          41.6560776
-        ]
-      },
-      "properties": {
-        "geoid": "09003416400",
-        "name": "Census Tract 4164",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.7992537,
           41.6915316
         ]
@@ -179,24 +125,6 @@
         "total": 1,
         "gap": 0,
         "lisc": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.6586503,
-          41.9171764
-        ]
-      },
-      "properties": {
-        "geoid": "09003476300",
-        "name": "Census Tract 4763",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
       }
     },
     {
@@ -258,24 +186,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.1037435,
-          41.3398459
-        ]
-      },
-      "properties": {
-        "geoid": "09009120200",
-        "name": "Census Tract 1202",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.9326303,
           41.2995898
         ]
@@ -286,42 +196,6 @@
         "town": "",
         "total": 1,
         "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.9325811,
-          41.2834562
-        ]
-      },
-      "properties": {
-        "geoid": "09009140400",
-        "name": "Census Tract 1404",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.9510224,
-          41.3169693
-        ]
-      },
-      "properties": {
-        "geoid": "09009140900",
-        "name": "Census Tract 1409",
-        "town": "",
-        "total": 2,
-        "gap": 2,
         "lisc": 0
       }
     },
@@ -348,24 +222,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.9566282,
-          41.3366189
-        ]
-      },
-      "properties": {
-        "geoid": "09009141301",
-        "name": "Census Tract 1413.01",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.9459401,
           41.3240789
         ]
@@ -373,42 +229,6 @@
       "properties": {
         "geoid": "09009141400",
         "name": "Census Tract 1414",
-        "town": "",
-        "total": 4,
-        "gap": 4,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.9339147,
-          41.3285795
-        ]
-      },
-      "properties": {
-        "geoid": "09009141500",
-        "name": "Census Tract 1415",
-        "town": "",
-        "total": 3,
-        "gap": 3,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.9339453,
-          41.3185122
-        ]
-      },
-      "properties": {
-        "geoid": "09009141600",
-        "name": "Census Tract 1416",
         "town": "",
         "total": 1,
         "gap": 1,
@@ -438,60 +258,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.8944818,
-          41.3195622
-        ]
-      },
-      "properties": {
-        "geoid": "09009142500",
-        "name": "Census Tract 1425",
-        "town": "",
-        "total": 2,
-        "gap": 2,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.8736415,
-          41.3271237
-        ]
-      },
-      "properties": {
-        "geoid": "09009142601",
-        "name": "Census Tract 1426.01",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.8836483,
-          41.3015127
-        ]
-      },
-      "properties": {
-        "geoid": "09009142604",
-        "name": "Census Tract 1426.04",
-        "town": "",
-        "total": 2,
-        "gap": 2,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.9646532,
           41.2995606
         ]
@@ -500,8 +266,8 @@
         "geoid": "09009154101",
         "name": "Census Tract 1541.01",
         "town": "",
-        "total": 3,
-        "gap": 3,
+        "total": 2,
+        "gap": 2,
         "lisc": 0
       }
     },
@@ -518,8 +284,8 @@
         "geoid": "09009165400",
         "name": "Census Tract 1654",
         "town": "",
-        "total": 4,
-        "gap": 4,
+        "total": 2,
+        "gap": 2,
         "lisc": 0
       }
     },
@@ -538,24 +304,6 @@
         "town": "",
         "total": 1,
         "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.9508163,
-          41.3417057
-        ]
-      },
-      "properties": {
-        "geoid": "09009165700",
-        "name": "Census Tract 1657",
-        "town": "",
-        "total": 2,
-        "gap": 2,
         "lisc": 0
       }
     },
@@ -636,78 +384,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.8654736,
-          41.2510817
-        ]
-      },
-      "properties": {
-        "geoid": "09009180102",
-        "name": "Census Tract 1801.02",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.8607604,
-          41.3186082
-        ]
-      },
-      "properties": {
-        "geoid": "09009180500",
-        "name": "Census Tract 1805",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0405046,
-          41.5067164
-        ]
-      },
-      "properties": {
-        "geoid": "09009345100",
-        "name": "Census Tract 3451",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0785991,
-          41.5041897
-        ]
-      },
-      "properties": {
-        "geoid": "09009345400",
-        "name": "Census Tract 3454",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.0344111,
           41.5653
         ]
@@ -744,24 +420,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0135921,
-          41.550804
-        ]
-      },
-      "properties": {
-        "geoid": "09009351300",
-        "name": "Census Tract 3513",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.0267997,
           41.5397868
         ]
@@ -791,24 +449,6 @@
         "total": 1,
         "gap": 0,
         "lisc": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0005242,
-          41.5322116
-        ]
-      },
-      "properties": {
-        "geoid": "09009352800",
-        "name": "Census Tract 3528",
-        "town": "",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
       }
     }
   ]
