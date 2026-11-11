@@ -57,23 +57,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.08234969080596,
-          41.32257623519453
-        ]
-      },
-      "properties": {
-        "name": "Derby",
-        "town": "Derby",
-        "total": 1,
-        "gap": 1,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.93088780735344,
           41.38141960995226
         ]
@@ -81,8 +64,8 @@
       "properties": {
         "name": "Hamden",
         "town": "Hamden",
-        "total": 10,
-        "gap": 9,
+        "total": 5,
+        "gap": 4,
         "lisc": 1
       }
     },
@@ -125,23 +108,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.05177296096022,
-          41.49174895387792
-        ]
-      },
-      "properties": {
-        "name": "Naugatuck",
-        "town": "Naugatuck",
-        "total": 2,
-        "gap": 2,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.78518154515427,
           41.675241516226855
         ]
@@ -149,8 +115,8 @@
       "properties": {
         "name": "New Britain",
         "town": "New Britain",
-        "total": 3,
-        "gap": 2,
+        "total": 1,
+        "gap": 0,
         "lisc": 1
       }
     },
@@ -166,8 +132,8 @@
       "properties": {
         "name": "New Haven",
         "town": "New Haven",
-        "total": 21,
-        "gap": 20,
+        "total": 4,
+        "gap": 3,
         "lisc": 1
       }
     },
@@ -183,8 +149,8 @@
       "properties": {
         "name": "Norwalk",
         "town": "Norwalk",
-        "total": 3,
-        "gap": 1,
+        "total": 2,
+        "gap": 0,
         "lisc": 2
       }
     },
@@ -200,8 +166,8 @@
       "properties": {
         "name": "Stratford",
         "town": "Stratford",
-        "total": 5,
-        "gap": 2,
+        "total": 4,
+        "gap": 1,
         "lisc": 3
       }
     },
@@ -234,8 +200,8 @@
       "properties": {
         "name": "Waterbury",
         "town": "Waterbury",
-        "total": 9,
-        "gap": 2,
+        "total": 7,
+        "gap": 0,
         "lisc": 7
       }
     },
@@ -251,25 +217,8 @@
       "properties": {
         "name": "West Haven",
         "town": "West Haven",
-        "total": 3,
-        "gap": 3,
-        "lisc": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.65403211084661,
-          41.92546408661594
-        ]
-      },
-      "properties": {
-        "name": "Windsor Locks",
-        "town": "Windsor Locks",
-        "total": 1,
-        "gap": 1,
+        "total": 2,
+        "gap": 2,
         "lisc": 0
       }
     }
