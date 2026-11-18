@@ -429,8 +429,8 @@
       "properties": {
         "name": "East Hartford",
         "town": "East Hartford",
-        "total": 8,
-        "properties": 8
+        "total": 9,
+        "properties": 9
       }
     },
     {
@@ -605,8 +605,8 @@
       "properties": {
         "name": "Granby",
         "town": "Granby",
-        "total": 2,
-        "properties": 2
+        "total": 3,
+        "properties": 3
       }
     },
     {
@@ -973,8 +973,8 @@
       "properties": {
         "name": "New Britain",
         "town": "New Britain",
-        "total": 10,
-        "properties": 10
+        "total": 11,
+        "properties": 11
       }
     },
     {
