@@ -1315,6 +1315,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.7904889,
+          41.655444
+        ]
+      },
+      "properties": {
+        "geoid": "09003415700",
+        "name": "Census Tract 4157",
+        "town": "",
+        "total": 1,
+        "undefined": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.7806543,
           41.677705
         ]
@@ -1629,8 +1646,8 @@
         "geoid": "09003468102",
         "name": "Census Tract 4681.02",
         "town": "",
-        "total": 1,
-        "undefined": 1
+        "total": 2,
+        "undefined": 2
       }
     },
     {
@@ -2632,8 +2649,8 @@
         "geoid": "09003511100",
         "name": "Census Tract 5111",
         "town": "",
-        "total": 2,
-        "undefined": 2
+        "total": 3,
+        "undefined": 3
       }
     },
     {
